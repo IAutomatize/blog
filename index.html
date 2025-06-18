@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IAUTOMATIZE Blog - Seu Portal de Automação e Notícias Tech</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Blog de tecnologia, automação e inovação. Últimas notícias sobre IA, IoT e transformação digital.">
+    <meta name="keywords" content="automação, tecnologia, IA, IoT, blog tech">
+    <meta name="author" content="IAUTOMATIZE">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="IAUTOMATIZE Blog">
+    <meta property="og:description" content="Seu portal de automação e notícias tech">
+    <meta property="og:type" content="website">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    
+    <!-- Global Styles -->
+    <link rel="stylesheet" href="css/blog-global.css">
+</head>
+<body>
+    <!-- Progress Bar -->
+    <div class="progress-bar-container">
+        <div class="progress-bar" id="progressBar"></div>
+    </div>
+
+    <!-- Header -->
+    <header class="main-header" id="mainHeader">
+        <div class="container nav-container">
+            <div class="logo">
+                <a href="#hero">
+                    <span class="logo-i">I</span>AUTOMATIZE
+                </a>
+            </div>
+            <nav class="nav-links">
+                <a href="#ultimas-noticias" class="nav-link active">Notícias</a>
+                <a href="#categorias" class="nav-link">Categorias</a>
+                <a href="#sobre" class="nav-link">Sobre</a>
+                <a href="#contato" class="nav-link">Contato</a>
+            </nav>
+            <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Abrir Menu">
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+        <nav>
+            <a href="#ultimas-noticias" class="mobile-nav-link">Notícias</a>
+            <a href="#categorias" class="mobile-nav-link">Categorias</a>
+            <a href="#sobre" class="mobile-nav-link">Sobre</a>
+            <a href="#contato" class="mobile-nav-link">Contato</a>
+        </nav>
+    </div>
+
+    <main>
+        <!-- Hero Section -->
+        <section id="hero" class="section">
+            <div class="container" style="text-align: center; padding-top: 80px;">
+                <h1 class="hero-title gradient-text fade-in-on-scroll">O Futuro da Tecnologia em suas Mãos</h1>
+                <p class="hero-subtitle fade-in-on-scroll delay-200">Mantenha-se atualizado com as últimas inovações em automação, IA e transformação digital.</p>
+                <a href="#ultimas-noticias" class="btn btn-primary fade-in-on-scroll delay-400">Ver Últimas Notícias <i class="fas fa-arrow-down"></i></a>
+            </div>
+        </section>
+
+        <!-- Latest News -->
+        <section id="ultimas-noticias" class="section section-alt">
+            <div class="container">
+                <h2 class="section-title gradient-text fade-in-on-scroll">Últimas Notícias</h2>
+                <div class="articles-grid">
+                    <!-- Article Cards -->
+                    <article class="article-card fade-in-on-scroll">
+                        <div class="article-image">
+                            <img src="assets/images/articles/smart-home.jpg" alt="Casa Inteligente" loading="lazy">
+                        </div>
+                        <div class="article-content">
+                            <h3><a href="noticia2.html">Revolução da Casa Inteligente: Conforto e Segurança Automatizados</a></h3>
+                            <p class="article-excerpt">Descubra como a automação residencial está transformando nossa forma de viver...</p>
+                            <div class="article-meta">
+                                <span>Por Ana Paula</span>
+                                <time datetime="2025-06-17">17 de Junho de 2025</time>
+                            </div>
+                        </div>
+                    </article>
+                    
+                    <!-- Mais artigos aqui -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Categories -->
+        <section id="categorias" class="section">
+            <div class="container">
+                <h2 class="section-title gradient-text fade-in-on-scroll">Categorias</h2>
+                <div class="categories-grid">
+                    <div class="category-card fade-in-on-scroll">
+                        <i class="fas fa-robot"></i>
+                        <h3>Inteligência Artificial</h3>
+                        <p>Últimas novidades em IA e Machine Learning</p>
+                    </div>
+                    <div class="category-card fade-in-on-scroll">
+                        <i class="fas fa-home"></i>
+                        <h3>Automação Residencial</h3>
+                        <p>Smart homes e dispositivos conectados</p>
+                    </div>
+                    <!-- Mais categorias -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="main-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>IAUTOMATIZE</h3>
+                    <p>Seu portal de automação e notícias tech</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Links Rápidos</h4>
+                    <ul>
+                        <li><a href="#ultimas-noticias">Notícias</a></li>
+                        <li><a href="#categorias">Categorias</a></li>
+                        <li><a href="#sobre">Sobre</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 IAUTOMATIZE. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Global Scripts -->
+    <script src="js/blog-global.js"></script>
+</body>
+</html>
