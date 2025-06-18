@@ -8,6 +8,11 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    
+    # ADICIONE ESTAS DUAS LINHAS AQUI
+    permissions:
+      contents: write
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
