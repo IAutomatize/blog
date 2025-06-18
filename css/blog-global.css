@@ -608,11 +608,11 @@ strong {
     margin-bottom: 1rem;
 }
 
-/* Footer */
 .main-footer {
     background: var(--dark-lighter);
     padding: 3rem 0 1rem;
     margin-top: 4rem;
+    text-align: left; 
 }
 
 .footer-content {
