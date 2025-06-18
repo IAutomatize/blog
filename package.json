@@ -1,0 +1,18 @@
+{
+  "name": "iautomatize-blog",
+  "version": "1.0.0",
+  "description": "Blog de tecnologia e automação",
+  "scripts": {
+    "build": "npm run minify-css && npm run minify-js",
+    "minify-css": "cleancss -o dist/css/blog-global.min.css css/blog-global.css",
+    "minify-js": "uglifyjs js/blog-global.js -o dist/js/blog-global.min.js",
+    "serve": "http-server . -p 8080",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "devDependencies": {
+    "clean-css-cli": "^5.6.2",
+    "uglify-js": "^3.17.4",
+    "http-server": "^14.1.1",
+    "gh-pages": "^4.0.0"
+  }
+}
