@@ -516,3 +516,129 @@ strong {
         break-inside: avoid;
     }
 }
+
+/* Additions to blog-global.css */
+
+/* Article Grid */
+.articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.article-card {
+    background: var(--dark-light);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: var(--transition-speed);
+    box-shadow: var(--shadow-base);
+}
+
+.article-card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-hover);
+}
+
+.article-image {
+    height: 200px;
+    overflow: hidden;
+}
+
+.article-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: var(--transition-speed);
+}
+
+.article-card:hover .article-image img {
+    transform: scale(1.05);
+}
+
+.article-content {
+    padding: 1.5rem;
+}
+
+.article-content h3 a {
+    color: var(--white);
+    font-size: 1.2rem;
+    line-height: 1.4;
+}
+
+.article-excerpt {
+    color: var(--text-light-gray);
+    margin: 1rem 0;
+    line-height: 1.6;
+}
+
+.article-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    color: var(--text-light-gray);
+    margin-top: 1rem;
+}
+
+/* Categories Grid */
+.categories-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.category-card {
+    background: var(--dark-light);
+    padding: 2rem;
+    border-radius: 12px;
+    text-align: center;
+    transition: var(--transition-speed);
+    border: 2px solid transparent;
+}
+
+.category-card:hover {
+    border-color: var(--primary);
+    transform: translateY(-5px);
+}
+
+.category-card i {
+    font-size: 3rem;
+    color: var(--primary);
+    margin-bottom: 1rem;
+}
+
+/* Footer */
+.main-footer {
+    background: var(--dark-lighter);
+    padding: 3rem 0 1rem;
+    margin-top: 4rem;
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.footer-section h3,
+.footer-section h4 {
+    color: var(--primary);
+    margin-bottom: 1rem;
+}
+
+.footer-section ul {
+    list-style: none;
+}
+
+.footer-section ul li {
+    margin-bottom: 0.5rem;
+}
+
+.footer-bottom {
+    border-top: 1px solid var(--dark-light);
+    padding-top: 1rem;
+    text-align: center;
+    color: var(--text-light-gray);
+}
