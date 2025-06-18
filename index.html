@@ -1,148 +1,395 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IAUTOMATIZE Blog - Seu Portal de Automação e Notícias Tech</title>
-    
-    <!-- SEO Meta Tags -->
-    <meta name="description" content="Blog de tecnologia, automação e inovação. Últimas notícias sobre IA, IoT e transformação digital.">
-    <meta name="keywords" content="automação, tecnologia, IA, IoT, blog tech">
-    <meta name="author" content="IAUTOMATIZE">
-    
-    <!-- Open Graph -->
-    <meta property="og:title" content="IAUTOMATIZE Blog">
-    <meta property="og:description" content="Seu portal de automação e notícias tech">
-    <meta property="og:type" content="website">
-    
-    <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    
-    <!-- Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    
-    <!-- Global Styles -->
-    <link rel="stylesheet" href="../assets/css/blog-global.css">
-</head>
-<body>
-    <!-- Progress Bar -->
-    <div class="progress-bar-container">
-        <div class="progress-bar" id="progressBar"></div>
+ <head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>
+   IAUTOMATIZE Blog - Seu Portal de Automa&ccedil;&atilde;o e Not&iacute;cias Tech
+  </title>
+  <!-- SEO Meta Tags -->
+  <meta content="Blog de tecnologia, automa&ccedil;&atilde;o e inova&ccedil;&atilde;o. &Uacute;ltimas not&iacute;cias sobre IA, IoT e transforma&ccedil;&atilde;o digital." name="description">
+  <meta content="automa&ccedil;&atilde;o, tecnologia, IA, IoT, blog tech" name="keywords">
+  <meta content="IAUTOMATIZE" name="author">
+  <!-- Open Graph -->
+  <meta content="IAUTOMATIZE Blog" property="og:title">
+  <meta content="Seu portal de automa&ccedil;&atilde;o e not&iacute;cias tech" property="og:description">
+  <meta content="website" property="og:type">
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link crossorigin href="https://fonts.gstatic.com" rel="preconnect">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Icons -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  <!-- Global Styles -->
+  <link href="../assets/css/blog-global.css" rel="stylesheet">
+ </head>
+ <body>
+  <!-- Progress Bar -->
+  <div class="progress-bar-container">
+   <div class="progress-bar" id="progressBar">
+   </div>
+  </div>
+  <!-- Header -->
+  <header class="main-header" id="mainHeader">
+   <div class="container nav-container">
+    <div class="logo">
+     <a href="#hero">
+      <span class="logo-i">
+       IA
+      </span>
+      UTOMATIZE
+     </a>
     </div>
-
-    <!-- Header -->
-    <header class="main-header" id="mainHeader">
-        <div class="container nav-container">
-            <div class="logo">
-                <a href="#hero">
-                    <span class="logo-i">IA</span>UTOMATIZE
-                </a>
-            </div>
-            <nav class="nav-links">
-                <a href="#ultimas-noticias" class="nav-link active">Notícias</a>
-                <a href="#categorias" class="nav-link">Categorias</a>
-                <a href="#sobre" class="nav-link">Sobre</a>
-                <a href="#contato" class="nav-link">Contato</a>
-            </nav>
-            <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Abrir Menu">
-                <span class="hamburger-line"></span>
-                <span class="hamburger-line"></span>
-                <span class="hamburger-line"></span>
-            </button>
-        </div>
-    </header>
-
-    <!-- Mobile Menu -->
-    <div class="mobile-menu" id="mobileMenu">
-        <nav>
-            <a href="#ultimas-noticias" class="mobile-nav-link">Notícias</a>
-            <a href="#categorias" class="mobile-nav-link">Categorias</a>
-            <a href="#sobre" class="mobile-nav-link">Sobre</a>
-            <a href="#contato" class="mobile-nav-link">Contato</a>
-        </nav>
+    <nav class="nav-links">
+     <a class="nav-link active" href="#ultimas-noticias">
+      Not&iacute;cias
+     </a>
+     <a class="nav-link" href="#categorias">
+      Categorias
+     </a>
+     <a class="nav-link" href="#sobre">
+      Sobre
+     </a>
+     <a class="nav-link" href="#contato">
+      Contato
+     </a>
+    </nav>
+    <button aria-label="Abrir Menu" class="mobile-menu-btn" id="mobileMenuBtn">
+     <span class="hamburger-line">
+     </span>
+     <span class="hamburger-line">
+     </span>
+     <span class="hamburger-line">
+     </span>
+    </button>
+   </div>
+  </header>
+  <!-- Mobile Menu -->
+  <div class="mobile-menu" id="mobileMenu">
+   <nav>
+    <a class="mobile-nav-link" href="#ultimas-noticias">
+     Not&iacute;cias
+    </a>
+    <a class="mobile-nav-link" href="#categorias">
+     Categorias
+    </a>
+    <a class="mobile-nav-link" href="#sobre">
+     Sobre
+    </a>
+    <a class="mobile-nav-link" href="#contato">
+     Contato
+    </a>
+   </nav>
+  </div>
+  <main>
+   <!-- Hero Section -->
+   <section class="section" id="hero">
+    <div class="container" style="text-align: center; padding-top: 80px;">
+     <h1 class="hero-title gradient-text fade-in-on-scroll">
+      O Futuro da Tecnologia em suas M&atilde;os
+     </h1>
+     <p class="hero-subtitle fade-in-on-scroll delay-200">
+      Mantenha-se atualizado com as &uacute;ltimas inova&ccedil;&otilde;es em automa&ccedil;&atilde;o, IA e transforma&ccedil;&atilde;o digital.
+     </p>
+     <a class="btn btn-primary fade-in-on-scroll delay-400" href="#ultimas-noticias">
+      Ver &Uacute;ltimas Not&iacute;cias
+      <i class="fas fa-arrow-down">
+      </i>
+     </a>
     </div>
-
-    <main>
-        <!-- Hero Section -->
-        <section id="hero" class="section">
-            <div class="container" style="text-align: center; padding-top: 80px;">
-                <h1 class="hero-title gradient-text fade-in-on-scroll">O Futuro da Tecnologia em suas Mãos</h1>
-                <p class="hero-subtitle fade-in-on-scroll delay-200">Mantenha-se atualizado com as últimas inovações em automação, IA e transformação digital.</p>
-                <a href="#ultimas-noticias" class="btn btn-primary fade-in-on-scroll delay-400">Ver Últimas Notícias <i class="fas fa-arrow-down"></i></a>
-            </div>
-        </section>
-
-        <!-- Latest News -->
-        <section id="ultimas-noticias" class="section section-alt">
-            <div class="container">
-                <h2 class="section-title gradient-text fade-in-on-scroll">Últimas Notícias</h2>
-                <div class="articles-grid">
-                    <!-- Article Cards -->
-                    <article class="article-card fade-in-on-scroll">
-                        <div class="article-image">
-                            <img src="assets/images/articles/smart-home.jpg" alt="Casa Inteligente" loading="lazy">
-                        </div>
-                        <div class="article-content">
-                            <h3><a href="noticia2.html">Revolução da Casa Inteligente: Conforto e Segurança Automatizados</a></h3>
-                            <p class="article-excerpt">Descubra como a automação residencial está transformando nossa forma de viver...</p>
-                            <div class="article-meta">
-                                <span>Por Ana Paula</span>
-                                <time datetime="2025-06-17">17 de Junho de 2025</time>
-                            </div>
-                        </div>
-                    </article>
-                    
-                    <!-- Mais artigos aqui -->
-                </div>
-            </div>
-        </section>
-
-        <!-- Categories -->
-        <section id="categorias" class="section">
-            <div class="container">
-                <h2 class="section-title gradient-text fade-in-on-scroll">Categorias</h2>
-                <div class="categories-grid" id="categories-container">
-                    <!-- O script vai inserir as categorias dinamicamente aqui -->
-                </div>
-            </div>
-        </section>
-            <!-- Tags Section -->
-        <section id="tags" class="section section-alt">
-            <div class="container">
-                <h2 class="section-title gradient-text fade-in-on-scroll">Tags</h2>
-                <div class="tags-container" id="tags-container">
-                    <!-- O script vai inserir as tags dinamicamente aqui -->
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <!-- Footer -->
-    <footer class="main-footer">
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-section">
-                    <h3>IAUTOMATIZE</h3>
-                    <p>Seu portal de automação e notícias tech</p>
-                </div>
-                <div class="footer-section">
-                    <h4>Links Rápidos</h4>
-                    <ul>
-                        <li><a href="#ultimas-noticias">Notícias</a></li>
-                        <li><a href="#categorias">Categorias</a></li>
-                        <li><a href="#sobre">Sobre</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <p>&copy; 2025 IAUTOMATIZE. Todos os direitos reservados.</p>
-            </div>
+   </section>
+   <!-- Latest News -->
+   <section class="section section-alt" id="ultimas-noticias">
+    <div class="container">
+     <h2 class="section-title gradient-text fade-in-on-scroll">
+      &Uacute;ltimas Not&iacute;cias
+     </h2>
+     <div class="articles-grid">
+      <!-- Article Cards -->
+      <article class="article-card fade-in-on-scroll">
+       <div class="article-image">
+        <img alt="Casa Inteligente" loading="lazy" src="assets/images/articles/smart-home.jpg">
+       </div>
+       <div class="article-content">
+        <h3>
+         <a href="noticia2.html">
+          Revolu&ccedil;&atilde;o da Casa Inteligente: Conforto e Seguran&ccedil;a Automatizados
+         </a>
+        </h3>
+        <p class="article-excerpt">
+         Descubra como a automa&ccedil;&atilde;o residencial est&aacute; transformando nossa forma de viver...
+        </p>
+        <div class="article-meta">
+         <span>
+          Por Ana Paula
+         </span>
+         <time datetime="2025-06-17">
+          17 de Junho de 2025
+         </time>
         </div>
-    </footer>
-
-    <!-- Global Scripts -->
-    <script src="../assets/js/blog-global.js"></script>
-</body>
+       </div>
+      </article>
+      <!-- Mais artigos aqui -->
+     </div>
+    </div>
+   </section>
+   <!-- Categories -->
+   <section class="section" id="categorias">
+    <div class="container">
+     <h2 class="section-title gradient-text fade-in-on-scroll">
+      Categorias
+     </h2>
+     <div class="categories-grid" id="categories-container">
+     </div>
+    </div>
+   </section>
+   <!-- Tags Section -->
+   <section class="section section-alt" id="tags">
+    <div class="container">
+     <h2 class="section-title gradient-text fade-in-on-scroll">
+      Tags
+     </h2>
+     <div class="tags-container" id="tags-container">
+      <a class="tag-link" href="#">
+       $50 Milh&otilde;es
+      </a>
+      <a class="tag-link" href="#">
+       Alta
+      </a>
+      <a class="tag-link" href="#">
+       App de Moda
+      </a>
+      <a class="tag-link" href="#">
+       Aspora
+      </a>
+      <a class="tag-link" href="#">
+       Banco Digital
+      </a>
+      <a class="tag-link" href="#">
+       Banking
+      </a>
+      <a class="tag-link" href="#">
+       Carta de Seguran&ccedil;a
+      </a>
+      <a class="tag-link" href="#">
+       ChatGPT
+      </a>
+      <a class="tag-link" href="#">
+       China
+      </a>
+      <a class="tag-link" href="#">
+       Chips de IA
+      </a>
+      <a class="tag-link" href="#">
+       Ciberseguran&ccedil;a
+      </a>
+      <a class="tag-link" href="#">
+       Closet Inteligente
+      </a>
+      <a class="tag-link" href="#">
+       Clueless
+      </a>
+      <a class="tag-link" href="#">
+       Controle de Exporta&ccedil;&atilde;o
+      </a>
+      <a class="tag-link" href="#">
+       Criadores
+      </a>
+      <a class="tag-link" href="#">
+       Crise
+      </a>
+      <a class="tag-link" href="#">
+       Defesa
+      </a>
+      <a class="tag-link" href="#">
+       Del&iacute;rios
+      </a>
+      <a class="tag-link" href="#">
+       Di&aacute;spora Indiana
+      </a>
+      <a class="tag-link" href="#">
+       Financiamento
+      </a>
+      <a class="tag-link" href="#">
+       Finan&ccedil;as
+      </a>
+      <a class="tag-link" href="#">
+       Fintech
+      </a>
+      <a class="tag-link" href="#">
+       Fraudes Digitais
+      </a>
+      <a class="tag-link" href="#">
+       GPS
+      </a>
+      <a class="tag-link" href="#">
+       GSec
+      </a>
+      <a class="tag-link" href="#">
+       Google
+      </a>
+      <a class="tag-link" href="#">
+       Huawei
+      </a>
+      <a class="tag-link" href="#">
+       IA
+      </a>
+      <a class="tag-link" href="#">
+       Inova&ccedil;&atilde;o
+      </a>
+      <a class="tag-link" href="#">
+       Intelig&ecirc;ncia Artificial
+      </a>
+      <a class="tag-link" href="#">
+       Investimento
+      </a>
+      <a class="tag-link" href="#">
+       Investimentos
+      </a>
+      <a class="tag-link" href="#">
+       Jenny Wang
+      </a>
+      <a class="tag-link" href="#">
+       Marinha EUA
+      </a>
+      <a class="tag-link" href="#">
+       Menlo Ventures
+      </a>
+      <a class="tag-link" href="#">
+       Meta
+      </a>
+      <a class="tag-link" href="#">
+       Microsoft
+      </a>
+      <a class="tag-link" href="#">
+       Moda
+      </a>
+      <a class="tag-link" href="#">
+       Monetiza&ccedil;&atilde;o
+      </a>
+      <a class="tag-link" href="#">
+       NRIs
+      </a>
+      <a class="tag-link" href="#">
+       OpenAI
+      </a>
+      <a class="tag-link" href="#">
+       Parceria
+      </a>
+      <a class="tag-link" href="#">
+       Patreon
+      </a>
+      <a class="tag-link" href="#">
+       Personal Stylist
+      </a>
+      <a class="tag-link" href="#">
+       Plataforma Digital
+      </a>
+      <a class="tag-link" href="#">
+       Preocupa&ccedil;&otilde;es
+      </a>
+      <a class="tag-link" href="#">
+       Remessa
+      </a>
+      <a class="tag-link" href="#">
+       Remessas
+      </a>
+      <a class="tag-link" href="#">
+       SMIC
+      </a>
+      <a class="tag-link" href="#">
+       Sa&uacute;de Mental
+      </a>
+      <a class="tag-link" href="#">
+       Scale AI
+      </a>
+      <a class="tag-link" href="#">
+       Seguran&ccedil;a
+      </a>
+      <a class="tag-link" href="#">
+       Seguran&ccedil;a de Dados
+      </a>
+      <a class="tag-link" href="#">
+       Semicondutores
+      </a>
+      <a class="tag-link" href="#">
+       Sequoia
+      </a>
+      <a class="tag-link" href="#">
+       Startup
+      </a>
+      <a class="tag-link" href="#">
+       Startups
+      </a>
+      <a class="tag-link" href="#">
+       Taiwan
+      </a>
+      <a class="tag-link" href="#">
+       Taxas
+      </a>
+      <a class="tag-link" href="#">
+       TechCrunch
+      </a>
+      <a class="tag-link" href="#">
+       Tecnologia
+      </a>
+      <a class="tag-link" href="#">
+       Teoria da Simula&ccedil;&atilde;o
+      </a>
+      <a class="tag-link" href="#">
+       &Eacute;tica em IA
+      </a>
+      <a class="tag-link" href="#">
+       &Iacute;ndia
+      </a>
+     </div>
+    </div>
+   </section>
+  </main>
+  <!-- Footer -->
+  <footer class="main-footer">
+   <div class="container">
+    <div class="footer-content">
+     <div class="footer-section">
+      <h3>
+       IAUTOMATIZE
+      </h3>
+      <p>
+       Seu portal de automa&ccedil;&atilde;o e not&iacute;cias tech
+      </p>
+     </div>
+     <div class="footer-section">
+      <h4>
+       Links R&aacute;pidos
+      </h4>
+      <ul>
+       <li>
+        <a href="#ultimas-noticias">
+         Not&iacute;cias
+        </a>
+       </li>
+       <li>
+        <a href="#categorias">
+         Categorias
+        </a>
+       </li>
+       <li>
+        <a href="#sobre">
+         Sobre
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="footer-bottom">
+     <p>
+      &copy; 2025 IAUTOMATIZE. Todos os direitos reservados.
+     </p>
+    </div>
+   </div>
+  </footer>
+  <!-- Global Scripts -->
+  <script src="../assets/js/blog-global.js">
+  </script>
+ </body>
 </html>
