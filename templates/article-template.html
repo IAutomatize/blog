@@ -15,7 +15,20 @@
     <meta property="og:description" content="[DESCRICAO_ARTIGO]">
     <meta property="og:type" content="article">
     <meta property="og:image" content="[URL_IMAGEM]">
+    <meta property="og:url"         content="[URL_COMPLETA_DO_ARTIGO]">
+    <meta property="og:site_name"   content="IAUTOMATIZE Blog">
+    <meta property="og:image:width"  content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt"    content="Descrição da imagem do artigo">
     
+    <!-- Twitter Card -->
+    <meta name="twitter:card"        content="summary_large_image">
+    <meta name="twitter:site"        content="@SeuPerfilNoTwitter">
+    <meta name="twitter:creator"     content="@AutorDoArtigo">
+    <meta name="twitter:title"       content="[TITULO_ARTIGO] - IAUTOMATIZE Blog">
+    <meta name="twitter:description" content="[DESCRICAO_ARTIGO]">
+    <meta name="twitter:image"       content="[URL_IMAGEM]">
+
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     
@@ -29,6 +42,33 @@
     
     <!-- Global Styles -->
     <link rel="stylesheet" href="../assets/css/blog-global.css">
+
+        <!-- JSON-LD Article Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "[TITULO_ARTIGO]",
+      "image": [
+        "[URL_IMAGEM]"
+      ],
+      "datePublished": "[DATA_ISO]",
+      "author": {
+        "@type": "Person",
+        "name": "[AUTOR]"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "IAUTOMATIZE Blog",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://blog.iautomatize.com/logo.webp"
+        }
+      },
+      "description": "[DESCRICAO_ARTIGO]"
+    }
+    </script>
+
 </head>
 <body>
     <!-- Progress Bar -->
