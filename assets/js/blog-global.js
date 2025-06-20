@@ -173,6 +173,75 @@ function trackEvent(category, action, label) {
     });
 }
 
+// ===== FILTRO POR CATEGORIA =====
+function filterArticlesByCategory() {
+    // Verificar se existe um parâmetro 'categoria' na URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const category = urlParams.get('categoria');
+    const tag = urlParams.get('tag');
+    
+    if (!category && !tag) return; // Se não há categoria nem tag, mostra todos os artigos
+    
+    // Atualizar título da seção
+    const newsTitle = document.querySelector('#ultimas-noticias .section-title');
+    if (newsTitle) {
+        if (category) {
+            const displayCategory = decodeURIComponent(category).replace(/-/g, ' ');
+            const capitalizedCategory = displayCategory.charAt(0).toUpperCase() + displayCategory.slice(1);
+            newsTitle.innerHTML = `Artigos: <span class="category-highlight">${capitalizedCategory}</span>`;
+        } else if (tag) {
+            const displayTag = decodeURIComponent(tag).replace(/-/g, ' ');
+            newsTitle.innerHTML = `Tag: <span class="category-highlight">${displayTag}</span>`;
+        }
+    }
+    
+    // Selecionar todos os cards de artigos
+    const articleCards = document.querySelectorAll('.article-card');
+    
+    // Contador de artigos visíveis
+    let visibleCount = 0;
+    
+    // Filtrar artigos
+    articleCards.forEach(card => {
+        let shouldDisplay = false;
+        
+        if (category) {
+            // Usar o atributo de dados para o filtro de categoria
+            const cardCategory = card.getAttribute('data-category');
+            shouldDisplay = cardCategory === category;
+        } else if (tag) {
+            // Para tags, verificar no conteúdo do card
+            const cardContent = card.textContent.toLowerCase();
+            shouldDisplay = cardContent.includes(tag.toLowerCase().replace(/-/g, ' '));
+        }
+        
+        if (shouldDisplay) {
+            card.style.display = 'block';
+            visibleCount++;
+        } else {
+            card.style.display = 'none';
+        }
+    });
+    
+    // Mensagem se não houver artigos
+    const noArticlesMsg = document.querySelector('.no-articles-message');
+    if (noArticlesMsg) noArticlesMsg.remove(); // Remove mensagem anterior se existir
+    
+    if (visibleCount === 0) {
+        const articlesContainer = document.querySelector('#recent-articles-container');
+        if (articlesContainer) {
+            const noArticlesMsg = document.createElement('div');
+            noArticlesMsg.className = 'no-articles-message';
+            if (category) {
+                noArticlesMsg.innerHTML = `<p>Nenhum artigo encontrado na categoria "${decodeURIComponent(category).replace(/-/g, ' ')}". <a href="/">Ver todos</a></p>`;
+            } else if (tag) {
+                noArticlesMsg.innerHTML = `<p>Nenhum artigo encontrado com a tag "${decodeURIComponent(tag).replace(/-/g, ' ')}". <a href="/">Ver todos</a></p>`;
+            }
+            articlesContainer.appendChild(noArticlesMsg);
+        }
+    }
+}
+
 // ===== EVENT LISTENERS =====
 function setupEventListeners() {
     // Eventos de scroll (debounce para melhor performance)
@@ -267,6 +336,9 @@ function lazyLoadImages() {
 
 // ===== INICIALIZAÇÃO GERAL =====
 function init() {
+    // Filtrar artigos por categoria (se houver parâmetro na URL)
+    filterArticlesByCategory();
+    
     // Inicializa observadores de animação (para elementos como imagens de artigos ou seções)
     setupIntersectionObserver();
     
@@ -283,6 +355,32 @@ function init() {
     
     // Adiciona classe ao body para indicar que JS está habilitado (para CSS condicional)
     document.body.classList.add('js-enabled');
+    
+    // Adicionar estilos para categoria
+    const categoryStyles = document.createElement('style');
+    categoryStyles.textContent = `
+      .category-highlight {
+        color: var(--primary);
+        font-weight: bold;
+      }
+      
+      .no-articles-message {
+        background: var(--dark-lighter);
+        padding: 20px;
+        border-radius: 8px;
+        text-align: center;
+        margin: 20px 0;
+      }
+      
+      .article-category {
+        margin-left: 10px;
+      }
+      
+      .article-category a {
+        color: var(--primary);
+      }
+    `;
+    document.head.appendChild(categoryStyles);
     
     console.log('IAUTOMATIZE Blog Global - Scripts carregados com sucesso! 🚀');
 }
@@ -309,71 +407,3 @@ window.IAutomatizeBlog = {
     trackEvent,
     smoothScroll
 };
-
-// Função para filtrar artigos por categoria
-function filterArticlesByCategory() {
-  // Verificar se existe um parâmetro 'categoria' na URL
-  const urlParams = new URLSearchParams(window.location.search);
-  const category = urlParams.get('categoria');
-  
-  if (!category) return; // Se não há categoria, mostra todos os artigos
-  
-  // Atualizar título da seção
-  const newsTitle = document.querySelector('#ultimas-noticias .section-title');
-  if (newsTitle) {
-    newsTitle.innerHTML = `Artigos: <span class="category-highlight">${decodeURIComponent(category).replace(/-/g, ' ')}</span>`;
-  }
-  
-  // Selecionar todos os cards de artigos
-  const articleCards = document.querySelectorAll('.article-card');
-  
-  // Contador de artigos visíveis
-  let visibleCount = 0;
-  
-  // Filtrar artigos
-  articleCards.forEach(card => {
-    // Obter categoria do artigo (podemos adicionar um data-attribute ou buscar no texto)
-    // Esta é uma implementação simplificada - pode precisar ser adaptada
-    const articleCategory = card.querySelector('.article-meta')?.textContent.toLowerCase() || '';
-    const normalizedCategory = category.toLowerCase().replace(/-/g, ' ');
-    
-    if (articleCategory.includes(normalizedCategory)) {
-      card.style.display = 'block';
-      visibleCount++;
-    } else {
-      card.style.display = 'none';
-    }
-  });
-  
-  // Mensagem se não houver artigos
-  if (visibleCount === 0) {
-    const articlesContainer = document.querySelector('#recent-articles-container');
-    if (articlesContainer) {
-      const noArticlesMsg = document.createElement('div');
-      noArticlesMsg.className = 'no-articles-message';
-      noArticlesMsg.innerHTML = `<p>Nenhum artigo encontrado na categoria "${decodeURIComponent(category).replace(/-/g, ' ')}". <a href="/">Ver todos</a></p>`;
-      articlesContainer.appendChild(noArticlesMsg);
-    }
-  }
-}
-
-// Adicionar CSS correspondente
-const categoryStyles = document.createElement('style');
-categoryStyles.textContent = `
-  .category-highlight {
-    color: var(--primary);
-    font-weight: bold;
-  }
-  
-  .no-articles-message {
-    background: var(--dark-lighter);
-    padding: 20px;
-    border-radius: 8px;
-    text-align: center;
-    margin: 20px 0;
-  }
-`;
-document.head.appendChild(categoryStyles);
-
-// Executar quando o DOM estiver pronto
-document.addEventListener('DOMContentLoaded', filterArticlesByCategory);
