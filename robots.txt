@@ -1,4 +1,8 @@
 User-agent: *
-Disallow:
+Allow: /
+Disallow: /admin/
+Disallow: /config/
+Disallow: /assets/js/
+Disallow: /assets/css/
 
 Sitemap: https://blog.iautomatize.com/config/sitemap.xml
