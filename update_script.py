@@ -1,13 +1,15 @@
 import os
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
-import locale
 
-# Configura o locale para português do Brasil para formatar a data
-try:
-    locale.setlocale(locale.LC_TIME, 'pt_BR.UTF-8')
-except locale.Error:
-    locale.setlocale(locale.LC_TIME, 'Portuguese_Brazil.1252')
+# Tradução manual dos meses para português
+MESES_PT = [
+    "", "janeiro", "fevereiro", "março", "abril", "maio", "junho",
+    "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"
+]
+
+def formatar_data_pt(dt):
+    return f"{dt.day:02d} de {MESES_PT[dt.month]} de {dt.year}"
 
 def get_article_metadata(file_path):
     """Extrai metadados completos de um arquivo HTML de artigo."""
@@ -70,10 +72,14 @@ def update_files():
         if recent_articles_container:
             recent_articles_container.clear() # Limpa a área
             
-            # Pega os 3 artigos mais recentes
-            for article in all_articles_metadata[:3]:
-                # Formata a data em português
-                date_str = article['publish_date'].strftime('%d de %B de %Y')
+            # Pega os artigos dos últimos 3 dias (ou os 3 mais recentes, se menos de 3 disponíveis)
+            tres_dias_atras = datetime.now() - timedelta(days=3)
+            artigos_recentes = [a for a in all_articles_metadata if a['publish_date'] >= tres_dias_atras]
+            if len(artigos_recentes) < 3:
+                artigos_recentes = all_articles_metadata[:3]  # Garante pelo menos 3 cards se não houver 3 artigos nos últimos 3 dias
+
+            for article in artigos_recentes:
+                date_str = formatar_data_pt(article['publish_date'])
                 
                 # Cria o card do artigo
                 article_card = soup.new_tag('article', **{'class': 'article-card fade-in-on-scroll'})
