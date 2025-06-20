@@ -1,0 +1,33 @@
+name: Optimize Images
+
+on:
+  push:
+    paths:
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.png'
+      - '**.webp'
+  workflow_dispatch:
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Optimize images
+        uses: calibreapp/image-actions@main
+        with:
+          compressOnly: true
+          jpegQuality: "80"
+          jpegProgressive: true
+          pngQuality: "80"
+          webpQuality: "80"
+          
+      - name: Commit optimized images
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Optimize images" && git push)
