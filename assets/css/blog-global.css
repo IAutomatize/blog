@@ -686,3 +686,25 @@ strong {
   color: var(--text-color);
   font-weight: 500;
 }
+
+/* Estilos para destacar categoria e filtros */
+.category-highlight {
+  color: var(--primary);
+  font-weight: bold;
+}
+
+.no-articles-message {
+  background: var(--dark-lighter);
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.article-category {
+  margin-left: 10px;
+}
+
+.article-category a {
+  color: var(--primary);
+}
