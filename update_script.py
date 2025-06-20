@@ -250,7 +250,10 @@ def add_breadcrumbs_to_article(article_path, metadata):
         title = metadata.get('title', 'Artigo')
         category = metadata.get('category', 'Geral')
         
-        # Criar elemento breadcrumbs
+        # Criar URL segura para a categoria
+        safe_category = category.lower().replace(" ", "-")
+        
+        # Criar elemento breadcrumbs com parâmetro de URL para categoria
         breadcrumbs_html = f'''
         <nav aria-label="Breadcrumb" class="breadcrumbs">
           <div class="container">
@@ -262,7 +265,7 @@ def add_breadcrumbs_to_article(article_path, metadata):
                 <meta itemprop="position" content="1" />
               </li>
               <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                <a itemprop="item" href="/articles/categorias/{category.lower().replace(" ", "-")}/">
+                <a itemprop="item" href="/?categoria={safe_category}">
                   <span itemprop="name">{category}</span>
                 </a>
                 <meta itemprop="position" content="2" />
