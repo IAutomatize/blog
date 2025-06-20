@@ -80,6 +80,76 @@ def get_article_metadata(file_path):
         'path': file_path.replace(os.path.sep, '/')
     }
 
+def add_breadcrumbs_to_article(file_path, metadata):
+    """Adiciona breadcrumbs navegáveis ao artigo com base em seus metadados."""
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+            soup = BeautifulSoup(content, 'html.parser')
+        
+        # Verificar se breadcrumbs já existem
+        if soup.select('.breadcrumbs'):
+            print(f"Breadcrumbs já existem em {file_path}")
+            return
+        
+        # Obter informações para breadcrumbs
+        title = metadata.get('title', 'Artigo')
+        category = metadata.get('category', 'Geral')
+        
+        # Criar URL segura para a categoria
+        safe_category = category.lower().replace(" ", "-")
+        
+        # Criar elemento breadcrumbs com parâmetro de URL para categoria
+        breadcrumbs_html = f'''
+        <nav aria-label="Breadcrumb" class="breadcrumbs">
+          <div class="container">
+            <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <a itemprop="item" href="/">
+                  <span itemprop="name">Home</span>
+                </a>
+                <meta itemprop="position" content="1" />
+              </li>
+              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <a itemprop="item" href="/?categoria={safe_category}">
+                  <span itemprop="name">{category}</span>
+                </a>
+                <meta itemprop="position" content="2" />
+              </li>
+              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <span itemprop="name">{title.split(" - ")[0].strip()}</span>
+                <meta itemprop="position" content="3" />
+              </li>
+            </ol>
+          </div>
+        </nav>
+        '''
+        
+        breadcrumbs_soup = BeautifulSoup(breadcrumbs_html, 'html.parser')
+        
+        # Inserir após o header e antes do main
+        header = soup.find('header')
+        main = soup.find('main')
+        
+        if header and main:
+            # Inserir após o header
+            header.insert_after(breadcrumbs_soup)
+        elif main:
+            # Se não encontrar header, inserir antes do main
+            main.insert_before(breadcrumbs_soup)
+        else:
+            print(f"Não foi possível encontrar local para inserir breadcrumbs em {file_path}")
+            return
+        
+        # Salvar o arquivo atualizado
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(str(soup))
+            
+        print(f"Breadcrumbs adicionados com sucesso em {file_path}")
+        
+    except Exception as e:
+        print(f"Erro ao adicionar breadcrumbs em {file_path}: {str(e)}")
+
 def update_files():
     """Função principal para atualizar o index.html e sitemap.xml."""
     articles_dir = 'articles'
@@ -90,7 +160,12 @@ def update_files():
         if filename.endswith('.html'):
             file_path = os.path.join(articles_dir, filename)
             try:
-                all_articles_metadata.append(get_article_metadata(file_path))
+                metadata = get_article_metadata(file_path)
+                all_articles_metadata.append(metadata)
+                
+                # Adicionar breadcrumbs ao artigo
+                add_breadcrumbs_to_article(file_path, metadata)
+                
                 print(f"Processado: {filename}")
             except Exception as e:
                 print(f"Erro ao processar {filename}: {str(e)}")
@@ -116,14 +191,21 @@ def update_files():
                 
                 for article in artigos_recentes:
                     date_str = formatar_data_pt(article['publish_date'])
+                    category = article['category']
+                    
+                    # Criar URL segura para a categoria
+                    safe_category = category.lower().replace(" ", "-")
+                    
+                    # Adicionar data-category ao card
+                    article_card = soup.new_tag('article', **{
+                        'class': 'article-card fade-in-on-scroll', 
+                        'data-category': safe_category
+                    })
                     
                     # Corrige URLs de imagem se necessário
                     image_url = article['image_url']
                     if not image_url.startswith(('http://', 'https://', '/')):
-                        image_url = '../' + image_url if '../' not in image_url else image_url
-                    
-                    # Cria o card do artigo
-                    article_card = soup.new_tag('article', **{'class': 'article-card fade-in-on-scroll'})
+                        image_url = image_url if '../' in image_url else '../' + image_url
                     
                     article_card.append(BeautifulSoup(f'''
                         <div class="article-image">
@@ -135,9 +217,11 @@ def update_files():
                             <div class="article-meta">
                                 <span>Por {article['author']}</span>
                                 <time datetime="{article['publish_date'].strftime('%Y-%m-%d')}">{date_str}</time>
+                                <span class="article-category">Em <a href="/?categoria={safe_category}">{category}</a></span>
                             </div>
                         </div>
                     ''', 'html.parser'))
+                    
                     recent_articles_container.append(article_card)
                 
                 print(f"Adicionados {len(artigos_recentes)} artigos à seção de últimas notícias")
@@ -148,8 +232,11 @@ def update_files():
                 categories_container.clear()
                 all_categories = sorted(list(set(article['category'] for article in all_articles_metadata if article['category'])))
                 for category in all_categories:
+                    # Criar URL segura para a categoria
+                    safe_category = category.lower().replace(" ", "-")
+                    
                     card = soup.new_tag('div', **{'class': 'category-card fade-in-on-scroll'})
-                    card.append(BeautifulSoup(f'''<a href="#" class="category-link"><i class="fas fa-robot"></i><h3>{category}</h3><p>Artigos sobre {category}</p></a>''', 'html.parser'))
+                    card.append(BeautifulSoup(f'''<a href="/?categoria={safe_category}" class="category-link"><i class="fas fa-robot"></i><h3>{category}</h3><p>Artigos sobre {category}</p></a>''', 'html.parser'))
                     categories_container.append(card)
                 print(f"Adicionadas {len(all_categories)} categorias")
 
@@ -159,7 +246,9 @@ def update_files():
                 tags_container.clear()
                 all_tags = sorted(list(set(tag for article in all_articles_metadata for tag in article['tags'])))
                 for tag in all_tags:
-                    tag_link = soup.new_tag('a', href=f'#', **{'class': 'tag-link'})
+                    # Criar URL segura para a tag
+                    safe_tag = tag.lower().replace(" ", "-")
+                    tag_link = soup.new_tag('a', href=f'/?tag={safe_tag}', **{'class': 'tag-link'})
                     tag_link.string = tag
                     tags_container.append(tag_link)
                 print(f"Adicionadas {len(all_tags)} tags")
@@ -233,73 +322,3 @@ def update_files():
 
 if __name__ == '__main__':
     update_files()
-
-def add_breadcrumbs_to_article(article_path, metadata):
-    """Adiciona breadcrumbs navegáveis ao artigo com base em seus metadados."""
-    try:
-        with open(article_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            soup = BeautifulSoup(content, 'html.parser')
-        
-        # Verificar se breadcrumbs já existem
-        if soup.select('.breadcrumbs'):
-            print(f"Breadcrumbs já existem em {article_path}")
-            return
-        
-        # Obter informações para breadcrumbs
-        title = metadata.get('title', 'Artigo')
-        category = metadata.get('category', 'Geral')
-        
-        # Criar URL segura para a categoria
-        safe_category = category.lower().replace(" ", "-")
-        
-        # Criar elemento breadcrumbs com parâmetro de URL para categoria
-        breadcrumbs_html = f'''
-        <nav aria-label="Breadcrumb" class="breadcrumbs">
-          <div class="container">
-            <ol itemscope itemtype="https://schema.org/BreadcrumbList">
-              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                <a itemprop="item" href="/">
-                  <span itemprop="name">Home</span>
-                </a>
-                <meta itemprop="position" content="1" />
-              </li>
-              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                <a itemprop="item" href="/?categoria={safe_category}">
-                  <span itemprop="name">{category}</span>
-                </a>
-                <meta itemprop="position" content="2" />
-              </li>
-              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                <span itemprop="name">{title.split(" - ")[0].strip()}</span>
-                <meta itemprop="position" content="3" />
-              </li>
-            </ol>
-          </div>
-        </nav>
-        '''
-        
-        breadcrumbs_soup = BeautifulSoup(breadcrumbs_html, 'html.parser')
-        
-        # Inserir após o header e antes do main
-        header = soup.find('header')
-        main = soup.find('main')
-        
-        if header and main:
-            # Inserir após o header
-            header.insert_after(breadcrumbs_soup)
-        elif main:
-            # Se não encontrar header, inserir antes do main
-            main.insert_before(breadcrumbs_soup)
-        else:
-            print(f"Não foi possível encontrar local para inserir breadcrumbs em {article_path}")
-            return
-        
-        # Salvar o arquivo atualizado
-        with open(article_path, 'w', encoding='utf-8') as f:
-            f.write(str(soup))
-            
-        print(f"Breadcrumbs adicionados com sucesso em {article_path}")
-        
-    except Exception as e:
-        print(f"Erro ao adicionar breadcrumbs em {article_path}: {str(e)}")
