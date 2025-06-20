@@ -32,7 +32,7 @@
     <meta name="twitter:image"       content="[URL_IMAGEM]">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -83,15 +83,15 @@
     <header class="main-header" id="mainHeader">
         <div class="container nav-container">
             <div class="logo">
-                <a href="index.html">
+                <a href="/">
                     <span class="logo-i">IA</span>UTOMATIZE
                 </a>
             </div>
             <nav class="nav-links">
-                <a href="index.html#ultimas-noticias" class="nav-link">Notícias</a>
-                <a href="index.html#categorias" class="nav-link">Categorias</a>
-                <a href="index.html#sobre" class="nav-link">Sobre</a>
-                <a href="index.html#contato" class="nav-link">Contato</a>
+                <a href="/#ultimas-noticias" class="nav-link">Notícias</a>
+                <a href="/#categorias" class="nav-link">Categorias</a>
+                <a href="/#sobre" class="nav-link">Sobre</a>
+                <a href="/#contato" class="nav-link">Contato</a>
             </nav>
             <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Abrir Menu">
                 <span class="hamburger-line"></span>
@@ -101,36 +101,37 @@
         </div>
     </header>
     
-        <nav aria-label="Breadcrumb" class="breadcrumbs">
-          <div class="container">
+    <!-- Breadcrumbs -->
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+        <div class="container">
             <ol itemscope itemtype="https://schema.org/BreadcrumbList">
-              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                <a itemprop="item" href="/">
-                  <span itemprop="name">Home</span>
-                </a>
-                <meta itemprop="position" content="1" />
-              </li>
-              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                <a itemprop="item" href="/?categoria=CATEGORIA_AQUI">
-                  <span itemprop="name">CATEGORIA_AQUI</span>
-                </a>
-                <meta itemprop="position" content="2" />
-              </li>
-              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                <span itemprop="name">TITULO_DO_ARTIGO_AQUI</span>
-                <meta itemprop="position" content="3" />
-              </li>
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="/">
+                        <span itemprop="name">Home</span>
+                    </a>
+                    <meta itemprop="position" content="1" />
+                </li>
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="/?categoria=[CATEGORIA_URL]">
+                        <span itemprop="name">[CATEGORIA_PRINCIPAL]</span>
+                    </a>
+                    <meta itemprop="position" content="2" />
+                </li>
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <span itemprop="name">[TITULO_ARTIGO]</span>
+                    <meta itemprop="position" content="3" />
+                </li>
             </ol>
-          </div>
-        </nav>
+        </div>
+    </nav>
     
     <!-- Mobile Menu -->
     <div class="mobile-menu" id="mobileMenu">
         <nav>
-            <a href="index.html#ultimas-noticias" class="mobile-nav-link">Notícias</a>
-            <a href="index.html#categorias" class="mobile-nav-link">Categorias</a>
-            <a href="index.html#sobre" class="mobile-nav-link">Sobre</a>
-            <a href="index.html#contato" class="mobile-nav-link">Contato</a>
+            <a href="/#ultimas-noticias" class="mobile-nav-link">Notícias</a>
+            <a href="/#categorias" class="mobile-nav-link">Categorias</a>
+            <a href="/#sobre" class="mobile-nav-link">Sobre</a>
+            <a href="/#contato" class="mobile-nav-link">Contato</a>
         </nav>
     </div>
 
@@ -142,7 +143,8 @@
                 <p class="article-meta">
                     Por <a href="#">[AUTOR]</a> | 
                     <time datetime="[DATA_ISO]">[DATA_FORMATADA]</time> | 
-                    Em <a href="#">[CATEGORIA]</a>
+                    Em <a href="/?categoria=[CATEGORIA_URL]">[CATEGORIA_PRINCIPAL]</a>
+                    <span class="reading-time"><i class="far fa-clock"></i> [TEMPO_LEITURA] min de leitura</span>
                 </p>
             </div>
         </section>
@@ -170,6 +172,49 @@
                 
                   <!-- Fonte opcional -->
                   <p><i>(Fonte original: <a href="[FONTE_URL]" target="_blank" rel="noopener noreferrer">[FONTE_NOME]</a>)</i></p>
+                  
+                  <!-- Botões de compartilhamento -->
+                  <div class="social-sharing">
+                    <h4>Compartilhe:</h4>
+                    <div class="share-buttons">
+                      <a href="https://twitter.com/intent/tweet?url=[URL_ENCODED]&text=[TITULO_ENCODED]" target="_blank" rel="noopener noreferrer" aria-label="Compartilhar no Twitter">
+                        <i class="fab fa-twitter"></i>
+                      </a>
+                      <a href="https://www.facebook.com/sharer/sharer.php?u=[URL_ENCODED]" target="_blank" rel="noopener noreferrer" aria-label="Compartilhar no Facebook">
+                        <i class="fab fa-facebook-f"></i>
+                      </a>
+                      <a href="https://www.linkedin.com/shareArticle?mini=true&url=[URL_ENCODED]&title=[TITULO_ENCODED]" target="_blank" rel="noopener noreferrer" aria-label="Compartilhar no LinkedIn">
+                        <i class="fab fa-linkedin-in"></i>
+                      </a>
+                      <a href="https://api.whatsapp.com/send?text=[TITULO_ENCODED]%20[URL_ENCODED]" target="_blank" rel="noopener noreferrer" aria-label="Compartilhar no WhatsApp">
+                        <i class="fab fa-whatsapp"></i>
+                      </a>
+                    </div>
+                  </div>
+            </div>
+        </section>
+        
+        <!-- Navegação entre artigos -->
+        <div class="article-navigation container">
+            <div class="prev-article">
+                <a href="[URL_ARTIGO_ANTERIOR]" class="nav-link">
+                    <i class="fas fa-arrow-left"></i> Artigo Anterior
+                </a>
+            </div>
+            <div class="next-article">
+                <a href="[URL_PROXIMO_ARTIGO]" class="nav-link">
+                    Próximo Artigo <i class="fas fa-arrow-right"></i>
+                </a>
+            </div>
+        </div>
+        
+        <!-- Artigos Relacionados -->
+        <section id="related-articles" class="section">
+            <div class="container">
+                <h2 class="section-title">Artigos Relacionados</h2>
+                <div class="articles-grid">
+                    <!-- [ARTIGOS_RELACIONADOS] -->
+                </div>
             </div>
         </section>
     </main>
@@ -185,19 +230,19 @@
                 <div class="footer-section">
                     <h4>Links Rápidos</h4>
                     <ul>
-                        <li><a href="index.html#ultimas-noticias">Notícias</a></li>
-                        <li><a href="index.html#categorias">Categorias</a></li>
-                        <li><a href="index.html#sobre">Sobre</a></li>
-                        <li><a href="index.html#contato">Contato</a></li>
+                        <li><a href="/#ultimas-noticias">Notícias</a></li>
+                        <li><a href="/#categorias">Categorias</a></li>
+                        <li><a href="/#sobre">Sobre</a></li>
+                        <li><a href="/#contato">Contato</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
                     <h4>Categorias</h4>
                     <ul>
-                        <li><a href="#">Inteligência Artificial</a></li>
-                        <li><a href="#">Automação Residencial</a></li>
-                        <li><a href="#">Internet das Coisas</a></li>
-                        <li><a href="#">Robótica</a></li>
+                        <li><a href="/?categoria=inteligencia-artificial">Inteligência Artificial</a></li>
+                        <li><a href="/?categoria=automacao-residencial">Automação Residencial</a></li>
+                        <li><a href="/?categoria=internet-das-coisas">Internet das Coisas</a></li>
+                        <li><a href="/?categoria=robotica">Robótica</a></li>
                     </ul>
                 </div>
             </div>
