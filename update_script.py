@@ -233,3 +233,70 @@ def update_files():
 
 if __name__ == '__main__':
     update_files()
+
+def add_breadcrumbs_to_article(article_path, metadata):
+    """Adiciona breadcrumbs navegáveis ao artigo com base em seus metadados."""
+    try:
+        with open(article_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+            soup = BeautifulSoup(content, 'html.parser')
+        
+        # Verificar se breadcrumbs já existem
+        if soup.select('.breadcrumbs'):
+            print(f"Breadcrumbs já existem em {article_path}")
+            return
+        
+        # Obter informações para breadcrumbs
+        title = metadata.get('title', 'Artigo')
+        category = metadata.get('category', 'Geral')
+        
+        # Criar elemento breadcrumbs
+        breadcrumbs_html = f'''
+        <nav aria-label="Breadcrumb" class="breadcrumbs">
+          <div class="container">
+            <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <a itemprop="item" href="/">
+                  <span itemprop="name">Home</span>
+                </a>
+                <meta itemprop="position" content="1" />
+              </li>
+              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <a itemprop="item" href="/articles/categorias/{category.lower().replace(" ", "-")}/">
+                  <span itemprop="name">{category}</span>
+                </a>
+                <meta itemprop="position" content="2" />
+              </li>
+              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <span itemprop="name">{title.split(" - ")[0].strip()}</span>
+                <meta itemprop="position" content="3" />
+              </li>
+            </ol>
+          </div>
+        </nav>
+        '''
+        
+        breadcrumbs_soup = BeautifulSoup(breadcrumbs_html, 'html.parser')
+        
+        # Inserir após o header e antes do main
+        header = soup.find('header')
+        main = soup.find('main')
+        
+        if header and main:
+            # Inserir após o header
+            header.insert_after(breadcrumbs_soup)
+        elif main:
+            # Se não encontrar header, inserir antes do main
+            main.insert_before(breadcrumbs_soup)
+        else:
+            print(f"Não foi possível encontrar local para inserir breadcrumbs em {article_path}")
+            return
+        
+        # Salvar o arquivo atualizado
+        with open(article_path, 'w', encoding='utf-8') as f:
+            f.write(str(soup))
+            
+        print(f"Breadcrumbs adicionados com sucesso em {article_path}")
+        
+    except Exception as e:
+        print(f"Erro ao adicionar breadcrumbs em {article_path}: {str(e)}")
