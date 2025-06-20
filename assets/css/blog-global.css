@@ -642,3 +642,47 @@ strong {
     text-align: center;
     color: var(--text-light-gray);
 }
+
+/* === BREADCRUMBS NAVIGATION === */
+.breadcrumbs {
+  background-color: var(--dark-lighter);
+  padding: 10px 0;
+  margin-bottom: 20px;
+  font-size: 0.9rem;
+}
+
+.breadcrumbs ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.breadcrumbs li {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+.breadcrumbs li:not(:last-child)::after {
+  content: "/";
+  margin: 0 8px;
+  color: var(--text-light-gray);
+}
+
+.breadcrumbs a {
+  color: var(--primary-light);
+  text-decoration: none;
+  transition: var(--transition-speed);
+}
+
+.breadcrumbs a:hover {
+  color: var(--white);
+  text-decoration: none;
+}
+
+.breadcrumbs li:last-child {
+  color: var(--text-color);
+  font-weight: 500;
+}
