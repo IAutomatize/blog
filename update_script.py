@@ -1,12 +1,20 @@
 import os
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
+import locale
+
+# Configura o locale para português do Brasil para formatar a data
+try:
+    locale.setlocale(locale.LC_TIME, 'pt_BR.UTF-8')
+except locale.Error:
+    locale.setlocale(locale.LC_TIME, 'Portuguese_Brazil.1252')
 
 def get_article_metadata(file_path):
-    """Extrai metadados (título, tags, categoria) de um arquivo HTML de artigo."""
+    """Extrai metadados completos de um arquivo HTML de artigo."""
     with open(file_path, 'r', encoding='utf-8') as f:
         soup = BeautifulSoup(f, 'html.parser')
 
+    # --- Extração de Metadados ---
     title_tag = soup.find('title')
     title = title_tag.text.strip() if title_tag else ''
 
@@ -16,54 +24,92 @@ def get_article_metadata(file_path):
     meta_category = soup.find('meta', attrs={'name': 'category'})
     category = meta_category['content'].strip() if meta_category and meta_category.get('content') else ''
 
+    meta_author = soup.find('meta', attrs={'name': 'author'})
+    author = meta_author['content'].strip() if meta_author and meta_author.get('content') else 'IAUTOMATIZE'
+    
+    meta_description = soup.find('meta', attrs={'name': 'description'})
+    excerpt = meta_description['content'].strip() if meta_description and meta_description.get('content') else ''
+
+    meta_image = soup.find('meta', attrs={'property': 'og:image'})
+    image_url = meta_image['content'].strip() if meta_image and meta_image.get('content') else 'assets/images/articles/default.jpg' # Imagem padrão
+
+    # Tenta pegar a data de modificação do arquivo como fallback
+    file_mtime = datetime.fromtimestamp(os.path.getmtime(file_path))
+
     return {
         'title': title,
         'tags': tags,
         'category': category,
+        'author': author,
+        'excerpt': excerpt,
+        'image_url': image_url,
+        'publish_date': file_mtime,
         'path': file_path.replace(os.path.sep, '/')
     }
 
 def update_files():
     """Função principal para atualizar o index.html e sitemap.xml."""
     articles_dir = 'articles'
-    recent_articles_metadata = []
-    three_days_ago = datetime.now() - timedelta(days=3)
-
+    all_articles_metadata = []
+    
+    # Coleta metadados de todos os artigos
     for filename in os.listdir(articles_dir):
         if filename.endswith('.html'):
             file_path = os.path.join(articles_dir, filename)
-            file_mtime = datetime.fromtimestamp(os.path.getmtime(file_path))
-            # Coleta metadados de todos os artigos para popular tags e categorias, não apenas os recentes
-            recent_articles_metadata.append(get_article_metadata(file_path))
+            all_articles_metadata.append(get_article_metadata(file_path))
+
+    # Ordena todos os artigos por data de publicação (mais recentes primeiro)
+    all_articles_metadata.sort(key=lambda x: x['publish_date'], reverse=True)
 
     # --- Atualiza o index.html ---
     with open('index.html', 'r+', encoding='utf-8') as f:
         soup = BeautifulSoup(f.read(), 'html.parser')
 
+        # --- Popula a seção de "Últimas Notícias" ---
+        recent_articles_container = soup.find(id='recent-articles-container')
+        if recent_articles_container:
+            recent_articles_container.clear() # Limpa a área
+            
+            # Pega os 3 artigos mais recentes
+            for article in all_articles_metadata[:3]:
+                # Formata a data em português
+                date_str = article['publish_date'].strftime('%d de %B de %Y')
+                
+                # Cria o card do artigo
+                article_card = soup.new_tag('article', **{'class': 'article-card fade-in-on-scroll'})
+                
+                article_card.append(BeautifulSoup(f'''
+                    <div class="article-image">
+                        <a href="{article['path']}"><img src="{article['image_url']}" alt="{article['title']}" loading="lazy"></a>
+                    </div>
+                    <div class="article-content">
+                        <h3><a href="{article['path']}">{article['title']}</a></h3>
+                        <p class="article-excerpt">{article['excerpt']}</p>
+                        <div class="article-meta">
+                            <span>Por {article['author']}</span>
+                            <time datetime="{article['publish_date'].strftime('%Y-%m-%d')}">{date_str}</time>
+                        </div>
+                    </div>
+                ''', 'html.parser'))
+                recent_articles_container.append(article_card)
+
         # Popula a seção de Categorias
         categories_container = soup.find(id='categories-container')
         if categories_container:
             categories_container.clear()
-            all_categories = sorted(list(set(article['category'] for article in recent_articles_metadata if article['category'])))
-            
+            all_categories = sorted(list(set(article['category'] for article in all_articles_metadata if article['category'])))
             for category in all_categories:
                 card = soup.new_tag('div', **{'class': 'category-card fade-in-on-scroll'})
-                icon = soup.new_tag('i', **{'class': 'fas fa-robot'}) # Ícone padrão
-                title = soup.new_tag('h3')
-                title.string = category
-                desc = soup.new_tag('p')
-                desc.string = f"Artigos sobre {category}"
-                card.extend([icon, title, desc])
+                card.append(BeautifulSoup(f'''<a href="#" class="category-link"><i class="fas fa-robot"></i><h3>{category}</h3><p>Artigos sobre {category}</p></a>''', 'html.parser'))
                 categories_container.append(card)
 
         # Popula a seção de Tags
         tags_container = soup.find(id='tags-container')
         if tags_container:
             tags_container.clear()
-            all_tags = sorted(list(set(tag for article in recent_articles_metadata for tag in article['tags'])))
-            
+            all_tags = sorted(list(set(tag for article in all_articles_metadata for tag in article['tags'])))
             for tag in all_tags:
-                tag_link = soup.new_tag('a', href=f'#', **{'class': 'tag-link'}) # Placeholder link
+                tag_link = soup.new_tag('a', href=f'#', **{'class': 'tag-link'})
                 tag_link.string = tag
                 tags_container.append(tag_link)
         
@@ -72,28 +118,28 @@ def update_files():
         f.truncate()
 
     # --- Atualiza o sitemap.xml ---
-    sitemap_path = 'sitemap.xml'
+    sitemap_path = 'config/sitemap.xml'
     if os.path.exists(sitemap_path):
-        with open(sitemap_path, 'r+', encoding='utf-8') as f:
+        with open(sitemap_path, 'r', encoding='utf-8') as f:
             sitemap_soup = BeautifulSoup(f.read(), 'xml')
-            
-            existing_urls = [loc.text for loc in sitemap_soup.find_all('loc')]
-            urlset = sitemap_soup.find('urlset')
+    else:
+        sitemap_soup = BeautifulSoup('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"></urlset>', 'xml')
 
-            if urlset:
-                for article in recent_articles_metadata:
-                    # Garante que a URL base esteja correta
-                    url = f"https://iautomatize.github.io/blog/{article['path']}"
-                    if url not in existing_urls:
-                        url_element = sitemap_soup.new_tag('url')
-                        loc_element = sitemap_soup.new_tag('loc')
-                        loc_element.string = url
-                        url_element.append(loc_element)
-                        urlset.append(url_element)
+    existing_urls = [loc.text for loc in sitemap_soup.find_all('loc')]
+    urlset = sitemap_soup.find('urlset')
 
-                f.seek(0)
-                f.write(str(sitemap_soup.prettify()))
-                f.truncate()
+    if urlset:
+        for article in all_articles_metadata:
+            url = f"https://iautomatize.github.io/blog/{article['path']}"
+            if url not in existing_urls:
+                url_element = sitemap_soup.new_tag('url')
+                loc_element = sitemap_soup.new_tag('loc')
+                loc_element.string = url
+                url_element.append(loc_element)
+                urlset.append(url_element)
+    
+    with open(sitemap_path, 'w', encoding='utf-8') as f:
+        f.write(str(sitemap_soup.prettify()))
 
 if __name__ == '__main__':
     update_files()
