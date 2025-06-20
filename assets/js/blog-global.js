@@ -309,3 +309,71 @@ window.IAutomatizeBlog = {
     trackEvent,
     smoothScroll
 };
+
+// Função para filtrar artigos por categoria
+function filterArticlesByCategory() {
+  // Verificar se existe um parâmetro 'categoria' na URL
+  const urlParams = new URLSearchParams(window.location.search);
+  const category = urlParams.get('categoria');
+  
+  if (!category) return; // Se não há categoria, mostra todos os artigos
+  
+  // Atualizar título da seção
+  const newsTitle = document.querySelector('#ultimas-noticias .section-title');
+  if (newsTitle) {
+    newsTitle.innerHTML = `Artigos: <span class="category-highlight">${decodeURIComponent(category).replace(/-/g, ' ')}</span>`;
+  }
+  
+  // Selecionar todos os cards de artigos
+  const articleCards = document.querySelectorAll('.article-card');
+  
+  // Contador de artigos visíveis
+  let visibleCount = 0;
+  
+  // Filtrar artigos
+  articleCards.forEach(card => {
+    // Obter categoria do artigo (podemos adicionar um data-attribute ou buscar no texto)
+    // Esta é uma implementação simplificada - pode precisar ser adaptada
+    const articleCategory = card.querySelector('.article-meta')?.textContent.toLowerCase() || '';
+    const normalizedCategory = category.toLowerCase().replace(/-/g, ' ');
+    
+    if (articleCategory.includes(normalizedCategory)) {
+      card.style.display = 'block';
+      visibleCount++;
+    } else {
+      card.style.display = 'none';
+    }
+  });
+  
+  // Mensagem se não houver artigos
+  if (visibleCount === 0) {
+    const articlesContainer = document.querySelector('#recent-articles-container');
+    if (articlesContainer) {
+      const noArticlesMsg = document.createElement('div');
+      noArticlesMsg.className = 'no-articles-message';
+      noArticlesMsg.innerHTML = `<p>Nenhum artigo encontrado na categoria "${decodeURIComponent(category).replace(/-/g, ' ')}". <a href="/">Ver todos</a></p>`;
+      articlesContainer.appendChild(noArticlesMsg);
+    }
+  }
+}
+
+// Adicionar CSS correspondente
+const categoryStyles = document.createElement('style');
+categoryStyles.textContent = `
+  .category-highlight {
+    color: var(--primary);
+    font-weight: bold;
+  }
+  
+  .no-articles-message {
+    background: var(--dark-lighter);
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    margin: 20px 0;
+  }
+`;
+document.head.appendChild(categoryStyles);
+
+// Executar quando o DOM estiver pronto
+document.addEventListener('DOMContentLoaded', filterArticlesByCategory);
