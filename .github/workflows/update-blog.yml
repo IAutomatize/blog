@@ -9,7 +9,6 @@ jobs:
   update:
     runs-on: ubuntu-latest
     
-    # ADICIONE ESTAS DUAS LINHAS AQUI
     permissions:
       contents: write
 
@@ -28,7 +27,9 @@ jobs:
           pip install beautifulsoup4 lxml
 
       - name: Run update script
-        run: python update_script.py
+        run: |
+          python update_script.py > update_log.txt
+          cat update_log.txt
 
       - name: Commit and push changes
         run: |
