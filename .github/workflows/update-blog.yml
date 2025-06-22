@@ -1,4 +1,4 @@
-name: Update Blog Index and Sitemap
+name: Update Blog Content
 
 on:
   schedule:
@@ -24,7 +24,12 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install beautifulsoup4 lxml
+          pip install beautifulsoup4 lxml unidecode
+
+      - name: Generate related articles
+        run: |
+          python generate_related_articles.py > related_articles_log.txt
+          cat related_articles_log.txt
 
       - name: Run update script
         run: |
@@ -35,5 +40,5 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add index.html config/sitemap.xml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update of index.html and sitemap.xml" && git push)
+          git add -A # Adiciona todas as mudanças, incluindo os artigos atualizados
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update of blog content, index, and sitemap" && git push)
