@@ -1,0 +1,157 @@
+🚀 Iniciando geração de artigos relacionados...
+
+📖 Coletando metadados dos artigos...
+  ✓ Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
+  ✓ meta-em-ofensiva-por-talentos-de-ia-de-sutskever-a-daniel-gross.html
+  ✓ de-robinhood-ao-espaco-a-revolucao-energetica-de-baiju-bhatt-com-a-aetherflux.html
+  ✓ Google-Scale-AI-Parceria-em-Risco-Após-Investimento-da-Meta.html
+  ✓ IA-Gemini-em-Pânico-no-Pokémon-O-Que-Isso-Revela.html
+  ✓ digg-ressurge-analise-do-reboot-na-era-da-ia-e-o-desafio-de-reconquistar-a-internet.html
+  ✓ xAI-de-Elon-Musk-Busca-US$-4,3-Bilhões-A-Fome-de-Capital-na-Fronteira-da-Inteligência-Artificial.html
+  ✓ mobilidade-do-futuro-a-revolucao-de-bilhoes-em-andamento.html
+  ✓ midjourney-v1-a-revolucao-criativa-na-geracao-de-video-por-ia-comecou.html
+  ✓ a-corrida-bilionaria-pela-energia-do-futuro-startups-de-fusao-nuclear-que-captaram-mais-de-us100m.html
+  ✓ captacao-serie-c-cathy-gao-detalha-novas-regras-no-techcrunch-all-stage.html
+  ✓ Taiwan-Restringe-Huawei-e-SMIC-Impacto-nos-Chips-de-IA-da-China.html
+  ✓ Mastodon-Veta-IA-Seus-Dados-Mais-Seguros-no-Fediverso.html
+  ✓ nvidia-aposta-na-renascenca-nuclear-investimento-estrategico-na-terrapower-de-bill-gates.html
+  ✓ ultima-chamada-economize-ate-210-no-techcrunch-all-stage-e-acelere-sua-startup.html
+  ✓ Google-IA-Segurança-Índia-IA-Contra-Fraudes-Crescentes.html
+  ✓ Applied-Intuition-Salto-de-US$600M-Impulsiona-Avanço-em-IA-para-Defesa-e-Veículos-Autônomos.html
+  ✓ deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
+  ✓ openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
+  ✓ spotify-lossless-codigo-reacende-esperanca-no-audio-hifi.html
+  ✓ waymo-desafia-nova-york-robotaxis-da-alphabet-miram-a-big-apple.html
+  ✓ Polar-A-Revolução-Silenciosa-dos-Unicórnios-de-Uma-Pessoa-Liderada-por-Ex-Shopify.html
+  ✓ mercado-de-semicondutores-eua-2025-reviravoltas-e-a-corrida-pela-ia.html
+  ✓ techcrunch-disrupt-2025-o-segredo-das-startups-para-contratar-talentos-com-pacotes-irresistiveis.html
+  ✓ Contrato-OpenAI-DoD-Tensão-com-a-Microsoft-Aumenta.html
+  ✓ techcrunch-all-stage-ultima-chamada-para-descontos-hoje.html
+  ✓ techcrunch-all-stage-economize-210-no-ingresso---ultimos-dias.html
+  ✓ techcrunch-disrupt-2025-builders-stage-guia-da-agenda-para-fundadores-visionarios.html
+  ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
+  ✓ Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
+  ✓ sam-altman-e-a-ia-baba-chatgpt-pode-realmente-ajudar-a-cuidar-do-seu-bebe.html
+  ✓ thinking-machines-lab-de-mira-murati-garante-us2-bi-em-rodada-seed-recorde-avaliada-em-us10-bi-o-futuro-da-ia-em-jogo.html
+  ✓ tubi-inova-ao-integrar-estrelas-do-youtube-como-mythical-kitchen-em-seu-catalogo-de-streaming.html
+  ✓ Alta-Arrecada-US$11-Milhões-A-Inteligência-Artificial-que-Dá-Vida-ao-Closet-de-'Clueless'.html
+  ✓ Waymo-Acelera-Expansão-de-Robotáxis-na-Califórnia-Ignora-Contratempos-e-Redefine-Mobilidade.html
+  ✓ Adobe-Firefly-Incendeia-a-Criação-Mobile-App-com-IA-Chega-ao-iOS-e-Android.html
+  ✓ Aspora-Levanta-US$50M-com-Sequoia-para-Diáspora-Indiana.html
+  ✓ startups-em-ebulicao-ia-defesa-tech-e-valuations-milionarios-marcam-a-semana.html
+  ✓ IA-e-Emprego-na-Amazon-Menos-Vagas-Corporativas-no-Horizonte.html
+  ✓ Relação-OpenAI-Microsoft-em-Crise-Disputas-Internas-Ameaçam-Parceria-Bilionária.html
+  ✓ Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
+  ✓ cluely-startup-da-trapaca-inteligente-capta-us15m-da-a16z-e-aquece-debate-etico-em-ia.html
+  ✓ meta-oakley-hstn-smart-glasses-com-ia-para-esportistas.html
+  ✓ Papa-Leão-XIV-e-a-IA-Vaticano-Alerta-para-Riscos-à-Humanidade-e-Desafia-Gigantes-da-Tecnologia.html
+  ✓ OpenAI-Files-Supervisão-Urgente-na-Corrida-pela-AGI.html
+  ✓ chantagem-por-ia-pesquisa-da-anthropic-revela-perigo-oculto-nos-modelos.html
+  ✓ meta-aposta-em-oculos-inteligentes-com-ia-destaques-da-semana-em-tecnologia-e-inovacao.html
+  ✓ characterai-nomeia-ex-vp-da-meta-karandeep-anand-como-novo-ceo-em-momento-crucial.html
+  ✓ paul-pope-e-a-ia-menos-plagio-artistico-mais-medo-de-robos-assassinos.html
+  ✓ Applied-Intuition-US$600M-Impulsionam-IA-em-Veículos-Autônomos-e-Defesa.html
+  ✓ techcrunch-disrupt-2025-desvende-taticas-de-sucesso-no-builders-stage.html
+  ✓ google-ai-mode-agora-com-conversas-por-voz-fluidas-e-interativas.html
+  ✓ ChatGPT-e-Saúde-Mental-Quando-a-IA-Amplifica-Delírios-e-Preocupações.html
+  ✓ Sword-Health-Capta-$40M,-Avaliação-Salta-para-$4B-e-IPO-Fica-para-Depois-de-2028-Estratégia-de-Gigante.html
+  ✓ ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
+  ✓ ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.html
+  ✓ investimentos-da-nvidia-em-ia-acelerando-o-futuro-tecnologico.html
+  ✓ softbank-ia-projeto-trilionario-crystal-land-em-foco.html
+  ✓ Guerra-de-Talentos-em-IA-Altman-Afirma-que-Meta-Falhou-ao-Tentar-Seduzir-Equipe-da-OpenAI-com-US$100M.html
+  ✓ Chatbots-de-IA-A-Sutil-Engenharia-do-Retorno-e-Seus-Dilemas.html
+  ✓ xai-de-elon-musk-data-center-em-memphis-sob-investigacao-por-poluicao-e-operacao-sem-licenca.html
+  ✓ Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.html
+  ✓ Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html
+  ✓ Cursor-AI-Plano-Ultra-US$200-Desafia-Mercado-de-Codificação-IA.html
+  ✓ ultima-chamada-para-o-techcrunch-all-stage-economize-ate-210-e-impulsione-seu-negocio.html
+  ✓ a-revolucao-energetica-de-baiju-bhatt-energia-solar-espacial-com-aetherflux-pode-mudar-tudo.html
+  ✓ vcs-pre-seed-sinais-ocultos-na-avaliacao-de-startups.html
+  ✓ zoox-acelera-nova-fabrica-impulsiona-producao-de-robotaxis.html
+  ✓ Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
+  ✓ startups-de-ia-eua-2025-investimento-robusto-acelera-futuro.html
+  ✓ TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
+  ✓ ia-no-linkedin-por-que-o-assistente-de-escrita-decepcionou-e-o-que-isso-sinaliza.html
+  ✓ Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
+  ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
+
+📊 Total de artigos processados: 74
+
+🔗 Adicionando artigos relacionados...
+✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
+✅ Artigos relacionados adicionados em meta-em-ofensiva-por-talentos-de-ia-de-sutskever-a-daniel-gross.html
+✅ Artigos relacionados adicionados em de-robinhood-ao-espaco-a-revolucao-energetica-de-baiju-bhatt-com-a-aetherflux.html
+✅ Artigos relacionados adicionados em Google-Scale-AI-Parceria-em-Risco-Após-Investimento-da-Meta.html
+✅ Artigos relacionados adicionados em IA-Gemini-em-Pânico-no-Pokémon-O-Que-Isso-Revela.html
+✅ Artigos relacionados adicionados em digg-ressurge-analise-do-reboot-na-era-da-ia-e-o-desafio-de-reconquistar-a-internet.html
+✅ Artigos relacionados adicionados em xAI-de-Elon-Musk-Busca-US$-4,3-Bilhões-A-Fome-de-Capital-na-Fronteira-da-Inteligência-Artificial.html
+✅ Artigos relacionados adicionados em mobilidade-do-futuro-a-revolucao-de-bilhoes-em-andamento.html
+✅ Artigos relacionados adicionados em midjourney-v1-a-revolucao-criativa-na-geracao-de-video-por-ia-comecou.html
+✅ Artigos relacionados adicionados em a-corrida-bilionaria-pela-energia-do-futuro-startups-de-fusao-nuclear-que-captaram-mais-de-us100m.html
+✅ Artigos relacionados adicionados em captacao-serie-c-cathy-gao-detalha-novas-regras-no-techcrunch-all-stage.html
+✅ Artigos relacionados adicionados em Taiwan-Restringe-Huawei-e-SMIC-Impacto-nos-Chips-de-IA-da-China.html
+✅ Artigos relacionados adicionados em Mastodon-Veta-IA-Seus-Dados-Mais-Seguros-no-Fediverso.html
+✅ Artigos relacionados adicionados em nvidia-aposta-na-renascenca-nuclear-investimento-estrategico-na-terrapower-de-bill-gates.html
+✅ Artigos relacionados adicionados em ultima-chamada-economize-ate-210-no-techcrunch-all-stage-e-acelere-sua-startup.html
+✅ Artigos relacionados adicionados em Google-IA-Segurança-Índia-IA-Contra-Fraudes-Crescentes.html
+✅ Artigos relacionados adicionados em Applied-Intuition-Salto-de-US$600M-Impulsiona-Avanço-em-IA-para-Defesa-e-Veículos-Autônomos.html
+✅ Artigos relacionados adicionados em deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
+✅ Artigos relacionados adicionados em openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
+✅ Artigos relacionados adicionados em spotify-lossless-codigo-reacende-esperanca-no-audio-hifi.html
+✅ Artigos relacionados adicionados em waymo-desafia-nova-york-robotaxis-da-alphabet-miram-a-big-apple.html
+✅ Artigos relacionados adicionados em Polar-A-Revolução-Silenciosa-dos-Unicórnios-de-Uma-Pessoa-Liderada-por-Ex-Shopify.html
+✅ Artigos relacionados adicionados em mercado-de-semicondutores-eua-2025-reviravoltas-e-a-corrida-pela-ia.html
+✅ Artigos relacionados adicionados em techcrunch-disrupt-2025-o-segredo-das-startups-para-contratar-talentos-com-pacotes-irresistiveis.html
+✅ Artigos relacionados adicionados em Contrato-OpenAI-DoD-Tensão-com-a-Microsoft-Aumenta.html
+✅ Artigos relacionados adicionados em techcrunch-all-stage-ultima-chamada-para-descontos-hoje.html
+✅ Artigos relacionados adicionados em techcrunch-all-stage-economize-210-no-ingresso---ultimos-dias.html
+✅ Artigos relacionados adicionados em techcrunch-disrupt-2025-builders-stage-guia-da-agenda-para-fundadores-visionarios.html
+✅ Artigos relacionados adicionados em Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
+✅ Artigos relacionados adicionados em Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
+✅ Artigos relacionados adicionados em sam-altman-e-a-ia-baba-chatgpt-pode-realmente-ajudar-a-cuidar-do-seu-bebe.html
+✅ Artigos relacionados adicionados em thinking-machines-lab-de-mira-murati-garante-us2-bi-em-rodada-seed-recorde-avaliada-em-us10-bi-o-futuro-da-ia-em-jogo.html
+✅ Artigos relacionados adicionados em tubi-inova-ao-integrar-estrelas-do-youtube-como-mythical-kitchen-em-seu-catalogo-de-streaming.html
+✅ Artigos relacionados adicionados em Alta-Arrecada-US$11-Milhões-A-Inteligência-Artificial-que-Dá-Vida-ao-Closet-de-'Clueless'.html
+✅ Artigos relacionados adicionados em Waymo-Acelera-Expansão-de-Robotáxis-na-Califórnia-Ignora-Contratempos-e-Redefine-Mobilidade.html
+✅ Artigos relacionados adicionados em Adobe-Firefly-Incendeia-a-Criação-Mobile-App-com-IA-Chega-ao-iOS-e-Android.html
+✅ Artigos relacionados adicionados em Aspora-Levanta-US$50M-com-Sequoia-para-Diáspora-Indiana.html
+✅ Artigos relacionados adicionados em startups-em-ebulicao-ia-defesa-tech-e-valuations-milionarios-marcam-a-semana.html
+✅ Artigos relacionados adicionados em IA-e-Emprego-na-Amazon-Menos-Vagas-Corporativas-no-Horizonte.html
+✅ Artigos relacionados adicionados em Relação-OpenAI-Microsoft-em-Crise-Disputas-Internas-Ameaçam-Parceria-Bilionária.html
+✅ Artigos relacionados adicionados em Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
+✅ Artigos relacionados adicionados em cluely-startup-da-trapaca-inteligente-capta-us15m-da-a16z-e-aquece-debate-etico-em-ia.html
+✅ Artigos relacionados adicionados em meta-oakley-hstn-smart-glasses-com-ia-para-esportistas.html
+✅ Artigos relacionados adicionados em Papa-Leão-XIV-e-a-IA-Vaticano-Alerta-para-Riscos-à-Humanidade-e-Desafia-Gigantes-da-Tecnologia.html
+✅ Artigos relacionados adicionados em OpenAI-Files-Supervisão-Urgente-na-Corrida-pela-AGI.html
+✅ Artigos relacionados adicionados em chantagem-por-ia-pesquisa-da-anthropic-revela-perigo-oculto-nos-modelos.html
+✅ Artigos relacionados adicionados em meta-aposta-em-oculos-inteligentes-com-ia-destaques-da-semana-em-tecnologia-e-inovacao.html
+✅ Artigos relacionados adicionados em characterai-nomeia-ex-vp-da-meta-karandeep-anand-como-novo-ceo-em-momento-crucial.html
+✅ Artigos relacionados adicionados em paul-pope-e-a-ia-menos-plagio-artistico-mais-medo-de-robos-assassinos.html
+✅ Artigos relacionados adicionados em Applied-Intuition-US$600M-Impulsionam-IA-em-Veículos-Autônomos-e-Defesa.html
+✅ Artigos relacionados adicionados em techcrunch-disrupt-2025-desvende-taticas-de-sucesso-no-builders-stage.html
+✅ Artigos relacionados adicionados em google-ai-mode-agora-com-conversas-por-voz-fluidas-e-interativas.html
+✅ Artigos relacionados adicionados em ChatGPT-e-Saúde-Mental-Quando-a-IA-Amplifica-Delírios-e-Preocupações.html
+✅ Artigos relacionados adicionados em Sword-Health-Capta-$40M,-Avaliação-Salta-para-$4B-e-IPO-Fica-para-Depois-de-2028-Estratégia-de-Gigante.html
+✅ Artigos relacionados adicionados em ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
+✅ Artigos relacionados adicionados em ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.html
+✅ Artigos relacionados adicionados em investimentos-da-nvidia-em-ia-acelerando-o-futuro-tecnologico.html
+✅ Artigos relacionados adicionados em softbank-ia-projeto-trilionario-crystal-land-em-foco.html
+✅ Artigos relacionados adicionados em Guerra-de-Talentos-em-IA-Altman-Afirma-que-Meta-Falhou-ao-Tentar-Seduzir-Equipe-da-OpenAI-com-US$100M.html
+✅ Artigos relacionados adicionados em Chatbots-de-IA-A-Sutil-Engenharia-do-Retorno-e-Seus-Dilemas.html
+✅ Artigos relacionados adicionados em xai-de-elon-musk-data-center-em-memphis-sob-investigacao-por-poluicao-e-operacao-sem-licenca.html
+✅ Artigos relacionados adicionados em Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.html
+✅ Artigos relacionados adicionados em Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html
+✅ Artigos relacionados adicionados em Cursor-AI-Plano-Ultra-US$200-Desafia-Mercado-de-Codificação-IA.html
+✅ Artigos relacionados adicionados em ultima-chamada-para-o-techcrunch-all-stage-economize-ate-210-e-impulsione-seu-negocio.html
+✅ Artigos relacionados adicionados em a-revolucao-energetica-de-baiju-bhatt-energia-solar-espacial-com-aetherflux-pode-mudar-tudo.html
+✅ Artigos relacionados adicionados em vcs-pre-seed-sinais-ocultos-na-avaliacao-de-startups.html
+✅ Artigos relacionados adicionados em zoox-acelera-nova-fabrica-impulsiona-producao-de-robotaxis.html
+✅ Artigos relacionados adicionados em Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
+✅ Artigos relacionados adicionados em startups-de-ia-eua-2025-investimento-robusto-acelera-futuro.html
+✅ Artigos relacionados adicionados em TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
+✅ Artigos relacionados adicionados em ia-no-linkedin-por-que-o-assistente-de-escrita-decepcionou-e-o-que-isso-sinaliza.html
+✅ Artigos relacionados adicionados em Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
+✅ Artigos relacionados adicionados em multiplier-us275m-para-transformar-contabilidade-com-ia.html
+
+✅ Processo concluído! Artigos relacionados foram adicionados a todos os artigos.
