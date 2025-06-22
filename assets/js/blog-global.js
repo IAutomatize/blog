@@ -242,6 +242,128 @@ function filterArticlesByCategory() {
     }
 }
 
+// ===== ARTIGOS RELACIONADOS =====
+function loadRelatedArticles() {
+    const relatedSection = document.querySelector('#related-articles');
+    if (!relatedSection) return;
+    
+    const articlesGrid = relatedSection.querySelector('.articles-grid');
+    if (!articlesGrid) return;
+    
+    // Obter metadados do artigo atual
+    const currentArticle = {
+        title: document.querySelector('title')?.textContent || '',
+        category: document.querySelector('.article-meta a[href*="categoria"]')?.textContent || '',
+        tags: Array.from(document.querySelectorAll('meta[name="keywords"]')).map(meta => 
+            meta.getAttribute('content')?.split(',').map(tag => tag.trim()) || []
+        ).flat()
+    };
+    
+    // Buscar artigos relacionados baseados em categoria e tags
+    const allArticles = getArticlesFromIndex();
+    const relatedArticles = findRelatedArticles(currentArticle, allArticles, 3);
+    
+    // Limpar grid existente
+    articlesGrid.innerHTML = '';
+    
+    if (relatedArticles.length === 0) {
+        const noRelatedMsg = document.createElement('p');
+        noRelatedMsg.textContent = 'Nenhum artigo relacionado encontrado no momento.';
+        noRelatedMsg.style.cssText = 'text-align: center; color: #666; font-style: italic;';
+        articlesGrid.appendChild(noRelatedMsg);
+        return;
+    }
+    
+    // Adicionar artigos relacionados
+    relatedArticles.forEach(article => {
+        const articleCard = createArticleCard(article);
+        articlesGrid.appendChild(articleCard);
+    });
+}
+
+function getArticlesFromIndex() {
+    // Esta função seria chamada via AJAX para buscar artigos do index.html
+    // Por simplicidade, vamos usar uma abordagem diferente
+    return [];
+}
+
+function findRelatedArticles(currentArticle, allArticles, numRelated = 3) {
+    // Algoritmo simplificado para encontrar artigos relacionados
+    // Em uma implementação real, isso seria feito no servidor
+    return [];
+}
+
+function createArticleCard(article) {
+    const card = document.createElement('article');
+    card.className = 'article-card fade-in-on-scroll';
+    
+    card.innerHTML = `
+        <div class="article-image">
+            <a href="${article.path}">
+                <img src="${article.image_url}" alt="${article.title}" loading="lazy">
+            </a>
+        </div>
+        <div class="article-content">
+            <h3><a href="${article.path}">${article.title}</a></h3>
+            <p class="article-excerpt">${article.excerpt}</p>
+            <div class="article-meta">
+                <span>Por ${article.author}</span>
+                <time datetime="${article.publish_date}">${article.formatted_date}</time>
+            </div>
+        </div>
+    `;
+    
+    return card;
+}
+
+// ===== CARREGAMENTO DINÂMICO DE ARTIGOS RELACIONADOS =====
+function loadRelatedArticlesFromAPI() {
+    const relatedSection = document.querySelector('#related-articles');
+    if (!relatedSection) return;
+    
+    const articlesGrid = relatedSection.querySelector('.articles-grid');
+    if (!articlesGrid) return;
+    
+    // Obter informações do artigo atual
+    const currentPath = window.location.pathname;
+    const currentTitle = document.querySelector('title')?.textContent || '';
+    const currentCategory = document.querySelector('.article-meta a[href*="categoria"]')?.textContent || '';
+    
+    // Fazer requisição para obter artigos relacionados
+    fetch('/api/related-articles', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+            current_path: currentPath,
+            current_title: currentTitle,
+            current_category: currentCategory
+        })
+    })
+    .then(response => response.json())
+    .then(data => {
+        articlesGrid.innerHTML = '';
+        
+        if (data.related_articles && data.related_articles.length > 0) {
+            data.related_articles.forEach(article => {
+                const articleCard = createArticleCard(article);
+                articlesGrid.appendChild(articleCard);
+            });
+        } else {
+            const noRelatedMsg = document.createElement('p');
+            noRelatedMsg.textContent = 'Nenhum artigo relacionado encontrado no momento.';
+            noRelatedMsg.style.cssText = 'text-align: center; color: #666; font-style: italic;';
+            articlesGrid.appendChild(noRelatedMsg);
+        }
+    })
+    .catch(error => {
+        console.error('Erro ao carregar artigos relacionados:', error);
+        // Fallback: mostrar mensagem de erro
+        articlesGrid.innerHTML = '<p style="text-align: center; color: #666; font-style: italic;">Erro ao carregar artigos relacionados.</p>';
+    });
+}
+
 // ===== EVENT LISTENERS =====
 function setupEventListeners() {
     // Eventos de scroll (debounce para melhor performance)
@@ -353,6 +475,11 @@ function init() {
     handleHeaderScroll();
     updateActiveNavLink();
     
+    // Carregar artigos relacionados se estivermos em uma página de artigo
+    if (document.querySelector('#related-articles')) {
+        loadRelatedArticlesFromAPI();
+    }
+    
     // Adiciona classe ao body para indicar que JS está habilitado (para CSS condicional)
     document.body.classList.add('js-enabled');
     
@@ -405,5 +532,6 @@ if ('serviceWorker' in navigator) {
 // Exporta funções úteis para acesso global, se necessário
 window.IAutomatizeBlog = {
     trackEvent,
-    smoothScroll
+    smoothScroll,
+    loadRelatedArticles
 };

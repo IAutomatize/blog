@@ -1,153 +1,183 @@
 <!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Crosby: IA da Sequoia Revoluciona Contratos Jurídicos - IAUTOMATIZE Blog</title>
-    
-    <!-- SEO Meta Tags -->
-    <meta name="description" content="A startup Crosby, apoiada pela Sequoia, usa IA para acelerar a revisão de contratos. Descubra como este escritório de advocacia inovador transforma o setor.">
-    <meta name="keywords" content="IA, Inteligência Artificial, Crosby, Sequoia, Contratos Jurídicos, Startup, Inovação Jurídica">
-    <meta name="author" content="IAutomatize">
-    
-    <!-- Open Graph -->
-    <meta property="og:title" content="Crosby: IA da Sequoia Revoluciona Contratos Jurídicos - IAUTOMATIZE Blog">
-    <meta property="og:description" content="A startup Crosby, apoiada pela Sequoia, usa IA para acelerar a revisão de contratos. Descubra como este escritório de advocacia inovador transforma o setor.">
-    <meta property="og:type" content="article">
-    <meta property="og:image" content="https://blog.iautomatize.com/assets/imagens/Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.png">
-    <meta property="og:url" content="https://blog.iautomatize.com/Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.html">
-
-    
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="https://blog.iautomatize.com/favicon.ico">
-    
-    <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    
-    <!-- Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    
-    <!-- Global Styles -->
-    <link rel="stylesheet" href="./assets/css/blog-global.css">
-
-    <!-- Google AdSense -->
-    <script async data-ad-client="ca-pub-7469851634184247" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" crossorigin="anonymous"> </script>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Crosby: IA da Sequoia Revoluciona Contratos Jurídicos - IAUTOMATIZE Blog</title>
+<!-- SEO Meta Tags -->
+<meta content="A startup Crosby, apoiada pela Sequoia, usa IA para acelerar a revisão de contratos. Descubra como este escritório de advocacia inovador transforma o setor." name="description"/>
+<meta content="IA, Inteligência Artificial, Crosby, Sequoia, Contratos Jurídicos, Startup, Inovação Jurídica" name="keywords"/>
+<meta content="IAutomatize" name="author"/>
+<!-- Open Graph -->
+<meta content="Crosby: IA da Sequoia Revoluciona Contratos Jurídicos - IAUTOMATIZE Blog" property="og:title"/>
+<meta content="A startup Crosby, apoiada pela Sequoia, usa IA para acelerar a revisão de contratos. Descubra como este escritório de advocacia inovador transforma o setor." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://blog.iautomatize.com/assets/imagens/Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.png" property="og:image"/>
+<meta content="https://blog.iautomatize.com/Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.html" property="og:url"/>
+<!-- Favicon -->
+<link href="https://blog.iautomatize.com/favicon.ico" rel="icon" type="image/x-icon"/>
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<!-- Icons -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"/>
+<!-- Global Styles -->
+<link href="./assets/css/blog-global.css" rel="stylesheet"/><meta content="ca-pub-7469851634184247" name="google-adsense-account"/><script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7469851634184247"></script>
+<!-- Google AdSense -->
 </head>
 <body>
-    <!-- Progress Bar -->
-    <div class="progress-bar-container">
-        <div class="progress-bar" id="progressBar"></div>
-    </div>
-
-    <!-- Header -->
-    <header class="main-header" id="mainHeader">
-        <div class="container nav-container">
-            <div class="logo">
-                <a href="https://blog.iautomatize.com">
-                    <img src="https://blog.iautomatize.com/logo.webp" alt="IAutomatize Logo" style="height: 40px;">
-                </a>
-            </div>
-            <nav class="nav-links">
-                <a href="https://blog.iautomatize.com/#ultimas-noticias" class="nav-link">Notícias</a>
-                <a href="https://blog.iautomatize.com/#categorias" class="nav-link">Categorias</a>
-                <a href="https://blog.iautomatize.com/#sobre" class="nav-link">Sobre</a>
-                <a href="https://blog.iautomatize.com/#contato" class="nav-link">Contato</a>
-            </nav>
-            <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Abrir Menu">
-                <span class="hamburger-line"></span>
-                <span class="hamburger-line"></span>
-                <span class="hamburger-line"></span>
-            </button>
-        </div>
-    </header>
-
-    <!-- Mobile Menu -->
-    <div class="mobile-menu" id="mobileMenu">
-        <nav>
-            <a href="https://blog.iautomatize.com/#ultimas-noticias" class="mobile-nav-link">Notícias</a>
-            <a href="https://blog.iautomatize.com/#categorias" class="mobile-nav-link">Categorias</a>
-            <a href="https://blog.iautomatize.com/#sobre" class="mobile-nav-link">Sobre</a>
-            <a href="https://blog.iautomatize.com/#contato" class="mobile-nav-link">Contato</a>
-        </nav>
-    </div>
-
-    <main>
-        <!-- Article Hero -->
-        <section id="article-hero" class="section">
-            <div class="container article-header fade-in-on-scroll">
-                <h1 class="article-title gradient-text">Crosby: IA da Sequoia Revoluciona Contratos Jurídicos</h1>
-                <p class="article-meta">
+<!-- Progress Bar -->
+<div class="progress-bar-container">
+<div class="progress-bar" id="progressBar"></div>
+</div>
+<!-- Header -->
+<header class="main-header" id="mainHeader">
+<div class="container nav-container">
+<div class="logo">
+<a href="https://blog.iautomatize.com">
+<img alt="IAutomatize Logo" src="https://blog.iautomatize.com/logo.webp" style="height: 40px;"/>
+</a>
+</div>
+<nav class="nav-links">
+<a class="nav-link" href="https://blog.iautomatize.com/#ultimas-noticias">Notícias</a>
+<a class="nav-link" href="https://blog.iautomatize.com/#categorias">Categorias</a>
+<a class="nav-link" href="https://blog.iautomatize.com/#sobre">Sobre</a>
+<a class="nav-link" href="https://blog.iautomatize.com/#contato">Contato</a>
+</nav>
+<button aria-label="Abrir Menu" class="mobile-menu-btn" id="mobileMenuBtn">
+<span class="hamburger-line"></span>
+<span class="hamburger-line"></span>
+<span class="hamburger-line"></span>
+</button>
+</div>
+</header>
+<!-- Mobile Menu -->
+<div class="mobile-menu" id="mobileMenu">
+<nav>
+<a class="mobile-nav-link" href="https://blog.iautomatize.com/#ultimas-noticias">Notícias</a>
+<a class="mobile-nav-link" href="https://blog.iautomatize.com/#categorias">Categorias</a>
+<a class="mobile-nav-link" href="https://blog.iautomatize.com/#sobre">Sobre</a>
+<a class="mobile-nav-link" href="https://blog.iautomatize.com/#contato">Contato</a>
+</nav>
+</div>
+<main>
+<!-- Article Hero -->
+<section class="section" id="article-hero">
+<div class="container article-header fade-in-on-scroll">
+<h1 class="article-title gradient-text">Crosby: IA da Sequoia Revoluciona Contratos Jurídicos</h1>
+<p class="article-meta">
                     Por <a href="#">IAutomatize</a> | 
                     <time datetime="2025-06-18">18 de Junho de 2025</time> | 
                     Em <a href="#">Inteligência Artificial</a>
-                </p>
-            </div>
-        </section>
-
-        <!-- Article Image -->
-        <section id="article-image" class="section section-alt">
-            <div class="container">
-                <img src="https://blog.iautomatize.com/assets/imagens/Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.png" alt="Crosby: IA da Sequoia Revoluciona Contratos Jurídicos" class="main-article-image">
-            </div>
-        </section>
-
-        <!-- Article Content -->
-        <section id="article-content" class="section">
-            <div class="container article-body">
-                <p>A lentidão na revisão de contratos é um entrave crônico para empresas, especialmente startups. A Crosby, um novo escritório de advocacia impulsionado por Inteligência Artificial (IA) e com um aporte de US$ 5,8 milhões liderado pela Sequoia Capital, surge para mudar este cenário, conforme noticiado pelo <a href="https://techcrunch.com/2025/06/17/sequoia-backed-crosby-launches-a-new-kind-of-ai-powered-law-firm/" target="_blank">TechCrunch</a>. A promessa é audaciosa: transformar a análise contratual de semanas para minutos.</p>
-
-                <h2>Inovação Jurídica: Escritório de Advocacia com IA Nativa</h2>
-                <p>Diferente de legaltechs que vendem software, a Crosby <em>é</em> um escritório. Advogados contratados usam a IA interna para revisar contratos (MSAs, NDAs) para startups, visando velocidade recorde. Este modelo de "escritório de advocacia IA" busca otimizar todo o processo. O CEO Ryan Daniels, advogado, sentiu na pele o gargalo contratual, enquanto o CTO John Sarihan (ex-Ramp) trouxe a expertise em tecnologia.</p>
-
-                <h2>Resultados e o Olhar da Sequoia para a "Revisão de Contratos IA"</h2>
-                <p>Desde janeiro, a Crosby já analisou mais de 1.000 contratos. O "investimento Sequoia IA" valida o potencial disruptivo no mercado jurídico de US$ 300 bilhões. Para a Sequoia, a área jurídica é um alvo perfeito para LLMs, pois a negociação de contratos é um notório gargalo de crescimento.</p>
-
-                <h2>Análise: O Futuro da Advocacia é Agora?</h2>
-                <p>A Crosby representa uma "inovação jurídica IA" significativa ao integrar tecnologia e serviço. O controle ponta a ponta pode acelerar a evolução da IA e a entrega. Contudo, a precisão em casos complexos e a supervisão humana permanecem cruciais. A aceitação pelo conservador setor jurídico será um desafio. Se bem-sucedida, a Crosby pode democratizar serviços jurídicos ágeis, especialmente para PMEs. A IA não é mais só uma ferramenta, mas o motor de um novo modelo de advocacia. O futuro é promissor, mas exige equilíbrio entre tecnologia e a indispensável ética e expertise humana.</p>
-            </div>
-        </section>
-    </main>
-
-    <!-- Footer -->
-    <footer class="main-footer">
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-section">
-                    <img src="https://blog.iautomatize.com/logo.webp" alt="IAutomatize Logo" style="height: 40px; margin-bottom: 15px;">
-                    <p>Seu portal de automação e notícias tech</p>
-                    <div class="social-links">
-                        <a href="https://instagram.com/iautomatizee" target="_blank"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-                <div class="footer-section">
-                    <h4>Links Rápidos</h4>
-                    <ul>
-                        <li><a href="https://blog.iautomatize.com/#ultimas-noticias">Notícias</a></li>
-                        <li><a href="https://blog.iautomatize.com/#categorias">Categorias</a></li>
-                        <li><a href="https://blog.iautomatize.com/#sobre">Sobre</a></li>
-                        <li><a href="https://blog.iautomatize.com/#contato">Contato</a></li>
-                    </ul>
-                </div>
-                <div class="footer-section">
-                    <h4>Categorias</h4>
-                    <ul>
-                        <li><a href="#">Inteligência Artificial</a></li>
-                        <li><a href="#">Automação Residencial</a></li>
-                        <li><a href="#">Internet das Coisas</a></li>
-                        <li><a href="#">Robótica</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <p>&copy; 2025 IAutomatize. Todos os direitos reservados.</p>
-                <p>Site principal: <a href="https://iautomatize.com">iautomatize.com</a></p>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Global Scripts -->
-    <script src="./assets/js/blog-global.js"></script>
+</p>
+</div>
+</section>
+<!-- Article Image -->
+<section class="section section-alt" id="article-image">
+<div class="container">
+<img alt="Crosby: IA da Sequoia Revoluciona Contratos Jurídicos" class="main-article-image" src="https://blog.iautomatize.com/assets/imagens/Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.png"/>
+</div>
+</section>
+<!-- Article Content -->
+<section class="section" id="article-content">
+<div class="container article-body">
+<p>A lentidão na revisão de contratos é um entrave crônico para empresas, especialmente startups. A Crosby, um novo escritório de advocacia impulsionado por Inteligência Artificial (IA) e com um aporte de US$ 5,8 milhões liderado pela Sequoia Capital, surge para mudar este cenário, conforme noticiado pelo <a href="https://techcrunch.com/2025/06/17/sequoia-backed-crosby-launches-a-new-kind-of-ai-powered-law-firm/" target="_blank">TechCrunch</a>. A promessa é audaciosa: transformar a análise contratual de semanas para minutos.</p>
+<h2>Inovação Jurídica: Escritório de Advocacia com IA Nativa</h2>
+<p>Diferente de legaltechs que vendem software, a Crosby <em>é</em> um escritório. Advogados contratados usam a IA interna para revisar contratos (MSAs, NDAs) para startups, visando velocidade recorde. Este modelo de "escritório de advocacia IA" busca otimizar todo o processo. O CEO Ryan Daniels, advogado, sentiu na pele o gargalo contratual, enquanto o CTO John Sarihan (ex-Ramp) trouxe a expertise em tecnologia.</p>
+<h2>Resultados e o Olhar da Sequoia para a "Revisão de Contratos IA"</h2>
+<p>Desde janeiro, a Crosby já analisou mais de 1.000 contratos. O "investimento Sequoia IA" valida o potencial disruptivo no mercado jurídico de US$ 300 bilhões. Para a Sequoia, a área jurídica é um alvo perfeito para LLMs, pois a negociação de contratos é um notório gargalo de crescimento.</p>
+<h2>Análise: O Futuro da Advocacia é Agora?</h2>
+<p>A Crosby representa uma "inovação jurídica IA" significativa ao integrar tecnologia e serviço. O controle ponta a ponta pode acelerar a evolução da IA e a entrega. Contudo, a precisão em casos complexos e a supervisão humana permanecem cruciais. A aceitação pelo conservador setor jurídico será um desafio. Se bem-sucedida, a Crosby pode democratizar serviços jurídicos ágeis, especialmente para PMEs. A IA não é mais só uma ferramenta, mas o motor de um novo modelo de advocacia. O futuro é promissor, mas exige equilíbrio entre tecnologia e a indispensável ética e expertise humana.</p>
+</div>
+</section>
+<section class="section" id="related-articles"><div class="container"><h2 class="section-title">Artigos Relacionados</h2><div class="articles-grid"><article class="article-card fade-in-on-scroll">
+<div class="article-image">
+<a href="articles/Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html">
+<img alt="Cluely: A Polêmica Startup de IA e a Festa Lendária que Nunca Aconteceu - IAUTOMATIZE Blog" loading="lazy" src="https://blog.iautomatize.com/assets/imagens/Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.png"/>
+</a>
+</div>
+<div class="article-content">
+<h3><a href="articles/Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html">Cluely: A Polêmica Startup de IA e a Festa Lendária que Nunca Aconteceu - IAUTOMATIZE Blog</a></h3>
+<p class="article-excerpt">A controversa startup de IA Cluely, conhecida por sua promessa de 'trapacear em tudo', viu sua festa pós-evento do Y Combinator ser encerrada pela pol...</p>
+<div class="article-meta">
+<span>Por IAutomatize</span>
+<time datetime="2025-06-22">
+                                    22 de junho de 2025
+                                </time>
+</div>
+</div>
+</article><article class="article-card fade-in-on-scroll">
+<div class="article-image">
+<a href="articles/Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html">
+<img alt="Coralogix Vira Unicórnio e Aposta na Índia com IA Olly - IAUTOMATIZE Blog" loading="lazy" src="https://blog.iautomatize.com/assets/imagens/Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.png"/>
+</a>
+</div>
+<div class="article-content">
+<h3><a href="articles/Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html">Coralogix Vira Unicórnio e Aposta na Índia com IA Olly - IAUTOMATIZE Blog</a></h3>
+<p class="article-excerpt">Coralogix capta $115M, tornando-se unicórnio. Startup de observabilidade expande na Índia e impulsiona sua IA Olly para revolucionar análise de dados....</p>
+<div class="article-meta">
+<span>Por IAutomatize</span>
+<time datetime="2025-06-22">
+                                    22 de junho de 2025
+                                </time>
+</div>
+</div>
+</article><article class="article-card fade-in-on-scroll">
+<div class="article-image">
+<a href="articles/ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.html">
+<img alt="IA e Vibe Coding: Base44 Vendida à Wix por US$80M em Tempo Recorde - IAUTOMATIZE Blog" loading="lazy" src="https://blog.iautomatize.com/assets/imagens/ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.webp"/>
+</a>
+</div>
+<div class="article-content">
+<h3><a href="articles/ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.html">IA e Vibe Coding: Base44 Vendida à Wix por US$80M em Tempo Recorde - IAUTOMATIZE Blog</a></h3>
+<p class="article-excerpt">Base44, startup de 'vibe coding', vendida à Wix por US$80M em 6 meses. Como a IA impulsiona o sucesso e redefine a criação de software por pequenos ti...</p>
+<div class="article-meta">
+<span>Por IAutomatize</span>
+<time datetime="2025-06-22">
+                                    22 de junho de 2025
+                                </time>
+</div>
+</div>
+</article></div></div></section></main>
+<!-- Footer -->
+<footer class="main-footer">
+<div class="container">
+<div class="footer-content">
+<div class="footer-section">
+<img alt="IAutomatize Logo" src="https://blog.iautomatize.com/logo.webp" style="height: 40px; margin-bottom: 15px;"/>
+<p>Seu portal de automação e notícias tech</p>
+<div class="social-links">
+<a href="https://instagram.com/iautomatizee" target="_blank"><i class="fab fa-instagram"></i></a>
+</div>
+</div>
+<div class="footer-section">
+<h4>Links Rápidos</h4>
+<ul>
+<li><a href="https://blog.iautomatize.com/#ultimas-noticias">Notícias</a></li>
+<li><a href="https://blog.iautomatize.com/#categorias">Categorias</a></li>
+<li><a href="https://blog.iautomatize.com/#sobre">Sobre</a></li>
+<li><a href="https://blog.iautomatize.com/#contato">Contato</a></li>
+</ul>
+</div>
+<div class="footer-section">
+<h4>Categorias</h4>
+<ul>
+<li><a href="#">Inteligência Artificial</a></li>
+<li><a href="#">Automação Residencial</a></li>
+<li><a href="#">Internet das Coisas</a></li>
+<li><a href="#">Robótica</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom">
+<p>© 2025 IAutomatize. Todos os direitos reservados.</p>
+<p>Site principal: <a href="https://iautomatize.com">iautomatize.com</a></p>
+</div>
+</div>
+</footer>
+<!-- Global Scripts -->
+<script src="./assets/js/blog-global.js"></script>
 </body>
 </html>
