@@ -94,6 +94,8 @@ Breadcrumbs já existem em articles/chantagem-por-ia-pesquisa-da-anthropic-revel
 Processado: chantagem-por-ia-pesquisa-da-anthropic-revela-perigo-oculto-nos-modelos.html
 Breadcrumbs já existem em articles/moratoria-na-regulamentacao-estadual-de-ia-avanca-no-senado-dos-eua-implicacoes-e-controversias.html
 Processado: moratoria-na-regulamentacao-estadual-de-ia-avanca-no-senado-dos-eua-implicacoes-e-controversias.html
+Breadcrumbs já existem em articles/finom-garante-115m-e-acelera-expansao-fintech-para-pmes-na-europa-com-ia.html
+Processado: finom-garante-115m-e-acelera-expansao-fintech-para-pmes-na-europa-com-ia.html
 Breadcrumbs já existem em articles/meta-aposta-em-oculos-inteligentes-com-ia-destaques-da-semana-em-tecnologia-e-inovacao.html
 Processado: meta-aposta-em-oculos-inteligentes-com-ia-destaques-da-semana-em-tecnologia-e-inovacao.html
 Breadcrumbs já existem em articles/characterai-nomeia-ex-vp-da-meta-karandeep-anand-como-novo-ceo-em-momento-crucial.html
@@ -204,6 +206,7 @@ Artigos relacionados adicionados com sucesso em articles/Papa-Leão-XIV-e-a-IA-V
 Artigos relacionados adicionados com sucesso em articles/OpenAI-Files-Supervisão-Urgente-na-Corrida-pela-AGI.html
 Artigos relacionados adicionados com sucesso em articles/chantagem-por-ia-pesquisa-da-anthropic-revela-perigo-oculto-nos-modelos.html
 Artigos relacionados adicionados com sucesso em articles/moratoria-na-regulamentacao-estadual-de-ia-avanca-no-senado-dos-eua-implicacoes-e-controversias.html
+Artigos relacionados adicionados com sucesso em articles/finom-garante-115m-e-acelera-expansao-fintech-para-pmes-na-europa-com-ia.html
 Artigos relacionados adicionados com sucesso em articles/meta-aposta-em-oculos-inteligentes-com-ia-destaques-da-semana-em-tecnologia-e-inovacao.html
 Artigos relacionados adicionados com sucesso em articles/characterai-nomeia-ex-vp-da-meta-karandeep-anand-como-novo-ceo-em-momento-crucial.html
 Artigos relacionados adicionados com sucesso em articles/paul-pope-e-a-ia-menos-plagio-artistico-mais-medo-de-robos-assassinos.html
@@ -234,7 +237,7 @@ Artigos relacionados adicionados com sucesso em articles/ia-no-linkedin-por-que-
 Artigos relacionados adicionados com sucesso em articles/Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
 Artigos relacionados adicionados com sucesso em articles/openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
 Artigos relacionados adicionados com sucesso em articles/multiplier-us275m-para-transformar-contabilidade-com-ia.html
-Adicionados 49 artigos à seção de últimas notícias
+Adicionados 50 artigos à seção de últimas notícias
 Adicionadas 14 categorias
-Adicionadas 294 tags
-Sitemap atualizado com 693 URLs
+Adicionadas 295 tags
+Sitemap atualizado com 773 URLs
