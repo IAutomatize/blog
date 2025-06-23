@@ -19,6 +19,7 @@
   ✓ Google-IA-Segurança-Índia-IA-Contra-Fraudes-Crescentes.html
   ✓ Applied-Intuition-Salto-de-US$600M-Impulsiona-Avanço-em-IA-para-Defesa-e-Veículos-Autônomos.html
   ✓ deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
+  ✓ danny-boyle-inova-28-years-later-gravado-com-iphones.html
   ✓ openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
   ✓ spotify-lossless-codigo-reacende-esperanca-no-audio-hifi.html
   ✓ waymo-desafia-nova-york-robotaxis-da-alphabet-miram-a-big-apple.html
@@ -47,6 +48,7 @@
   ✓ Papa-Leão-XIV-e-a-IA-Vaticano-Alerta-para-Riscos-à-Humanidade-e-Desafia-Gigantes-da-Tecnologia.html
   ✓ OpenAI-Files-Supervisão-Urgente-na-Corrida-pela-AGI.html
   ✓ chantagem-por-ia-pesquisa-da-anthropic-revela-perigo-oculto-nos-modelos.html
+  ✓ moratoria-na-regulamentacao-estadual-de-ia-avanca-no-senado-dos-eua-implicacoes-e-controversias.html
   ✓ meta-aposta-em-oculos-inteligentes-com-ia-destaques-da-semana-em-tecnologia-e-inovacao.html
   ✓ characterai-nomeia-ex-vp-da-meta-karandeep-anand-como-novo-ceo-em-momento-crucial.html
   ✓ paul-pope-e-a-ia-menos-plagio-artistico-mais-medo-de-robos-assassinos.html
@@ -55,6 +57,7 @@
   ✓ google-ai-mode-agora-com-conversas-por-voz-fluidas-e-interativas.html
   ✓ ChatGPT-e-Saúde-Mental-Quando-a-IA-Amplifica-Delírios-e-Preocupações.html
   ✓ Sword-Health-Capta-$40M,-Avaliação-Salta-para-$4B-e-IPO-Fica-para-Depois-de-2028-Estratégia-de-Gigante.html
+  ✓ robotaxi-tesla-em-austin-inovacao-promissora-ou-salto-no-escuro.html
   ✓ ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
   ✓ ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.html
   ✓ investimentos-da-nvidia-em-ia-acelerando-o-futuro-tecnologico.html
@@ -74,9 +77,10 @@
   ✓ TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
   ✓ ia-no-linkedin-por-que-o-assistente-de-escrita-decepcionou-e-o-que-isso-sinaliza.html
   ✓ Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
+  ✓ openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
-📊 Total de artigos processados: 74
+📊 Total de artigos processados: 78
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
@@ -97,6 +101,7 @@
 ✅ Artigos relacionados adicionados em Google-IA-Segurança-Índia-IA-Contra-Fraudes-Crescentes.html
 ✅ Artigos relacionados adicionados em Applied-Intuition-Salto-de-US$600M-Impulsiona-Avanço-em-IA-para-Defesa-e-Veículos-Autônomos.html
 ✅ Artigos relacionados adicionados em deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
+✅ Artigos relacionados adicionados em danny-boyle-inova-28-years-later-gravado-com-iphones.html
 ✅ Artigos relacionados adicionados em openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
 ✅ Artigos relacionados adicionados em spotify-lossless-codigo-reacende-esperanca-no-audio-hifi.html
 ✅ Artigos relacionados adicionados em waymo-desafia-nova-york-robotaxis-da-alphabet-miram-a-big-apple.html
@@ -125,6 +130,7 @@
 ✅ Artigos relacionados adicionados em Papa-Leão-XIV-e-a-IA-Vaticano-Alerta-para-Riscos-à-Humanidade-e-Desafia-Gigantes-da-Tecnologia.html
 ✅ Artigos relacionados adicionados em OpenAI-Files-Supervisão-Urgente-na-Corrida-pela-AGI.html
 ✅ Artigos relacionados adicionados em chantagem-por-ia-pesquisa-da-anthropic-revela-perigo-oculto-nos-modelos.html
+✅ Artigos relacionados adicionados em moratoria-na-regulamentacao-estadual-de-ia-avanca-no-senado-dos-eua-implicacoes-e-controversias.html
 ✅ Artigos relacionados adicionados em meta-aposta-em-oculos-inteligentes-com-ia-destaques-da-semana-em-tecnologia-e-inovacao.html
 ✅ Artigos relacionados adicionados em characterai-nomeia-ex-vp-da-meta-karandeep-anand-como-novo-ceo-em-momento-crucial.html
 ✅ Artigos relacionados adicionados em paul-pope-e-a-ia-menos-plagio-artistico-mais-medo-de-robos-assassinos.html
@@ -133,6 +139,7 @@
 ✅ Artigos relacionados adicionados em google-ai-mode-agora-com-conversas-por-voz-fluidas-e-interativas.html
 ✅ Artigos relacionados adicionados em ChatGPT-e-Saúde-Mental-Quando-a-IA-Amplifica-Delírios-e-Preocupações.html
 ✅ Artigos relacionados adicionados em Sword-Health-Capta-$40M,-Avaliação-Salta-para-$4B-e-IPO-Fica-para-Depois-de-2028-Estratégia-de-Gigante.html
+✅ Artigos relacionados adicionados em robotaxi-tesla-em-austin-inovacao-promissora-ou-salto-no-escuro.html
 ✅ Artigos relacionados adicionados em ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
 ✅ Artigos relacionados adicionados em ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.html
 ✅ Artigos relacionados adicionados em investimentos-da-nvidia-em-ia-acelerando-o-futuro-tecnologico.html
@@ -152,6 +159,7 @@
 ✅ Artigos relacionados adicionados em TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
 ✅ Artigos relacionados adicionados em ia-no-linkedin-por-que-o-assistente-de-escrita-decepcionou-e-o-que-isso-sinaliza.html
 ✅ Artigos relacionados adicionados em Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
+✅ Artigos relacionados adicionados em openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
 ✅ Artigos relacionados adicionados em multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
 ✅ Processo concluído! Artigos relacionados foram adicionados a todos os artigos.
