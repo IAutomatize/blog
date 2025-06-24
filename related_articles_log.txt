@@ -23,6 +23,7 @@
   ✓ danny-boyle-inova-28-years-later-gravado-com-iphones.html
   ✓ openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
   ✓ spotify-lossless-codigo-reacende-esperanca-no-audio-hifi.html
+  ✓ google-ai-mode-na-india-a-revolucao-da-busca-conversacional-comeca.html
   ✓ waymo-desafia-nova-york-robotaxis-da-alphabet-miram-a-big-apple.html
   ✓ Polar-A-Revolução-Silenciosa-dos-Unicórnios-de-Uma-Pessoa-Liderada-por-Ex-Shopify.html
   ✓ mercado-de-semicondutores-eua-2025-reviravoltas-e-a-corrida-pela-ia.html
@@ -31,6 +32,7 @@
   ✓ techcrunch-all-stage-ultima-chamada-para-descontos-hoje.html
   ✓ techcrunch-all-stage-economize-210-no-ingresso---ultimos-dias.html
   ✓ techcrunch-disrupt-2025-builders-stage-guia-da-agenda-para-fundadores-visionarios.html
+  ✓ nhtsa-de-olho-robotaxis-tesla-investigados-em-austin.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
   ✓ Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
   ✓ sam-altman-e-a-ia-baba-chatgpt-pode-realmente-ajudar-a-cuidar-do-seu-bebe.html
@@ -63,6 +65,7 @@
   ✓ google-ai-mode-agora-com-conversas-por-voz-fluidas-e-interativas.html
   ✓ ChatGPT-e-Saúde-Mental-Quando-a-IA-Amplifica-Delírios-e-Preocupações.html
   ✓ Sword-Health-Capta-$40M,-Avaliação-Salta-para-$4B-e-IPO-Fica-para-Depois-de-2028-Estratégia-de-Gigante.html
+  ✓ dispositivo-ia-openai-planos-secretos-com-jony-ive-vazados.html
   ✓ robotaxi-tesla-em-austin-inovacao-promissora-ou-salto-no-escuro.html
   ✓ ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
   ✓ ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.html
@@ -88,7 +91,7 @@
   ✓ openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
-📊 Total de artigos processados: 86
+📊 Total de artigos processados: 89
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
@@ -113,6 +116,7 @@
 ✅ Artigos relacionados adicionados em danny-boyle-inova-28-years-later-gravado-com-iphones.html
 ✅ Artigos relacionados adicionados em openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
 ✅ Artigos relacionados adicionados em spotify-lossless-codigo-reacende-esperanca-no-audio-hifi.html
+✅ Artigos relacionados adicionados em google-ai-mode-na-india-a-revolucao-da-busca-conversacional-comeca.html
 ✅ Artigos relacionados adicionados em waymo-desafia-nova-york-robotaxis-da-alphabet-miram-a-big-apple.html
 ✅ Artigos relacionados adicionados em Polar-A-Revolução-Silenciosa-dos-Unicórnios-de-Uma-Pessoa-Liderada-por-Ex-Shopify.html
 ✅ Artigos relacionados adicionados em mercado-de-semicondutores-eua-2025-reviravoltas-e-a-corrida-pela-ia.html
@@ -121,6 +125,7 @@
 ✅ Artigos relacionados adicionados em techcrunch-all-stage-ultima-chamada-para-descontos-hoje.html
 ✅ Artigos relacionados adicionados em techcrunch-all-stage-economize-210-no-ingresso---ultimos-dias.html
 ✅ Artigos relacionados adicionados em techcrunch-disrupt-2025-builders-stage-guia-da-agenda-para-fundadores-visionarios.html
+✅ Artigos relacionados adicionados em nhtsa-de-olho-robotaxis-tesla-investigados-em-austin.html
 ✅ Artigos relacionados adicionados em Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 ✅ Artigos relacionados adicionados em Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
 ✅ Artigos relacionados adicionados em sam-altman-e-a-ia-baba-chatgpt-pode-realmente-ajudar-a-cuidar-do-seu-bebe.html
@@ -153,6 +158,7 @@
 ✅ Artigos relacionados adicionados em google-ai-mode-agora-com-conversas-por-voz-fluidas-e-interativas.html
 ✅ Artigos relacionados adicionados em ChatGPT-e-Saúde-Mental-Quando-a-IA-Amplifica-Delírios-e-Preocupações.html
 ✅ Artigos relacionados adicionados em Sword-Health-Capta-$40M,-Avaliação-Salta-para-$4B-e-IPO-Fica-para-Depois-de-2028-Estratégia-de-Gigante.html
+✅ Artigos relacionados adicionados em dispositivo-ia-openai-planos-secretos-com-jony-ive-vazados.html
 ✅ Artigos relacionados adicionados em robotaxi-tesla-em-austin-inovacao-promissora-ou-salto-no-escuro.html
 ✅ Artigos relacionados adicionados em ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
 ✅ Artigos relacionados adicionados em ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.html
