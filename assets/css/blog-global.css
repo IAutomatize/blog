@@ -708,3 +708,30 @@ strong {
 .article-category a {
   color: var(--primary);
 }
+
+.cta-servicos {
+    text-align: center;
+    margin: 40px 0 24px 0;
+}
+
+.cta-servicos-btn {
+    display: inline-block;
+    background: linear-gradient(90deg, #7357ff 0%, #00e0c6 100%);
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.15rem;
+    padding: 16px 36px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background 0.3s, box-shadow 0.3s, transform 0.2s;
+    box-shadow: 0 3px 12px 0 rgba(80, 80, 170, 0.13);
+}
+.cta-servicos-btn:hover {
+    background: linear-gradient(90deg, #00e0c6 0%, #7357ff 100%);
+    color: #fff;
+    transform: translateY(-2px) scale(1.05);
+    box-shadow: 0 6px 20px 0 rgba(80, 80, 170, 0.20);
+}
+.cta-servicos-btn i {
+    margin-left: 8px;
+}
