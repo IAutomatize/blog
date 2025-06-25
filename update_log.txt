@@ -44,6 +44,8 @@ Breadcrumbs já existem em articles/gemini-robotics-on-device-a-revolucao-da-ia-
 Processado: gemini-robotics-on-device-a-revolucao-da-ia-do-google-para-robos-autonomos-locais.html
 Breadcrumbs já existem em articles/danny-boyle-inova-28-years-later-gravado-com-iphones.html
 Processado: danny-boyle-inova-28-years-later-gravado-com-iphones.html
+Breadcrumbs já existem em articles/elevenlabs-aplicativo-movel-gere-vozes-ia-incriveis-no-seu-celular.html
+Processado: elevenlabs-aplicativo-movel-gere-vozes-ia-incriveis-no-seu-celular.html
 Breadcrumbs já existem em articles/openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
 Processado: openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
 Breadcrumbs já existem em articles/spotify-lossless-codigo-reacende-esperanca-no-audio-hifi.html
@@ -92,6 +94,8 @@ Breadcrumbs já existem em articles/ia-e-livros-anthropic-vence-batalha-de-copyr
 Processado: ia-e-livros-anthropic-vence-batalha-de-copyright-o-que-muda.html
 Breadcrumbs já existem em articles/Aspora-Levanta-US$50M-com-Sequoia-para-Diáspora-Indiana.html
 Processado: Aspora-Levanta-US$50M-com-Sequoia-para-Diáspora-Indiana.html
+Breadcrumbs já existem em articles/pitch-para-investidores-licoes-do-techcrunch-disrupt-2025.html
+Processado: pitch-para-investidores-licoes-do-techcrunch-disrupt-2025.html
 Breadcrumbs já existem em articles/startups-em-ebulicao-ia-defesa-tech-e-valuations-milionarios-marcam-a-semana.html
 Processado: startups-em-ebulicao-ia-defesa-tech-e-valuations-milionarios-marcam-a-semana.html
 Breadcrumbs já existem em articles/IA-e-Emprego-na-Amazon-Menos-Vagas-Corporativas-no-Horizonte.html
@@ -164,6 +168,8 @@ Breadcrumbs já existem em articles/Crosby-IA-da-Sequoia-Revoluciona-Contratos-J
 Processado: Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.html
 Breadcrumbs já existem em articles/Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html
 Processado: Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html
+Breadcrumbs já existem em articles/techcrunch-all-stage-expertise-e-apoio-estrategico-para-startups-decolarem.html
+Processado: techcrunch-all-stage-expertise-e-apoio-estrategico-para-startups-decolarem.html
 Breadcrumbs já existem em articles/Cursor-AI-Plano-Ultra-US$200-Desafia-Mercado-de-Codificação-IA.html
 Processado: Cursor-AI-Plano-Ultra-US$200-Desafia-Mercado-de-Codificação-IA.html
 Breadcrumbs já existem em articles/ultima-chamada-para-o-techcrunch-all-stage-economize-ate-210-e-impulsione-seu-negocio.html
@@ -217,6 +223,7 @@ Artigos relacionados adicionados com sucesso em articles/Applied-Intuition-Salto
 Artigos relacionados adicionados com sucesso em articles/deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
 Artigos relacionados adicionados com sucesso em articles/gemini-robotics-on-device-a-revolucao-da-ia-do-google-para-robos-autonomos-locais.html
 Artigos relacionados adicionados com sucesso em articles/danny-boyle-inova-28-years-later-gravado-com-iphones.html
+Artigos relacionados adicionados com sucesso em articles/elevenlabs-aplicativo-movel-gere-vozes-ia-incriveis-no-seu-celular.html
 Artigos relacionados adicionados com sucesso em articles/openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
 Artigos relacionados adicionados com sucesso em articles/spotify-lossless-codigo-reacende-esperanca-no-audio-hifi.html
 Artigos relacionados adicionados com sucesso em articles/google-ai-mode-na-india-a-revolucao-da-busca-conversacional-comeca.html
@@ -241,6 +248,7 @@ Artigos relacionados adicionados com sucesso em articles/Adobe-Firefly-Incendeia
 Artigos relacionados adicionados com sucesso em articles/elevenlabs-leva-ia-de-voz-revolucionaria-para-o-seu-bolso-com-novo-app-movel.html
 Artigos relacionados adicionados com sucesso em articles/ia-e-livros-anthropic-vence-batalha-de-copyright-o-que-muda.html
 Artigos relacionados adicionados com sucesso em articles/Aspora-Levanta-US$50M-com-Sequoia-para-Diáspora-Indiana.html
+Artigos relacionados adicionados com sucesso em articles/pitch-para-investidores-licoes-do-techcrunch-disrupt-2025.html
 Artigos relacionados adicionados com sucesso em articles/startups-em-ebulicao-ia-defesa-tech-e-valuations-milionarios-marcam-a-semana.html
 Artigos relacionados adicionados com sucesso em articles/IA-e-Emprego-na-Amazon-Menos-Vagas-Corporativas-no-Horizonte.html
 Artigos relacionados adicionados com sucesso em articles/grok-da-xai-pode-editar-suas-planilhas-revolucao-ia-a-vista.html
@@ -277,6 +285,7 @@ Artigos relacionados adicionados com sucesso em articles/Chatbots-de-IA-A-Sutil-
 Artigos relacionados adicionados com sucesso em articles/xai-de-elon-musk-data-center-em-memphis-sob-investigacao-por-poluicao-e-operacao-sem-licenca.html
 Artigos relacionados adicionados com sucesso em articles/Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.html
 Artigos relacionados adicionados com sucesso em articles/Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html
+Artigos relacionados adicionados com sucesso em articles/techcrunch-all-stage-expertise-e-apoio-estrategico-para-startups-decolarem.html
 Artigos relacionados adicionados com sucesso em articles/Cursor-AI-Plano-Ultra-US$200-Desafia-Mercado-de-Codificação-IA.html
 Artigos relacionados adicionados com sucesso em articles/ultima-chamada-para-o-techcrunch-all-stage-economize-ate-210-e-impulsione-seu-negocio.html
 Artigos relacionados adicionados com sucesso em articles/a-revolucao-energetica-de-baiju-bhatt-energia-solar-espacial-com-aetherflux-pode-mudar-tudo.html
@@ -291,7 +300,7 @@ Artigos relacionados adicionados com sucesso em articles/nyk-adquire-kadmos-fint
 Artigos relacionados adicionados com sucesso em articles/Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
 Artigos relacionados adicionados com sucesso em articles/openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
 Artigos relacionados adicionados com sucesso em articles/multiplier-us275m-para-transformar-contabilidade-com-ia.html
-Adicionados 63 artigos à seção de últimas notícias
-Adicionadas 15 categorias
-Adicionadas 334 tags
-Sitemap atualizado com 1048 URLs
+Adicionados 62 artigos à seção de últimas notícias
+Adicionadas 16 categorias
+Adicionadas 342 tags
+Sitemap atualizado com 1149 URLs
