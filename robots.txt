@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /admin/
-Disallow: /config/
+Disallow: /templates/
 Disallow: /assets/js/
 Disallow: /assets/css/
 
