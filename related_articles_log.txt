@@ -53,6 +53,7 @@
   ✓ Contrato-OpenAI-DoD-Tensão-com-a-Microsoft-Aumenta.html
   ✓ techcrunch-all-stage-ultima-chamada-para-descontos-hoje.html
   ✓ ia-como-companhia-a-surpreendente-verdade-sobre-nossas-conversas-com-chatbots.html
+  ✓ alem-do-tam-como-startups-visionarias-criam-seus-proprios-mercados.html
   ✓ techcrunch-all-stage-economize-210-no-ingresso---ultimos-dias.html
   ✓ techcrunch-disrupt-2025-builders-stage-guia-da-agenda-para-fundadores-visionarios.html
   ✓ nhtsa-de-olho-robotaxis-tesla-investigados-em-austin.html
@@ -68,6 +69,7 @@
   ✓ meta-ataca-openai-e-contrata-pesquisador-chave-para-vencer-a-guerra-da-superinteligencia-artificial.html
   ✓ Waymo-Acelera-Expansão-de-Robotáxis-na-Califórnia-Ignora-Contratempos-e-Redefine-Mobilidade.html
   ✓ Adobe-Firefly-Incendeia-a-Criação-Mobile-App-com-IA-Chega-ao-iOS-e-Android.html
+  ✓ google-doppl-o-provador-virtual-com-ia-que-pode-mudar-como-compramos-roupas.html
   ✓ synthflow-ai-decifrando-o-codigo-da-voz-em-um-mercado-de-ia-em-ebulicao.html
   ✓ de-minerador-de-cripto-a-bilionario-da-ia-a-aposta-arriscada-da-coreweave.html
   ✓ meta-e-o-fair-use-juiz-decide-a-favor-da-gigante-em-caso-de-treinamento-de-ia-com-livros-protegidos.html
@@ -90,6 +92,8 @@
   ✓ cluely-startup-da-trapaca-inteligente-capta-us15m-da-a16z-e-aquece-debate-etico-em-ia.html
   ✓ meta-oakley-hstn-smart-glasses-com-ia-para-esportistas.html
   ✓ novoloop-revoluciona-reciclagem-plastico-descartado-vira-material-de-alta-performance.html
+  ✓ o-penhasco-oculto-que-ameaca-a-escalabilidade-de-seus-agentes-de-ia.html
+  ✓ meta-negocia-compra-da-play-ai-a-proxima-revolucao-na-interacao-social.html
   ✓ kodiak--vay-direcao-remota-acelera-caminhoes-autonomos.html
   ✓ nuvem-quantica-chance-trilionaria-riscos-iminentes.html
   ✓ ia-empresarial-metodo-sandbox-first-de-andrew-ng-para-inovar.html
@@ -115,6 +119,7 @@
   ✓ deepseek-v3-segredos-do-treinamento-de-ia-acessivel-revelados.html
   ✓ decifrando-o-codigo-do-investimento-em-ia-kleida-martiro-guia-startups-no-techcrunch-all-stage.html
   ✓ Applied-Intuition-US$600M-Impulsionam-IA-em-Veículos-Autônomos-e-Defesa.html
+  ✓ o-framework-de-ia-do-walmart-a-estrategia-para-dominar-o-varejo.html
   ✓ vcs-revelam-o-futuro-dos-investimentos-em-ia-e-tech-para-2026-no-techcrunch-disrupt-2025.html
   ✓ agentes-de-ia-a-revolucao-no-futuro-do-software-segundo-o-ceo-da-replit.html
   ✓ srpo-da-kwai-ai-grpo-pode-ser-10x-mais-eficiente-com-nova-tecnica.html
@@ -137,6 +142,7 @@
   ✓ harvey-ai-atinge-us5b-crescimento-explosivo-na-ia-juridica.html
   ✓ empatia-em-ia-o-ingrediente-secreto-para-superar-o-medo-e-acelerar-a-adocao.html
   ✓ softbank-ia-projeto-trilionario-crystal-land-em-foco.html
+  ✓ redwood-materials-como-baterias-usadas-de-ves-vao-alimentar-a-revolucao-da-ia.html
   ✓ Guerra-de-Talentos-em-IA-Altman-Afirma-que-Meta-Falhou-ao-Tentar-Seduzir-Equipe-da-OpenAI-com-US$100M.html
   ✓ Chatbots-de-IA-A-Sutil-Engenharia-do-Retorno-e-Seus-Dilemas.html
   ✓ xai-de-elon-musk-data-center-em-memphis-sob-investigacao-por-poluicao-e-operacao-sem-licenca.html
@@ -156,12 +162,14 @@
   ✓ deepseek-prover-v2-ia-desvenda-teoremas-com-busca-recursiva-inovadora.html
   ✓ a-revolucao-energetica-de-baiju-bhatt-energia-solar-espacial-com-aetherflux-pode-mudar-tudo.html
   ✓ ia-autodidata-mit-inova-com-modelos-que-aprendem-sozinhos.html
+  ✓ a-fabrica-de-startups-ia-audos-quer-lancar-100000-empresas-por-ano.html
   ✓ vcs-pre-seed-sinais-ocultos-na-avaliacao-de-startups.html
   ✓ zoox-acelera-nova-fabrica-impulsiona-producao-de-robotaxis.html
   ✓ Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
   ✓ wispr-flow-capta-us30-mi-com-ia-de-ditado-que-conquistou-o-vale-do-silicio.html
   ✓ startups-de-ia-eua-2025-investimento-robusto-acelera-futuro.html
   ✓ gemini-cli-ia-open-source-do-google-chega-ao-terminal-para-revolucionar-o-codigo.html
+  ❌ Erro ao processar ia-para-mvp-a-arte-de-saber-quando-usar-um-bot-e-quando-nao.html: 'utf-8' codec can't decode byte 0xe9 in position 9032: invalid continuation byte
   ✓ ia-e-semana-de-4-dias-bernie-sanders-defende-trabalhadores.html
   ✓ cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
   ✓ TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
@@ -174,7 +182,7 @@
   ✓ openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
-📊 Total de artigos processados: 172
+📊 Total de artigos processados: 179
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
@@ -229,6 +237,7 @@
 ✅ Artigos relacionados adicionados em Contrato-OpenAI-DoD-Tensão-com-a-Microsoft-Aumenta.html
 ✅ Artigos relacionados adicionados em techcrunch-all-stage-ultima-chamada-para-descontos-hoje.html
 ✅ Artigos relacionados adicionados em ia-como-companhia-a-surpreendente-verdade-sobre-nossas-conversas-com-chatbots.html
+✅ Artigos relacionados adicionados em alem-do-tam-como-startups-visionarias-criam-seus-proprios-mercados.html
 ✅ Artigos relacionados adicionados em techcrunch-all-stage-economize-210-no-ingresso---ultimos-dias.html
 ✅ Artigos relacionados adicionados em techcrunch-disrupt-2025-builders-stage-guia-da-agenda-para-fundadores-visionarios.html
 ✅ Artigos relacionados adicionados em nhtsa-de-olho-robotaxis-tesla-investigados-em-austin.html
@@ -244,6 +253,7 @@
 ✅ Artigos relacionados adicionados em meta-ataca-openai-e-contrata-pesquisador-chave-para-vencer-a-guerra-da-superinteligencia-artificial.html
 ✅ Artigos relacionados adicionados em Waymo-Acelera-Expansão-de-Robotáxis-na-Califórnia-Ignora-Contratempos-e-Redefine-Mobilidade.html
 ✅ Artigos relacionados adicionados em Adobe-Firefly-Incendeia-a-Criação-Mobile-App-com-IA-Chega-ao-iOS-e-Android.html
+✅ Artigos relacionados adicionados em google-doppl-o-provador-virtual-com-ia-que-pode-mudar-como-compramos-roupas.html
 ✅ Artigos relacionados adicionados em synthflow-ai-decifrando-o-codigo-da-voz-em-um-mercado-de-ia-em-ebulicao.html
 ✅ Artigos relacionados adicionados em de-minerador-de-cripto-a-bilionario-da-ia-a-aposta-arriscada-da-coreweave.html
 ✅ Artigos relacionados adicionados em meta-e-o-fair-use-juiz-decide-a-favor-da-gigante-em-caso-de-treinamento-de-ia-com-livros-protegidos.html
@@ -266,6 +276,8 @@
 ✅ Artigos relacionados adicionados em cluely-startup-da-trapaca-inteligente-capta-us15m-da-a16z-e-aquece-debate-etico-em-ia.html
 ✅ Artigos relacionados adicionados em meta-oakley-hstn-smart-glasses-com-ia-para-esportistas.html
 ✅ Artigos relacionados adicionados em novoloop-revoluciona-reciclagem-plastico-descartado-vira-material-de-alta-performance.html
+✅ Artigos relacionados adicionados em o-penhasco-oculto-que-ameaca-a-escalabilidade-de-seus-agentes-de-ia.html
+✅ Artigos relacionados adicionados em meta-negocia-compra-da-play-ai-a-proxima-revolucao-na-interacao-social.html
 ✅ Artigos relacionados adicionados em kodiak--vay-direcao-remota-acelera-caminhoes-autonomos.html
 ✅ Artigos relacionados adicionados em nuvem-quantica-chance-trilionaria-riscos-iminentes.html
 ✅ Artigos relacionados adicionados em ia-empresarial-metodo-sandbox-first-de-andrew-ng-para-inovar.html
@@ -291,6 +303,7 @@
 ✅ Artigos relacionados adicionados em deepseek-v3-segredos-do-treinamento-de-ia-acessivel-revelados.html
 ✅ Artigos relacionados adicionados em decifrando-o-codigo-do-investimento-em-ia-kleida-martiro-guia-startups-no-techcrunch-all-stage.html
 ✅ Artigos relacionados adicionados em Applied-Intuition-US$600M-Impulsionam-IA-em-Veículos-Autônomos-e-Defesa.html
+✅ Artigos relacionados adicionados em o-framework-de-ia-do-walmart-a-estrategia-para-dominar-o-varejo.html
 ✅ Artigos relacionados adicionados em vcs-revelam-o-futuro-dos-investimentos-em-ia-e-tech-para-2026-no-techcrunch-disrupt-2025.html
 ✅ Artigos relacionados adicionados em agentes-de-ia-a-revolucao-no-futuro-do-software-segundo-o-ceo-da-replit.html
 ✅ Artigos relacionados adicionados em srpo-da-kwai-ai-grpo-pode-ser-10x-mais-eficiente-com-nova-tecnica.html
@@ -313,6 +326,7 @@
 ✅ Artigos relacionados adicionados em harvey-ai-atinge-us5b-crescimento-explosivo-na-ia-juridica.html
 ✅ Artigos relacionados adicionados em empatia-em-ia-o-ingrediente-secreto-para-superar-o-medo-e-acelerar-a-adocao.html
 ✅ Artigos relacionados adicionados em softbank-ia-projeto-trilionario-crystal-land-em-foco.html
+✅ Artigos relacionados adicionados em redwood-materials-como-baterias-usadas-de-ves-vao-alimentar-a-revolucao-da-ia.html
 ✅ Artigos relacionados adicionados em Guerra-de-Talentos-em-IA-Altman-Afirma-que-Meta-Falhou-ao-Tentar-Seduzir-Equipe-da-OpenAI-com-US$100M.html
 ✅ Artigos relacionados adicionados em Chatbots-de-IA-A-Sutil-Engenharia-do-Retorno-e-Seus-Dilemas.html
 ✅ Artigos relacionados adicionados em xai-de-elon-musk-data-center-em-memphis-sob-investigacao-por-poluicao-e-operacao-sem-licenca.html
@@ -332,12 +346,14 @@
 ✅ Artigos relacionados adicionados em deepseek-prover-v2-ia-desvenda-teoremas-com-busca-recursiva-inovadora.html
 ✅ Artigos relacionados adicionados em a-revolucao-energetica-de-baiju-bhatt-energia-solar-espacial-com-aetherflux-pode-mudar-tudo.html
 ✅ Artigos relacionados adicionados em ia-autodidata-mit-inova-com-modelos-que-aprendem-sozinhos.html
+✅ Artigos relacionados adicionados em a-fabrica-de-startups-ia-audos-quer-lancar-100000-empresas-por-ano.html
 ✅ Artigos relacionados adicionados em vcs-pre-seed-sinais-ocultos-na-avaliacao-de-startups.html
 ✅ Artigos relacionados adicionados em zoox-acelera-nova-fabrica-impulsiona-producao-de-robotaxis.html
 ✅ Artigos relacionados adicionados em Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
 ✅ Artigos relacionados adicionados em wispr-flow-capta-us30-mi-com-ia-de-ditado-que-conquistou-o-vale-do-silicio.html
 ✅ Artigos relacionados adicionados em startups-de-ia-eua-2025-investimento-robusto-acelera-futuro.html
 ✅ Artigos relacionados adicionados em gemini-cli-ia-open-source-do-google-chega-ao-terminal-para-revolucionar-o-codigo.html
+❌ Erro ao adicionar artigos relacionados em articles/ia-para-mvp-a-arte-de-saber-quando-usar-um-bot-e-quando-nao.html: 'utf-8' codec can't decode byte 0xe9 in position 9032: invalid continuation byte
 ✅ Artigos relacionados adicionados em ia-e-semana-de-4-dias-bernie-sanders-defende-trabalhadores.html
 ✅ Artigos relacionados adicionados em cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
 ✅ Artigos relacionados adicionados em TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
