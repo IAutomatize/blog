@@ -57,6 +57,7 @@
   ✓ robotaxis-em-atlanta-uber-e-waymo-lancam-servico-inovador.html
   ✓ fraude-por-deepfake-persona-bloqueia-75-milhoes-de-golpes.html
   ✓ Contrato-OpenAI-DoD-Tensão-com-a-Microsoft-Aumenta.html
+  ✓ ia-empresarial-o-fim-da-guerra-entre-modelos-abertos-e-fechados.html
   ✓ techcrunch-all-stage-ultima-chamada-para-descontos-hoje.html
   ✓ ia-como-companhia-a-surpreendente-verdade-sobre-nossas-conversas-com-chatbots.html
   ✓ alem-do-tam-como-startups-visionarias-criam-seus-proprios-mercados.html
@@ -67,6 +68,7 @@
   ✓ airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
   ✓ navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
   ✓ meta-e-a-guerra-por-talentos-em-ia-a-verdade-sobre-os-salarios-de-us100-milhoes.html
+  ✓ uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
   ✓ Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
   ✓ dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
   ✓ sam-altman-e-a-ia-baba-chatgpt-pode-realmente-ajudar-a-cuidar-do-seu-bebe.html
@@ -116,6 +118,7 @@
   ✓ OpenAI-Files-Supervisão-Urgente-na-Corrida-pela-AGI.html
   ✓ chantagem-por-ia-pesquisa-da-anthropic-revela-perigo-oculto-nos-modelos.html
   ✓ moratoria-na-regulamentacao-estadual-de-ia-avanca-no-senado-dos-eua-implicacoes-e-controversias.html
+  ✓ do-piloto-ao-lucro-o-guia-definitivo-para-uma-ia-escalavel-com-roi-positivo.html
   ✓ finom-garante-115m-e-acelera-expansao-fintech-para-pmes-na-europa-com-ia.html
   ✓ sitch-o-aplicativo-de-namoro-com-ia-que-promete-revolucionar-conexoes-com-toque-humano.html
   ✓ meta-aposta-em-oculos-inteligentes-com-ia-destaques-da-semana-em-tecnologia-e-inovacao.html
@@ -124,6 +127,7 @@
   ✓ uber-acelera-dominio-autonomo-em-atlanta-com-robos-de-delivery.html
   ✓ cisos-guardioes-do-investimento-de-us309-bi-em-infra-de-ia.html
   ✓ ia-politizada-de-musk-grok-e-os-perigos-reais-para-usuarios-e-empresas.html
+  ✓ a-armadilha-da-inferencia-como-a-nuvem-esta-drenando-os-lucros-da-sua-ia.html
   ✓ apple-wallet-anuncio-do-filme-f1-irrita-usuarios-de-iphone.html
   ✓ us100-milhoes-para-ia-cofundador-da-databricks-e-perplexity-lanca-fundo-com-foco-em-pesquisa-de-impacto.html
   ✓ atribuicao-de-falhas-em-mas-nova-ia-da-psu-e-duke.html
@@ -131,6 +135,7 @@
   ✓ paul-pope-e-a-ia-menos-plagio-artistico-mais-medo-de-robos-assassinos.html
   ✓ deepseek-v3-segredos-do-treinamento-de-ia-acessivel-revelados.html
   ✓ decifrando-o-codigo-do-investimento-em-ia-kleida-martiro-guia-startups-no-techcrunch-all-stage.html
+  ✓ ia-na-empresa-como-otimizar-custos-de-computacao-sem-frear-a-inovacao.html
   ✓ Applied-Intuition-US$600M-Impulsionam-IA-em-Veículos-Autônomos-e-Defesa.html
   ✓ o-framework-de-ia-do-walmart-a-estrategia-para-dominar-o-varejo.html
   ✓ vcs-revelam-o-futuro-dos-investimentos-em-ia-e-tech-para-2026-no-techcrunch-disrupt-2025.html
@@ -146,6 +151,7 @@
   ✓ google-fotos-ia-e-busca-classica-se-unem-para-acelerar-seus-resultados.html
   ✓ dispositivo-ia-openai-planos-secretos-com-jony-ive-vazados.html
   ✓ seal-ai-do-mit-a-nova-era-da-inteligencia-artificial-autoaperfeicoavel.html
+  ✓ minimalismo-de-modelos-a-estrategia-de-ia-que-economiza-milhoes.html
   ✓ robotaxi-tesla-em-austin-inovacao-promissora-ou-salto-no-escuro.html
   ✓ ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
   ✓ ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.html
@@ -188,6 +194,8 @@
   ❌ Erro ao processar ia-para-mvp-a-arte-de-saber-quando-usar-um-bot-e-quando-nao.html: 'utf-8' codec can't decode byte 0xe9 in position 9032: invalid continuation byte
   ✓ ia-e-semana-de-4-dias-bernie-sanders-defende-trabalhadores.html
   ✓ cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
+  ✓ ataques-runtime-em-ia-como-proteger-seu-orcamento-de-buracos-negros-financeiros.html
+  ✓ roi-em-ia-por-que-os-cfos-exigem-metricas-reais-e-nao-apenas-demos.html
   ✓ TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
   ✓ ia-no-linkedin-por-que-o-assistente-de-escrita-decepcionou-e-o-que-isso-sinaliza.html
   ✓ ia-empresarial-desvende-o-valor-oculto-nos-seus-dados-ignorados-alerta-bcg.html
@@ -198,7 +206,7 @@
   ✓ openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
-📊 Total de artigos processados: 195
+📊 Total de artigos processados: 203
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
@@ -257,6 +265,7 @@
 ✅ Artigos relacionados adicionados em robotaxis-em-atlanta-uber-e-waymo-lancam-servico-inovador.html
 ✅ Artigos relacionados adicionados em fraude-por-deepfake-persona-bloqueia-75-milhoes-de-golpes.html
 ✅ Artigos relacionados adicionados em Contrato-OpenAI-DoD-Tensão-com-a-Microsoft-Aumenta.html
+✅ Artigos relacionados adicionados em ia-empresarial-o-fim-da-guerra-entre-modelos-abertos-e-fechados.html
 ✅ Artigos relacionados adicionados em techcrunch-all-stage-ultima-chamada-para-descontos-hoje.html
 ✅ Artigos relacionados adicionados em ia-como-companhia-a-surpreendente-verdade-sobre-nossas-conversas-com-chatbots.html
 ✅ Artigos relacionados adicionados em alem-do-tam-como-startups-visionarias-criam-seus-proprios-mercados.html
@@ -267,6 +276,7 @@
 ✅ Artigos relacionados adicionados em airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
 ✅ Artigos relacionados adicionados em navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
 ✅ Artigos relacionados adicionados em meta-e-a-guerra-por-talentos-em-ia-a-verdade-sobre-os-salarios-de-us100-milhoes.html
+✅ Artigos relacionados adicionados em uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 ✅ Artigos relacionados adicionados em Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
 ✅ Artigos relacionados adicionados em dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
 ✅ Artigos relacionados adicionados em sam-altman-e-a-ia-baba-chatgpt-pode-realmente-ajudar-a-cuidar-do-seu-bebe.html
@@ -316,6 +326,7 @@
 ✅ Artigos relacionados adicionados em OpenAI-Files-Supervisão-Urgente-na-Corrida-pela-AGI.html
 ✅ Artigos relacionados adicionados em chantagem-por-ia-pesquisa-da-anthropic-revela-perigo-oculto-nos-modelos.html
 ✅ Artigos relacionados adicionados em moratoria-na-regulamentacao-estadual-de-ia-avanca-no-senado-dos-eua-implicacoes-e-controversias.html
+✅ Artigos relacionados adicionados em do-piloto-ao-lucro-o-guia-definitivo-para-uma-ia-escalavel-com-roi-positivo.html
 ✅ Artigos relacionados adicionados em finom-garante-115m-e-acelera-expansao-fintech-para-pmes-na-europa-com-ia.html
 ✅ Artigos relacionados adicionados em sitch-o-aplicativo-de-namoro-com-ia-que-promete-revolucionar-conexoes-com-toque-humano.html
 ✅ Artigos relacionados adicionados em meta-aposta-em-oculos-inteligentes-com-ia-destaques-da-semana-em-tecnologia-e-inovacao.html
@@ -324,6 +335,7 @@
 ✅ Artigos relacionados adicionados em uber-acelera-dominio-autonomo-em-atlanta-com-robos-de-delivery.html
 ✅ Artigos relacionados adicionados em cisos-guardioes-do-investimento-de-us309-bi-em-infra-de-ia.html
 ✅ Artigos relacionados adicionados em ia-politizada-de-musk-grok-e-os-perigos-reais-para-usuarios-e-empresas.html
+✅ Artigos relacionados adicionados em a-armadilha-da-inferencia-como-a-nuvem-esta-drenando-os-lucros-da-sua-ia.html
 ✅ Artigos relacionados adicionados em apple-wallet-anuncio-do-filme-f1-irrita-usuarios-de-iphone.html
 ✅ Artigos relacionados adicionados em us100-milhoes-para-ia-cofundador-da-databricks-e-perplexity-lanca-fundo-com-foco-em-pesquisa-de-impacto.html
 ✅ Artigos relacionados adicionados em atribuicao-de-falhas-em-mas-nova-ia-da-psu-e-duke.html
@@ -331,6 +343,7 @@
 ✅ Artigos relacionados adicionados em paul-pope-e-a-ia-menos-plagio-artistico-mais-medo-de-robos-assassinos.html
 ✅ Artigos relacionados adicionados em deepseek-v3-segredos-do-treinamento-de-ia-acessivel-revelados.html
 ✅ Artigos relacionados adicionados em decifrando-o-codigo-do-investimento-em-ia-kleida-martiro-guia-startups-no-techcrunch-all-stage.html
+✅ Artigos relacionados adicionados em ia-na-empresa-como-otimizar-custos-de-computacao-sem-frear-a-inovacao.html
 ✅ Artigos relacionados adicionados em Applied-Intuition-US$600M-Impulsionam-IA-em-Veículos-Autônomos-e-Defesa.html
 ✅ Artigos relacionados adicionados em o-framework-de-ia-do-walmart-a-estrategia-para-dominar-o-varejo.html
 ✅ Artigos relacionados adicionados em vcs-revelam-o-futuro-dos-investimentos-em-ia-e-tech-para-2026-no-techcrunch-disrupt-2025.html
@@ -346,6 +359,7 @@
 ✅ Artigos relacionados adicionados em google-fotos-ia-e-busca-classica-se-unem-para-acelerar-seus-resultados.html
 ✅ Artigos relacionados adicionados em dispositivo-ia-openai-planos-secretos-com-jony-ive-vazados.html
 ✅ Artigos relacionados adicionados em seal-ai-do-mit-a-nova-era-da-inteligencia-artificial-autoaperfeicoavel.html
+✅ Artigos relacionados adicionados em minimalismo-de-modelos-a-estrategia-de-ia-que-economiza-milhoes.html
 ✅ Artigos relacionados adicionados em robotaxi-tesla-em-austin-inovacao-promissora-ou-salto-no-escuro.html
 ✅ Artigos relacionados adicionados em ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
 ✅ Artigos relacionados adicionados em ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.html
@@ -388,6 +402,8 @@
 ❌ Erro ao adicionar artigos relacionados em articles/ia-para-mvp-a-arte-de-saber-quando-usar-um-bot-e-quando-nao.html: 'utf-8' codec can't decode byte 0xe9 in position 9032: invalid continuation byte
 ✅ Artigos relacionados adicionados em ia-e-semana-de-4-dias-bernie-sanders-defende-trabalhadores.html
 ✅ Artigos relacionados adicionados em cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
+✅ Artigos relacionados adicionados em ataques-runtime-em-ia-como-proteger-seu-orcamento-de-buracos-negros-financeiros.html
+✅ Artigos relacionados adicionados em roi-em-ia-por-que-os-cfos-exigem-metricas-reais-e-nao-apenas-demos.html
 ✅ Artigos relacionados adicionados em TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
 ✅ Artigos relacionados adicionados em ia-no-linkedin-por-que-o-assistente-de-escrita-decepcionou-e-o-que-isso-sinaliza.html
 ✅ Artigos relacionados adicionados em ia-empresarial-desvende-o-valor-oculto-nos-seus-dados-ignorados-alerta-bcg.html
