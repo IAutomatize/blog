@@ -20,6 +20,8 @@
   ✓ chatehr-stanford-ia-segura-para-consultar-prontuarios-medicos.html
   ✓ kumo-e-seu-modelo-de-fundacao-relacional-a-ia-que-preve-o-futuro-que-seu-llm-nao-ve.html
   ✓ xAI-de-Elon-Musk-Busca-US$-4,3-Bilhões-A-Fome-de-Capital-na-Fronteira-da-Inteligência-Artificial.html
+  ✓ catio-ia-para-gatos-vence-premio-de-inovacao-na-vb-transform-2025.html
+  ✓ a-ressurreicao-da-davids-bridal-como-a-ia-pode-salvar-uma-gigante-do-varejo-da-falencia.html
   ✓ mobilidade-do-futuro-a-revolucao-de-bilhoes-em-andamento.html
   ✓ midjourney-v1-a-revolucao-criativa-na-geracao-de-video-por-ia-comecou.html
   ✓ a-corrida-bilionaria-pela-energia-do-futuro-startups-de-fusao-nuclear-que-captaram-mais-de-us100m.html
@@ -50,6 +52,7 @@
   ✓ jon-mcneill-no-techcrunch-all-stage-o-manual-do-operador-para-escalar-empresas-sustentaveis.html
   ✓ a-revolucao-agentica-da-ia-o-que-lideres-empresariais-precisam-saber-agora.html
   ✓ mercado-de-semicondutores-eua-2025-reviravoltas-e-a-corrida-pela-ia.html
+  ✓ agentes-de-ia-e-o-muro-da-responsabilidade-a-supervisao-humana-e-a-resposta.html
   ✓ direitos-autorais-ia-getty-recua-parcialmente-contra-stability-ai-no-uk-luta-continua.html
   ✓ techcrunch-disrupt-2025-o-segredo-das-startups-para-contratar-talentos-com-pacotes-irresistiveis.html
   ✓ ring-inova-com-ia-descricoes-detalhadas-de-movimento-em-cameras-e-campainhas.html
@@ -100,6 +103,7 @@
   ✓ claude-ia-crie-apps-sem-codigo-apenas-com-prompts.html
   ✓ o-fim-da-era-social-titas-de-twitter-e-meta-revelam-o-futuro.html
   ✓ ia-empresarial-o-desafio-e-escolher-o-llm-certo.html
+  ✓ do-algoritmo-ao-caos-licoes-de-um-projeto-real-de-visao-computacional.html
   ✓ zhipuai-glm-4-open-source-acelera-ia-global-pre-ipo.html
   ✓ ia-do-walmart-autonomia-inedita-e-engajamento-de-15-milhao.html
   ✓ Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
@@ -196,6 +200,7 @@
   ✓ cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
   ✓ ataques-runtime-em-ia-como-proteger-seu-orcamento-de-buracos-negros-financeiros.html
   ✓ roi-em-ia-por-que-os-cfos-exigem-metricas-reais-e-nao-apenas-demos.html
+  ✓ ctgt-vence-premio-no-vb-transform-2025-e-sinaliza-o-fim-das-apresentacoes-comuns.html
   ✓ TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
   ✓ ia-no-linkedin-por-que-o-assistente-de-escrita-decepcionou-e-o-que-isso-sinaliza.html
   ✓ ia-empresarial-desvende-o-valor-oculto-nos-seus-dados-ignorados-alerta-bcg.html
@@ -206,7 +211,7 @@
   ✓ openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
-📊 Total de artigos processados: 203
+📊 Total de artigos processados: 208
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
@@ -228,6 +233,8 @@
 ✅ Artigos relacionados adicionados em chatehr-stanford-ia-segura-para-consultar-prontuarios-medicos.html
 ✅ Artigos relacionados adicionados em kumo-e-seu-modelo-de-fundacao-relacional-a-ia-que-preve-o-futuro-que-seu-llm-nao-ve.html
 ✅ Artigos relacionados adicionados em xAI-de-Elon-Musk-Busca-US$-4,3-Bilhões-A-Fome-de-Capital-na-Fronteira-da-Inteligência-Artificial.html
+✅ Artigos relacionados adicionados em catio-ia-para-gatos-vence-premio-de-inovacao-na-vb-transform-2025.html
+✅ Artigos relacionados adicionados em a-ressurreicao-da-davids-bridal-como-a-ia-pode-salvar-uma-gigante-do-varejo-da-falencia.html
 ✅ Artigos relacionados adicionados em mobilidade-do-futuro-a-revolucao-de-bilhoes-em-andamento.html
 ✅ Artigos relacionados adicionados em midjourney-v1-a-revolucao-criativa-na-geracao-de-video-por-ia-comecou.html
 ✅ Artigos relacionados adicionados em a-corrida-bilionaria-pela-energia-do-futuro-startups-de-fusao-nuclear-que-captaram-mais-de-us100m.html
@@ -258,6 +265,7 @@
 ✅ Artigos relacionados adicionados em jon-mcneill-no-techcrunch-all-stage-o-manual-do-operador-para-escalar-empresas-sustentaveis.html
 ✅ Artigos relacionados adicionados em a-revolucao-agentica-da-ia-o-que-lideres-empresariais-precisam-saber-agora.html
 ✅ Artigos relacionados adicionados em mercado-de-semicondutores-eua-2025-reviravoltas-e-a-corrida-pela-ia.html
+✅ Artigos relacionados adicionados em agentes-de-ia-e-o-muro-da-responsabilidade-a-supervisao-humana-e-a-resposta.html
 ✅ Artigos relacionados adicionados em direitos-autorais-ia-getty-recua-parcialmente-contra-stability-ai-no-uk-luta-continua.html
 ✅ Artigos relacionados adicionados em techcrunch-disrupt-2025-o-segredo-das-startups-para-contratar-talentos-com-pacotes-irresistiveis.html
 ✅ Artigos relacionados adicionados em ring-inova-com-ia-descricoes-detalhadas-de-movimento-em-cameras-e-campainhas.html
@@ -308,6 +316,7 @@
 ✅ Artigos relacionados adicionados em claude-ia-crie-apps-sem-codigo-apenas-com-prompts.html
 ✅ Artigos relacionados adicionados em o-fim-da-era-social-titas-de-twitter-e-meta-revelam-o-futuro.html
 ✅ Artigos relacionados adicionados em ia-empresarial-o-desafio-e-escolher-o-llm-certo.html
+✅ Artigos relacionados adicionados em do-algoritmo-ao-caos-licoes-de-um-projeto-real-de-visao-computacional.html
 ✅ Artigos relacionados adicionados em zhipuai-glm-4-open-source-acelera-ia-global-pre-ipo.html
 ✅ Artigos relacionados adicionados em ia-do-walmart-autonomia-inedita-e-engajamento-de-15-milhao.html
 ✅ Artigos relacionados adicionados em Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
@@ -404,6 +413,7 @@
 ✅ Artigos relacionados adicionados em cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
 ✅ Artigos relacionados adicionados em ataques-runtime-em-ia-como-proteger-seu-orcamento-de-buracos-negros-financeiros.html
 ✅ Artigos relacionados adicionados em roi-em-ia-por-que-os-cfos-exigem-metricas-reais-e-nao-apenas-demos.html
+✅ Artigos relacionados adicionados em ctgt-vence-premio-no-vb-transform-2025-e-sinaliza-o-fim-das-apresentacoes-comuns.html
 ✅ Artigos relacionados adicionados em TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
 ✅ Artigos relacionados adicionados em ia-no-linkedin-por-que-o-assistente-de-escrita-decepcionou-e-o-que-isso-sinaliza.html
 ✅ Artigos relacionados adicionados em ia-empresarial-desvende-o-valor-oculto-nos-seus-dados-ignorados-alerta-bcg.html
