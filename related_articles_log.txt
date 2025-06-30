@@ -73,6 +73,7 @@
   ✓ meta-e-a-guerra-por-talentos-em-ia-a-verdade-sobre-os-salarios-de-us100-milhoes.html
   ✓ uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
   ✓ Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
+  ✓ fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
   ✓ dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
   ✓ sam-altman-e-a-ia-baba-chatgpt-pode-realmente-ajudar-a-cuidar-do-seu-bebe.html
   ✓ thinking-machines-lab-de-mira-murati-garante-us2-bi-em-rodada-seed-recorde-avaliada-em-us10-bi-o-futuro-da-ia-em-jogo.html
@@ -156,6 +157,7 @@
   ✓ dispositivo-ia-openai-planos-secretos-com-jony-ive-vazados.html
   ✓ seal-ai-do-mit-a-nova-era-da-inteligencia-artificial-autoaperfeicoavel.html
   ✓ minimalismo-de-modelos-a-estrategia-de-ia-que-economiza-milhoes.html
+  ✓ o-futuro-da-ia-entre-a-utopia-prometida-e-o-colapso-iminente.html
   ✓ robotaxi-tesla-em-austin-inovacao-promissora-ou-salto-no-escuro.html
   ✓ ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
   ✓ ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.html
@@ -211,7 +213,7 @@
   ✓ openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
-📊 Total de artigos processados: 208
+📊 Total de artigos processados: 210
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
@@ -286,6 +288,7 @@
 ✅ Artigos relacionados adicionados em meta-e-a-guerra-por-talentos-em-ia-a-verdade-sobre-os-salarios-de-us100-milhoes.html
 ✅ Artigos relacionados adicionados em uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 ✅ Artigos relacionados adicionados em Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
+✅ Artigos relacionados adicionados em fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
 ✅ Artigos relacionados adicionados em dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
 ✅ Artigos relacionados adicionados em sam-altman-e-a-ia-baba-chatgpt-pode-realmente-ajudar-a-cuidar-do-seu-bebe.html
 ✅ Artigos relacionados adicionados em thinking-machines-lab-de-mira-murati-garante-us2-bi-em-rodada-seed-recorde-avaliada-em-us10-bi-o-futuro-da-ia-em-jogo.html
@@ -369,6 +372,7 @@
 ✅ Artigos relacionados adicionados em dispositivo-ia-openai-planos-secretos-com-jony-ive-vazados.html
 ✅ Artigos relacionados adicionados em seal-ai-do-mit-a-nova-era-da-inteligencia-artificial-autoaperfeicoavel.html
 ✅ Artigos relacionados adicionados em minimalismo-de-modelos-a-estrategia-de-ia-que-economiza-milhoes.html
+✅ Artigos relacionados adicionados em o-futuro-da-ia-entre-a-utopia-prometida-e-o-colapso-iminente.html
 ✅ Artigos relacionados adicionados em robotaxi-tesla-em-austin-inovacao-promissora-ou-salto-no-escuro.html
 ✅ Artigos relacionados adicionados em ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
 ✅ Artigos relacionados adicionados em ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.html

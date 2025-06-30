@@ -142,6 +142,8 @@ Breadcrumbs já existem em articles/uma-ia-pode-gerenciar-uma-loja-o-hilario-e-c
 Processado: uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 Breadcrumbs já existem em articles/Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
 Processado: Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
+Breadcrumbs já existem em articles/fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
+Processado: fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
 Breadcrumbs já existem em articles/dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
 Processado: dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
 Breadcrumbs já existem em articles/sam-altman-e-a-ia-baba-chatgpt-pode-realmente-ajudar-a-cuidar-do-seu-bebe.html
@@ -308,6 +310,8 @@ Breadcrumbs já existem em articles/seal-ai-do-mit-a-nova-era-da-inteligencia-ar
 Processado: seal-ai-do-mit-a-nova-era-da-inteligencia-artificial-autoaperfeicoavel.html
 Breadcrumbs já existem em articles/minimalismo-de-modelos-a-estrategia-de-ia-que-economiza-milhoes.html
 Processado: minimalismo-de-modelos-a-estrategia-de-ia-que-economiza-milhoes.html
+Breadcrumbs já existem em articles/o-futuro-da-ia-entre-a-utopia-prometida-e-o-colapso-iminente.html
+Processado: o-futuro-da-ia-entre-a-utopia-prometida-e-o-colapso-iminente.html
 Breadcrumbs já existem em articles/robotaxi-tesla-em-austin-inovacao-promissora-ou-salto-no-escuro.html
 Processado: robotaxi-tesla-em-austin-inovacao-promissora-ou-salto-no-escuro.html
 Breadcrumbs já existem em articles/ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
@@ -489,6 +493,7 @@ Artigos relacionados adicionados com sucesso em articles/navegacao-autonoma-de-r
 Artigos relacionados adicionados com sucesso em articles/meta-e-a-guerra-por-talentos-em-ia-a-verdade-sobre-os-salarios-de-us100-milhoes.html
 Artigos relacionados adicionados com sucesso em articles/uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 Artigos relacionados adicionados com sucesso em articles/Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
+Artigos relacionados adicionados com sucesso em articles/fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
 Artigos relacionados adicionados com sucesso em articles/dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
 Artigos relacionados adicionados com sucesso em articles/sam-altman-e-a-ia-baba-chatgpt-pode-realmente-ajudar-a-cuidar-do-seu-bebe.html
 Artigos relacionados adicionados com sucesso em articles/thinking-machines-lab-de-mira-murati-garante-us2-bi-em-rodada-seed-recorde-avaliada-em-us10-bi-o-futuro-da-ia-em-jogo.html
@@ -572,6 +577,7 @@ Artigos relacionados adicionados com sucesso em articles/google-fotos-ia-e-busca
 Artigos relacionados adicionados com sucesso em articles/dispositivo-ia-openai-planos-secretos-com-jony-ive-vazados.html
 Artigos relacionados adicionados com sucesso em articles/seal-ai-do-mit-a-nova-era-da-inteligencia-artificial-autoaperfeicoavel.html
 Artigos relacionados adicionados com sucesso em articles/minimalismo-de-modelos-a-estrategia-de-ia-que-economiza-milhoes.html
+Artigos relacionados adicionados com sucesso em articles/o-futuro-da-ia-entre-a-utopia-prometida-e-o-colapso-iminente.html
 Artigos relacionados adicionados com sucesso em articles/robotaxi-tesla-em-austin-inovacao-promissora-ou-salto-no-escuro.html
 Artigos relacionados adicionados com sucesso em articles/ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
 Artigos relacionados adicionados com sucesso em articles/ia-e-vibe-coding-base44-vendida-a-wix-por-us80m-em-tempo-recorde.html
@@ -626,7 +632,7 @@ Artigos relacionados adicionados com sucesso em articles/adobe-memoria-longa-em-
 Artigos relacionados adicionados com sucesso em articles/Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
 Artigos relacionados adicionados com sucesso em articles/openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
 Artigos relacionados adicionados com sucesso em articles/multiplier-us275m-para-transformar-contabilidade-com-ia.html
-Adicionados 91 artigos à seção de últimas notícias
+Adicionados 80 artigos à seção de últimas notícias
 Adicionadas 24 categorias
-Adicionadas 551 tags
-Sitemap atualizado com 2693 URLs
+Adicionadas 556 tags
+Sitemap atualizado com 2904 URLs
