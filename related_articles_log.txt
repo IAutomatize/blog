@@ -56,6 +56,7 @@
   ✓ direitos-autorais-ia-getty-recua-parcialmente-contra-stability-ai-no-uk-luta-continua.html
   ✓ techcrunch-disrupt-2025-o-segredo-das-startups-para-contratar-talentos-com-pacotes-irresistiveis.html
   ✓ ring-inova-com-ia-descricoes-detalhadas-de-movimento-em-cameras-e-campainhas.html
+  ✓ kayak-vs-expedia-a-corrida-da-ia-para-criar-o-agente-de-viagens-do-futuro.html
   ✓ da-lyft-a-vanguarda-da-ia-como-a-eventual-e-o-daft-estao-revolucionando-o-processamento-de-dados-nao-estruturados.html
   ✓ robotaxis-em-atlanta-uber-e-waymo-lancam-servico-inovador.html
   ✓ fraude-por-deepfake-persona-bloqueia-75-milhoes-de-golpes.html
@@ -214,7 +215,7 @@
   ✓ openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
-📊 Total de artigos processados: 211
+📊 Total de artigos processados: 212
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
@@ -272,6 +273,7 @@
 ✅ Artigos relacionados adicionados em direitos-autorais-ia-getty-recua-parcialmente-contra-stability-ai-no-uk-luta-continua.html
 ✅ Artigos relacionados adicionados em techcrunch-disrupt-2025-o-segredo-das-startups-para-contratar-talentos-com-pacotes-irresistiveis.html
 ✅ Artigos relacionados adicionados em ring-inova-com-ia-descricoes-detalhadas-de-movimento-em-cameras-e-campainhas.html
+✅ Artigos relacionados adicionados em kayak-vs-expedia-a-corrida-da-ia-para-criar-o-agente-de-viagens-do-futuro.html
 ✅ Artigos relacionados adicionados em da-lyft-a-vanguarda-da-ia-como-a-eventual-e-o-daft-estao-revolucionando-o-processamento-de-dados-nao-estruturados.html
 ✅ Artigos relacionados adicionados em robotaxis-em-atlanta-uber-e-waymo-lancam-servico-inovador.html
 ✅ Artigos relacionados adicionados em fraude-por-deepfake-persona-bloqueia-75-milhoes-de-golpes.html

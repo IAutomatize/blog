@@ -108,6 +108,8 @@ Breadcrumbs já existem em articles/techcrunch-disrupt-2025-o-segredo-das-startu
 Processado: techcrunch-disrupt-2025-o-segredo-das-startups-para-contratar-talentos-com-pacotes-irresistiveis.html
 Breadcrumbs já existem em articles/ring-inova-com-ia-descricoes-detalhadas-de-movimento-em-cameras-e-campainhas.html
 Processado: ring-inova-com-ia-descricoes-detalhadas-de-movimento-em-cameras-e-campainhas.html
+Breadcrumbs já existem em articles/kayak-vs-expedia-a-corrida-da-ia-para-criar-o-agente-de-viagens-do-futuro.html
+Processado: kayak-vs-expedia-a-corrida-da-ia-para-criar-o-agente-de-viagens-do-futuro.html
 Breadcrumbs já existem em articles/da-lyft-a-vanguarda-da-ia-como-a-eventual-e-o-daft-estao-revolucionando-o-processamento-de-dados-nao-estruturados.html
 Processado: da-lyft-a-vanguarda-da-ia-como-a-eventual-e-o-daft-estao-revolucionando-o-processamento-de-dados-nao-estruturados.html
 Breadcrumbs já existem em articles/robotaxis-em-atlanta-uber-e-waymo-lancam-servico-inovador.html
@@ -478,6 +480,7 @@ Artigos relacionados adicionados com sucesso em articles/agentes-de-ia-e-o-muro-
 Artigos relacionados adicionados com sucesso em articles/direitos-autorais-ia-getty-recua-parcialmente-contra-stability-ai-no-uk-luta-continua.html
 Artigos relacionados adicionados com sucesso em articles/techcrunch-disrupt-2025-o-segredo-das-startups-para-contratar-talentos-com-pacotes-irresistiveis.html
 Artigos relacionados adicionados com sucesso em articles/ring-inova-com-ia-descricoes-detalhadas-de-movimento-em-cameras-e-campainhas.html
+Artigos relacionados adicionados com sucesso em articles/kayak-vs-expedia-a-corrida-da-ia-para-criar-o-agente-de-viagens-do-futuro.html
 Artigos relacionados adicionados com sucesso em articles/da-lyft-a-vanguarda-da-ia-como-a-eventual-e-o-daft-estao-revolucionando-o-processamento-de-dados-nao-estruturados.html
 Artigos relacionados adicionados com sucesso em articles/robotaxis-em-atlanta-uber-e-waymo-lancam-servico-inovador.html
 Artigos relacionados adicionados com sucesso em articles/fraude-por-deepfake-persona-bloqueia-75-milhoes-de-golpes.html
@@ -635,7 +638,7 @@ Artigos relacionados adicionados com sucesso em articles/adobe-memoria-longa-em-
 Artigos relacionados adicionados com sucesso em articles/Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
 Artigos relacionados adicionados com sucesso em articles/openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
 Artigos relacionados adicionados com sucesso em articles/multiplier-us275m-para-transformar-contabilidade-com-ia.html
-Adicionados 71 artigos à seção de últimas notícias
+Adicionados 72 artigos à seção de últimas notícias
 Adicionadas 24 categorias
-Adicionadas 556 tags
-Sitemap atualizado com 3327 URLs
+Adicionadas 559 tags
+Sitemap atualizado com 3540 URLs
