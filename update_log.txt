@@ -132,6 +132,8 @@ Breadcrumbs já existem em articles/nhtsa-de-olho-robotaxis-tesla-investigados-e
 Processado: nhtsa-de-olho-robotaxis-tesla-investigados-em-austin.html
 Breadcrumbs já existem em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 Processado: Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
+Breadcrumbs já existem em articles/agentes-de-ia-a-evolucao-que-sua-empresa-esperava-e-os-chatbots-nao-entregaram.html
+Processado: agentes-de-ia-a-evolucao-que-sua-empresa-esperava-e-os-chatbots-nao-entregaram.html
 Breadcrumbs já existem em articles/airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
 Processado: airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
 Breadcrumbs já existem em articles/navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
@@ -488,6 +490,7 @@ Artigos relacionados adicionados com sucesso em articles/techcrunch-all-stage-ec
 Artigos relacionados adicionados com sucesso em articles/techcrunch-disrupt-2025-builders-stage-guia-da-agenda-para-fundadores-visionarios.html
 Artigos relacionados adicionados com sucesso em articles/nhtsa-de-olho-robotaxis-tesla-investigados-em-austin.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
+Artigos relacionados adicionados com sucesso em articles/agentes-de-ia-a-evolucao-que-sua-empresa-esperava-e-os-chatbots-nao-entregaram.html
 Artigos relacionados adicionados com sucesso em articles/airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
 Artigos relacionados adicionados com sucesso em articles/navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
 Artigos relacionados adicionados com sucesso em articles/meta-e-a-guerra-por-talentos-em-ia-a-verdade-sobre-os-salarios-de-us100-milhoes.html
@@ -632,7 +635,7 @@ Artigos relacionados adicionados com sucesso em articles/adobe-memoria-longa-em-
 Artigos relacionados adicionados com sucesso em articles/Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
 Artigos relacionados adicionados com sucesso em articles/openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
 Artigos relacionados adicionados com sucesso em articles/multiplier-us275m-para-transformar-contabilidade-com-ia.html
-Adicionados 80 artigos à seção de últimas notícias
+Adicionados 71 artigos à seção de últimas notícias
 Adicionadas 24 categorias
 Adicionadas 556 tags
-Sitemap atualizado com 3115 URLs
+Sitemap atualizado com 3327 URLs

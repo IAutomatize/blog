@@ -68,6 +68,7 @@
   ✓ techcrunch-disrupt-2025-builders-stage-guia-da-agenda-para-fundadores-visionarios.html
   ✓ nhtsa-de-olho-robotaxis-tesla-investigados-em-austin.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
+  ✓ agentes-de-ia-a-evolucao-que-sua-empresa-esperava-e-os-chatbots-nao-entregaram.html
   ✓ airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
   ✓ navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
   ✓ meta-e-a-guerra-por-talentos-em-ia-a-verdade-sobre-os-salarios-de-us100-milhoes.html
@@ -213,7 +214,7 @@
   ✓ openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
-📊 Total de artigos processados: 210
+📊 Total de artigos processados: 211
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
@@ -283,6 +284,7 @@
 ✅ Artigos relacionados adicionados em techcrunch-disrupt-2025-builders-stage-guia-da-agenda-para-fundadores-visionarios.html
 ✅ Artigos relacionados adicionados em nhtsa-de-olho-robotaxis-tesla-investigados-em-austin.html
 ✅ Artigos relacionados adicionados em Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
+✅ Artigos relacionados adicionados em agentes-de-ia-a-evolucao-que-sua-empresa-esperava-e-os-chatbots-nao-entregaram.html
 ✅ Artigos relacionados adicionados em airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
 ✅ Artigos relacionados adicionados em navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
 ✅ Artigos relacionados adicionados em meta-e-a-guerra-por-talentos-em-ia-a-verdade-sobre-os-salarios-de-us100-milhoes.html
