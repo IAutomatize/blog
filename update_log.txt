@@ -168,6 +168,8 @@ Breadcrumbs já existem em articles/Patreon-Aumenta-Taxas-para-Novos-Criadores-O
 Processado: Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
 Breadcrumbs já existem em articles/fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
 Processado: fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
+Breadcrumbs já existem em articles/wonder-dynamics-e-o-futuro-da-ia-no-cinema-nikola-todorovic-no-techcrunch-disrupt-2025.html
+Processado: wonder-dynamics-e-o-futuro-da-ia-no-cinema-nikola-todorovic-no-techcrunch-disrupt-2025.html
 Breadcrumbs já existem em articles/dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
 Processado: dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
 Breadcrumbs já existem em articles/sam-altman-e-a-ia-baba-chatgpt-pode-realmente-ajudar-a-cuidar-do-seu-bebe.html
@@ -444,6 +446,8 @@ Breadcrumbs já existem em articles/apple-e-a-nova-siri-parceria-com-openai-e-an
 Processado: apple-e-a-nova-siri-parceria-com-openai-e-anthropic-pode-redefinir-a-ia.html
 Breadcrumbs já existem em articles/vcs-pre-seed-sinais-ocultos-na-avaliacao-de-startups.html
 Processado: vcs-pre-seed-sinais-ocultos-na-avaliacao-de-startups.html
+Breadcrumbs já existem em articles/tokens-openai-na-robinhood-alerta-da-gigante-de-ia-expoe-riscos.html
+Processado: tokens-openai-na-robinhood-alerta-da-gigante-de-ia-expoe-riscos.html
 Breadcrumbs já existem em articles/zoox-acelera-nova-fabrica-impulsiona-producao-de-robotaxis.html
 Processado: zoox-acelera-nova-fabrica-impulsiona-producao-de-robotaxis.html
 Breadcrumbs já existem em articles/Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
@@ -452,6 +456,8 @@ Breadcrumbs já existem em articles/wispr-flow-capta-us30-mi-com-ia-de-ditado-qu
 Processado: wispr-flow-capta-us30-mi-com-ia-de-ditado-que-conquistou-o-vale-do-silicio.html
 Breadcrumbs já existem em articles/startups-de-ia-eua-2025-investimento-robusto-acelera-futuro.html
 Processado: startups-de-ia-eua-2025-investimento-robusto-acelera-futuro.html
+Breadcrumbs já existem em articles/previsoes-de-emprego-com-ia-o-novo-esporte-competitivo-dos-ceos.html
+Processado: previsoes-de-emprego-com-ia-o-novo-esporte-competitivo-dos-ceos.html
 Breadcrumbs já existem em articles/genesis-ai-a-revolucao-da-ia-para-robos-com-us-105-milhoes.html
 Processado: genesis-ai-a-revolucao-da-ia-para-robos-com-us-105-milhoes.html
 Breadcrumbs já existem em articles/gemini-cli-ia-open-source-do-google-chega-ao-terminal-para-revolucionar-o-codigo.html
@@ -479,6 +485,8 @@ Breadcrumbs já existem em articles/ia-empresarial-desvende-o-valor-oculto-nos-s
 Processado: ia-empresarial-desvende-o-valor-oculto-nos-seus-dados-ignorados-alerta-bcg.html
 Breadcrumbs já existem em articles/a-fabrica-de-ia-da-nvidia-margens-de-lucro-sob-ameaca-na-ascendente-guerra-da-inferencia.html
 Processado: a-fabrica-de-ia-da-nvidia-margens-de-lucro-sob-ameaca-na-ascendente-guerra-da-inferencia.html
+Breadcrumbs já existem em articles/google-veo-3-chega-ao-mundo-a-revolucao-da-criacao-de-videos-por-ia.html
+Processado: google-veo-3-chega-ao-mundo-a-revolucao-da-criacao-de-videos-por-ia.html
 Breadcrumbs já existem em articles/nyk-adquire-kadmos-fintech-inova-pagamento-de-salarios-maritimos.html
 Processado: nyk-adquire-kadmos-fintech-inova-pagamento-de-salarios-maritimos.html
 Breadcrumbs já existem em articles/adobe-memoria-longa-em-ia-de-video-com-modelos-state-space.html
@@ -576,6 +584,7 @@ Artigos relacionados adicionados com sucesso em articles/meta-e-a-guerra-por-tal
 Artigos relacionados adicionados com sucesso em articles/uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 Artigos relacionados adicionados com sucesso em articles/Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
 Artigos relacionados adicionados com sucesso em articles/fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
+Artigos relacionados adicionados com sucesso em articles/wonder-dynamics-e-o-futuro-da-ia-no-cinema-nikola-todorovic-no-techcrunch-disrupt-2025.html
 Artigos relacionados adicionados com sucesso em articles/dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
 Artigos relacionados adicionados com sucesso em articles/sam-altman-e-a-ia-baba-chatgpt-pode-realmente-ajudar-a-cuidar-do-seu-bebe.html
 Artigos relacionados adicionados com sucesso em articles/adeus-freevee-amazon-encerra-app-e-unifica-streaming-gratuito-no-prime-video.html
@@ -714,10 +723,12 @@ Artigos relacionados adicionados com sucesso em articles/a-fabrica-de-startups-i
 Artigos relacionados adicionados com sucesso em articles/openai-contrata-time-da-crossing-minds-o-futuro-do-e-commerce-com-ia.html
 Artigos relacionados adicionados com sucesso em articles/apple-e-a-nova-siri-parceria-com-openai-e-anthropic-pode-redefinir-a-ia.html
 Artigos relacionados adicionados com sucesso em articles/vcs-pre-seed-sinais-ocultos-na-avaliacao-de-startups.html
+Artigos relacionados adicionados com sucesso em articles/tokens-openai-na-robinhood-alerta-da-gigante-de-ia-expoe-riscos.html
 Artigos relacionados adicionados com sucesso em articles/zoox-acelera-nova-fabrica-impulsiona-producao-de-robotaxis.html
 Artigos relacionados adicionados com sucesso em articles/Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
 Artigos relacionados adicionados com sucesso em articles/wispr-flow-capta-us30-mi-com-ia-de-ditado-que-conquistou-o-vale-do-silicio.html
 Artigos relacionados adicionados com sucesso em articles/startups-de-ia-eua-2025-investimento-robusto-acelera-futuro.html
+Artigos relacionados adicionados com sucesso em articles/previsoes-de-emprego-com-ia-o-novo-esporte-competitivo-dos-ceos.html
 Artigos relacionados adicionados com sucesso em articles/genesis-ai-a-revolucao-da-ia-para-robos-com-us-105-milhoes.html
 Artigos relacionados adicionados com sucesso em articles/gemini-cli-ia-open-source-do-google-chega-ao-terminal-para-revolucionar-o-codigo.html
 Erro ao adicionar artigos relacionados em articles/ia-para-mvp-a-arte-de-saber-quando-usar-um-bot-e-quando-nao.html: 'utf-8' codec can't decode byte 0xe9 in position 9032: invalid continuation byte
@@ -732,12 +743,13 @@ Artigos relacionados adicionados com sucesso em articles/ia-no-linkedin-por-que-
 Artigos relacionados adicionados com sucesso em articles/guerra-fiscal-dos-chips-eua-propoe-aumentar-credito-fiscal-para-35.html
 Artigos relacionados adicionados com sucesso em articles/ia-empresarial-desvende-o-valor-oculto-nos-seus-dados-ignorados-alerta-bcg.html
 Artigos relacionados adicionados com sucesso em articles/a-fabrica-de-ia-da-nvidia-margens-de-lucro-sob-ameaca-na-ascendente-guerra-da-inferencia.html
+Artigos relacionados adicionados com sucesso em articles/google-veo-3-chega-ao-mundo-a-revolucao-da-criacao-de-videos-por-ia.html
 Artigos relacionados adicionados com sucesso em articles/nyk-adquire-kadmos-fintech-inova-pagamento-de-salarios-maritimos.html
 Artigos relacionados adicionados com sucesso em articles/adobe-memoria-longa-em-ia-de-video-com-modelos-state-space.html
 Artigos relacionados adicionados com sucesso em articles/Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
 Artigos relacionados adicionados com sucesso em articles/openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
 Artigos relacionados adicionados com sucesso em articles/multiplier-us275m-para-transformar-contabilidade-com-ia.html
-Adicionados 99 artigos à seção de últimas notícias
+Adicionados 103 artigos à seção de últimas notícias
 Adicionadas 29 categorias
-Adicionadas 618 tags
-Sitemap atualizado com 4244 URLs
+Adicionadas 625 tags
+Sitemap atualizado com 4494 URLs
