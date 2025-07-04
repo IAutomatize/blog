@@ -40,6 +40,7 @@
   ✓ data-center-da-xai-em-memphis-avanco-da-ia-sob-nevoa-de-duvidas-ambientais.html
   ✓ ultima-chamada-economize-ate-210-no-techcrunch-all-stage-e-acelere-sua-startup.html
   ✓ Google-IA-Segurança-Índia-IA-Contra-Fraudes-Crescentes.html
+  ✓ ia-para-empresas-may-habib-writer-no-palco-do-techcrunch-disrupt-2025.html
   ✓ youtube-ia-novo-carrossel-de-busca-e-o-futuro-dos-criadores.html
   ✓ a-nova-realidade-da-infraestrutura-de-ia-computacao-onde-os-dados-estao.html
   ✓ Applied-Intuition-Salto-de-US$600M-Impulsiona-Avanço-em-IA-para-Defesa-e-Veículos-Autônomos.html
@@ -81,6 +82,7 @@
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
   ✓ agentes-de-ia-a-evolucao-que-sua-empresa-esperava-e-os-chatbots-nao-entregaram.html
   ✓ airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
+  ✓ xai-a-licenca-para-poluir-em-nome-da-inteligencia-artificial.html
   ✓ navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
   ✓ meta-e-a-guerra-por-talentos-em-ia-a-verdade-sobre-os-salarios-de-us100-milhoes.html
   ✓ uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
@@ -104,6 +106,7 @@
   ✓ de-minerador-de-cripto-a-bilionario-da-ia-a-aposta-arriscada-da-coreweave.html
   ✓ meta-e-o-fair-use-juiz-decide-a-favor-da-gigante-em-caso-de-treinamento-de-ia-com-livros-protegidos.html
   ✓ nascent-materials-revolucao-em-baterias-lfp-mais-acessiveis.html
+  ✓ qedma-e-ibm-a-parceria-de-us26-milhoes-que-pode-corrigir-a-computacao-quantica.html
   ✓ elevenlabs-leva-ia-de-voz-revolucionaria-para-o-seu-bolso-com-novo-app-movel.html
   ✓ ia-e-livros-anthropic-vence-batalha-de-copyright-o-que-muda.html
   ✓ Aspora-Levanta-US$50M-com-Sequoia-para-Diáspora-Indiana.html
@@ -192,6 +195,7 @@
   ✓ catalio-capital-desafia-crise-biotech-com-fundo-de-us-400-milhoes.html
   ✓ davids-bridal-como-a-ia-pode-salvar-uma-gigante-do-varejo-da-falencia.html
   ✓ investimentos-da-nvidia-em-ia-acelerando-o-futuro-tecnologico.html
+  ✓ domine-seu-cap-table-o-segredo-para-acelerar-sua-captacao-de-recursos.html
   ✓ agentforce-3-da-salesforce-ia-mais-transparente-e-segura-para-atendimento-ao-cliente.html
   ✓ intuit-lanca-ia-que-acelera-pagamentos-em-5-dias-e-economiza-12-horas-mensais.html
   ✓ harvey-ai-atinge-us5b-crescimento-explosivo-na-ia-juridica.html
@@ -234,6 +238,7 @@
   ✓ genesis-ai-a-revolucao-da-ia-para-robos-com-us-105-milhoes.html
   ✓ gemini-cli-ia-open-source-do-google-chega-ao-terminal-para-revolucionar-o-codigo.html
   ❌ Erro ao processar ia-para-mvp-a-arte-de-saber-quando-usar-um-bot-e-quando-nao.html: 'utf-8' codec can't decode byte 0xe9 in position 9032: invalid continuation byte
+  ✓ deepseek-coder-v2-versao-200-mais-rapida-surge-e-redefine-o-futuro-da-programacao-com-ia.html
   ✓ ia-e-semana-de-4-dias-bernie-sanders-defende-trabalhadores.html
   ✓ cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
   ✓ modelos-de-mundo-jogaveis-o-veo-3-do-google-e-o-futuro-dos-games.html
@@ -252,7 +257,7 @@
   ✓ openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
-📊 Total de artigos processados: 249
+📊 Total de artigos processados: 254
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
@@ -294,6 +299,7 @@
 ✅ Artigos relacionados adicionados em data-center-da-xai-em-memphis-avanco-da-ia-sob-nevoa-de-duvidas-ambientais.html
 ✅ Artigos relacionados adicionados em ultima-chamada-economize-ate-210-no-techcrunch-all-stage-e-acelere-sua-startup.html
 ✅ Artigos relacionados adicionados em Google-IA-Segurança-Índia-IA-Contra-Fraudes-Crescentes.html
+✅ Artigos relacionados adicionados em ia-para-empresas-may-habib-writer-no-palco-do-techcrunch-disrupt-2025.html
 ✅ Artigos relacionados adicionados em youtube-ia-novo-carrossel-de-busca-e-o-futuro-dos-criadores.html
 ✅ Artigos relacionados adicionados em a-nova-realidade-da-infraestrutura-de-ia-computacao-onde-os-dados-estao.html
 ✅ Artigos relacionados adicionados em Applied-Intuition-Salto-de-US$600M-Impulsiona-Avanço-em-IA-para-Defesa-e-Veículos-Autônomos.html
@@ -335,6 +341,7 @@
 ✅ Artigos relacionados adicionados em Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 ✅ Artigos relacionados adicionados em agentes-de-ia-a-evolucao-que-sua-empresa-esperava-e-os-chatbots-nao-entregaram.html
 ✅ Artigos relacionados adicionados em airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
+✅ Artigos relacionados adicionados em xai-a-licenca-para-poluir-em-nome-da-inteligencia-artificial.html
 ✅ Artigos relacionados adicionados em navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
 ✅ Artigos relacionados adicionados em meta-e-a-guerra-por-talentos-em-ia-a-verdade-sobre-os-salarios-de-us100-milhoes.html
 ✅ Artigos relacionados adicionados em uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
@@ -358,6 +365,7 @@
 ✅ Artigos relacionados adicionados em de-minerador-de-cripto-a-bilionario-da-ia-a-aposta-arriscada-da-coreweave.html
 ✅ Artigos relacionados adicionados em meta-e-o-fair-use-juiz-decide-a-favor-da-gigante-em-caso-de-treinamento-de-ia-com-livros-protegidos.html
 ✅ Artigos relacionados adicionados em nascent-materials-revolucao-em-baterias-lfp-mais-acessiveis.html
+✅ Artigos relacionados adicionados em qedma-e-ibm-a-parceria-de-us26-milhoes-que-pode-corrigir-a-computacao-quantica.html
 ✅ Artigos relacionados adicionados em elevenlabs-leva-ia-de-voz-revolucionaria-para-o-seu-bolso-com-novo-app-movel.html
 ✅ Artigos relacionados adicionados em ia-e-livros-anthropic-vence-batalha-de-copyright-o-que-muda.html
 ✅ Artigos relacionados adicionados em Aspora-Levanta-US$50M-com-Sequoia-para-Diáspora-Indiana.html
@@ -446,6 +454,7 @@
 ✅ Artigos relacionados adicionados em catalio-capital-desafia-crise-biotech-com-fundo-de-us-400-milhoes.html
 ✅ Artigos relacionados adicionados em davids-bridal-como-a-ia-pode-salvar-uma-gigante-do-varejo-da-falencia.html
 ✅ Artigos relacionados adicionados em investimentos-da-nvidia-em-ia-acelerando-o-futuro-tecnologico.html
+✅ Artigos relacionados adicionados em domine-seu-cap-table-o-segredo-para-acelerar-sua-captacao-de-recursos.html
 ✅ Artigos relacionados adicionados em agentforce-3-da-salesforce-ia-mais-transparente-e-segura-para-atendimento-ao-cliente.html
 ✅ Artigos relacionados adicionados em intuit-lanca-ia-que-acelera-pagamentos-em-5-dias-e-economiza-12-horas-mensais.html
 ✅ Artigos relacionados adicionados em harvey-ai-atinge-us5b-crescimento-explosivo-na-ia-juridica.html
@@ -488,6 +497,7 @@
 ✅ Artigos relacionados adicionados em genesis-ai-a-revolucao-da-ia-para-robos-com-us-105-milhoes.html
 ✅ Artigos relacionados adicionados em gemini-cli-ia-open-source-do-google-chega-ao-terminal-para-revolucionar-o-codigo.html
 ❌ Erro ao adicionar artigos relacionados em articles/ia-para-mvp-a-arte-de-saber-quando-usar-um-bot-e-quando-nao.html: 'utf-8' codec can't decode byte 0xe9 in position 9032: invalid continuation byte
+✅ Artigos relacionados adicionados em deepseek-coder-v2-versao-200-mais-rapida-surge-e-redefine-o-futuro-da-programacao-com-ia.html
 ✅ Artigos relacionados adicionados em ia-e-semana-de-4-dias-bernie-sanders-defende-trabalhadores.html
 ✅ Artigos relacionados adicionados em cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
 ✅ Artigos relacionados adicionados em modelos-de-mundo-jogaveis-o-veo-3-do-google-e-o-futuro-dos-games.html
