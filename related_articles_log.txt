@@ -89,6 +89,7 @@
   ✓ meta-e-a-guerra-por-talentos-em-ia-a-verdade-sobre-os-salarios-de-us100-milhoes.html
   ✓ uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
   ✓ Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
+  ✓ google-ai-overviews-queixa-antitruste-na-ue-por-roubo-de-conteudo.html
   ✓ fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
   ✓ wonder-dynamics-e-o-futuro-da-ia-no-cinema-nikola-todorovic-no-techcrunch-disrupt-2025.html
   ✓ dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
@@ -269,7 +270,7 @@
   ✓ openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
-📊 Total de artigos processados: 266
+📊 Total de artigos processados: 267
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
@@ -360,6 +361,7 @@
 ✅ Artigos relacionados adicionados em meta-e-a-guerra-por-talentos-em-ia-a-verdade-sobre-os-salarios-de-us100-milhoes.html
 ✅ Artigos relacionados adicionados em uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 ✅ Artigos relacionados adicionados em Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
+✅ Artigos relacionados adicionados em google-ai-overviews-queixa-antitruste-na-ue-por-roubo-de-conteudo.html
 ✅ Artigos relacionados adicionados em fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
 ✅ Artigos relacionados adicionados em wonder-dynamics-e-o-futuro-da-ia-no-cinema-nikola-todorovic-no-techcrunch-disrupt-2025.html
 ✅ Artigos relacionados adicionados em dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html

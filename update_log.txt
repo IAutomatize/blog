@@ -174,6 +174,8 @@ Breadcrumbs já existem em articles/uma-ia-pode-gerenciar-uma-loja-o-hilario-e-c
 Processado: uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 Breadcrumbs já existem em articles/Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
 Processado: Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
+Breadcrumbs já existem em articles/google-ai-overviews-queixa-antitruste-na-ue-por-roubo-de-conteudo.html
+Processado: google-ai-overviews-queixa-antitruste-na-ue-por-roubo-de-conteudo.html
 Breadcrumbs já existem em articles/fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
 Processado: fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
 Breadcrumbs já existem em articles/wonder-dynamics-e-o-futuro-da-ia-no-cinema-nikola-todorovic-no-techcrunch-disrupt-2025.html
@@ -621,6 +623,7 @@ Artigos relacionados adicionados com sucesso em articles/navegacao-autonoma-de-r
 Artigos relacionados adicionados com sucesso em articles/meta-e-a-guerra-por-talentos-em-ia-a-verdade-sobre-os-salarios-de-us100-milhoes.html
 Artigos relacionados adicionados com sucesso em articles/uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 Artigos relacionados adicionados com sucesso em articles/Patreon-Aumenta-Taxas-para-Novos-Criadores-O-Que-Muda-em-2025.html
+Artigos relacionados adicionados com sucesso em articles/google-ai-overviews-queixa-antitruste-na-ue-por-roubo-de-conteudo.html
 Artigos relacionados adicionados com sucesso em articles/fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
 Artigos relacionados adicionados com sucesso em articles/wonder-dynamics-e-o-futuro-da-ia-no-cinema-nikola-todorovic-no-techcrunch-disrupt-2025.html
 Artigos relacionados adicionados com sucesso em articles/dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
@@ -800,7 +803,7 @@ Artigos relacionados adicionados com sucesso em articles/adobe-memoria-longa-em-
 Artigos relacionados adicionados com sucesso em articles/Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
 Artigos relacionados adicionados com sucesso em articles/openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
 Artigos relacionados adicionados com sucesso em articles/multiplier-us275m-para-transformar-contabilidade-com-ia.html
-Adicionados 85 artigos à seção de últimas notícias
+Adicionados 80 artigos à seção de últimas notícias
 Adicionadas 31 categorias
-Adicionadas 653 tags
-Sitemap atualizado com 5538 URLs
+Adicionadas 654 tags
+Sitemap atualizado com 5806 URLs
