@@ -494,6 +494,8 @@ Breadcrumbs já existem em articles/zoox-acelera-nova-fabrica-impulsiona-produca
 Processado: zoox-acelera-nova-fabrica-impulsiona-producao-de-robotaxis.html
 Breadcrumbs já existem em articles/Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
 Processado: Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
+Breadcrumbs já existem em articles/agentes-de-ia-a-verdade-sobre-a-autonomia-e-o-poder-dos-problemas-delimitados.html
+Processado: agentes-de-ia-a-verdade-sobre-a-autonomia-e-o-poder-dos-problemas-delimitados.html
 Breadcrumbs já existem em articles/wispr-flow-capta-us30-mi-com-ia-de-ditado-que-conquistou-o-vale-do-silicio.html
 Processado: wispr-flow-capta-us30-mi-com-ia-de-ditado-que-conquistou-o-vale-do-silicio.html
 Breadcrumbs já existem em articles/chatbots-da-meta-a-revolucao-proativa-que-inicia-a-conversa-com-voce.html
@@ -795,6 +797,7 @@ Artigos relacionados adicionados com sucesso em articles/vcs-pre-seed-sinais-ocu
 Artigos relacionados adicionados com sucesso em articles/tokens-openai-na-robinhood-alerta-da-gigante-de-ia-expoe-riscos.html
 Artigos relacionados adicionados com sucesso em articles/zoox-acelera-nova-fabrica-impulsiona-producao-de-robotaxis.html
 Artigos relacionados adicionados com sucesso em articles/Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
+Artigos relacionados adicionados com sucesso em articles/agentes-de-ia-a-verdade-sobre-a-autonomia-e-o-poder-dos-problemas-delimitados.html
 Artigos relacionados adicionados com sucesso em articles/wispr-flow-capta-us30-mi-com-ia-de-ditado-que-conquistou-o-vale-do-silicio.html
 Artigos relacionados adicionados com sucesso em articles/chatbots-da-meta-a-revolucao-proativa-que-inicia-a-conversa-com-voce.html
 Artigos relacionados adicionados com sucesso em articles/startups-de-ia-eua-2025-investimento-robusto-acelera-futuro.html
@@ -821,7 +824,7 @@ Artigos relacionados adicionados com sucesso em articles/adobe-memoria-longa-em-
 Artigos relacionados adicionados com sucesso em articles/Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
 Artigos relacionados adicionados com sucesso em articles/openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
 Artigos relacionados adicionados com sucesso em articles/multiplier-us275m-para-transformar-contabilidade-com-ia.html
-Adicionados 76 artigos à seção de últimas notícias
+Adicionados 77 artigos à seção de últimas notícias
 Adicionadas 31 categorias
 Adicionadas 665 tags
-Sitemap atualizado com 6348 URLs
+Sitemap atualizado com 6623 URLs

@@ -249,6 +249,7 @@
   ✓ tokens-openai-na-robinhood-alerta-da-gigante-de-ia-expoe-riscos.html
   ✓ zoox-acelera-nova-fabrica-impulsiona-producao-de-robotaxis.html
   ✓ Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
+  ✓ agentes-de-ia-a-verdade-sobre-a-autonomia-e-o-poder-dos-problemas-delimitados.html
   ✓ wispr-flow-capta-us30-mi-com-ia-de-ditado-que-conquistou-o-vale-do-silicio.html
   ✓ chatbots-da-meta-a-revolucao-proativa-que-inicia-a-conversa-com-voce.html
   ✓ startups-de-ia-eua-2025-investimento-robusto-acelera-futuro.html
@@ -276,7 +277,7 @@
   ✓ openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
-📊 Total de artigos processados: 273
+📊 Total de artigos processados: 274
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
@@ -527,6 +528,7 @@
 ✅ Artigos relacionados adicionados em tokens-openai-na-robinhood-alerta-da-gigante-de-ia-expoe-riscos.html
 ✅ Artigos relacionados adicionados em zoox-acelera-nova-fabrica-impulsiona-producao-de-robotaxis.html
 ✅ Artigos relacionados adicionados em Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
+✅ Artigos relacionados adicionados em agentes-de-ia-a-verdade-sobre-a-autonomia-e-o-poder-dos-problemas-delimitados.html
 ✅ Artigos relacionados adicionados em wispr-flow-capta-us30-mi-com-ia-de-ditado-que-conquistou-o-vale-do-silicio.html
 ✅ Artigos relacionados adicionados em chatbots-da-meta-a-revolucao-proativa-que-inicia-a-conversa-com-voce.html
 ✅ Artigos relacionados adicionados em startups-de-ia-eua-2025-investimento-robusto-acelera-futuro.html
