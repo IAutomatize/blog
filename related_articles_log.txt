@@ -49,6 +49,7 @@
   ✓ deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
   ✓ google-offerwall-a-solucao-para-a-crise-de-trafego-que-a-propria-ia-criou.html
   ✓ gemini-robotics-on-device-a-revolucao-da-ia-do-google-para-robos-autonomos-locais.html
+  ✓ a-crise-silenciosa-como-prompts-ocultos-de-ia-ameacam-a-integridade-da-ciencia.html
   ✓ danny-boyle-inova-28-years-later-gravado-com-iphones.html
   ✓ elevenlabs-aplicativo-movel-gere-vozes-ia-incriveis-no-seu-celular.html
   ✓ novo-fundo-de-34m-para-startups-yc-o-ecossistema-se-fortalece-com-apoio-de-garry-tan.html
@@ -73,6 +74,8 @@
   ✓ da-lyft-a-vanguarda-da-ia-como-a-eventual-e-o-daft-estao-revolucionando-o-processamento-de-dados-nao-estruturados.html
   ✓ robotaxis-em-atlanta-uber-e-waymo-lancam-servico-inovador.html
   ✓ fraude-por-deepfake-persona-bloqueia-75-milhoes-de-golpes.html
+  ✓ unicornios-de-tecnologia-2025-o-boom-inesperado-com-36-novas-startups-bilionarias.html
+  ✓ ia-grok-nova-versao-gera-controversia-com-respostas-politicas-e-antissemitas.html
   ✓ Contrato-OpenAI-DoD-Tensão-com-a-Microsoft-Aumenta.html
   ✓ ia-empresarial-o-fim-da-guerra-entre-modelos-abertos-e-fechados.html
   ✓ techcrunch-all-stage-ultima-chamada-para-descontos-hoje.html
@@ -118,6 +121,7 @@
   ✓ pitch-para-investidores-licoes-do-techcrunch-disrupt-2025.html
   ✓ startups-em-ebulicao-ia-defesa-tech-e-valuations-milionarios-marcam-a-semana.html
   ✓ chevron-de-30-dias-a-1--o-roi-real-da-migracao-para-nuvem.html
+  ✓ x-bloqueia-reuters-na-india-censura-ou-demanda-legal-a-tensao-aumenta.html
   ✓ o-caminho-para-o-ipo-o-que-fundadores-devem-saber-muito-antes-de-tocar-o-sino.html
   ✓ IA-e-Emprego-na-Amazon-Menos-Vagas-Corporativas-no-Horizonte.html
   ✓ grok-da-xai-pode-editar-suas-planilhas-revolucao-ia-a-vista.html
@@ -165,6 +169,7 @@
   ✓ characterai-nomeia-ex-vp-da-meta-karandeep-anand-como-novo-ceo-em-momento-crucial.html
   ✓ uber-acelera-dominio-autonomo-em-atlanta-com-robos-de-delivery.html
   ✓ cisos-guardioes-do-investimento-de-us309-bi-em-infra-de-ia.html
+  ✓ x-bloqueia-reuters-na-india-tensao-entre-liberdade-de-imprensa-e-controle-governamental.html
   ✓ ia-politizada-de-musk-grok-e-os-perigos-reais-para-usuarios-e-empresas.html
   ✓ a-armadilha-da-inferencia-como-a-nuvem-esta-drenando-os-lucros-da-sua-ia.html
   ✓ apple-wallet-anuncio-do-filme-f1-irrita-usuarios-de-iphone.html
@@ -256,6 +261,7 @@
   ✓ cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
   ✓ modelos-de-mundo-jogaveis-o-veo-3-do-google-e-o-futuro-dos-games.html
   ✓ ataques-runtime-em-ia-como-proteger-seu-orcamento-de-buracos-negros-financeiros.html
+  ✓ adocao-de-ia-a-estrategia-da-brex-para-vencer-o-caos-tecnologico.html
   ✓ roi-em-ia-por-que-os-cfos-exigem-metricas-reais-e-nao-apenas-demos.html
   ✓ ctgt-vence-premio-no-vb-transform-2025-e-sinaliza-o-fim-das-apresentacoes-comuns.html
   ✓ TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
@@ -270,7 +276,7 @@
   ✓ openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
-📊 Total de artigos processados: 267
+📊 Total de artigos processados: 273
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
@@ -321,6 +327,7 @@
 ✅ Artigos relacionados adicionados em deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
 ✅ Artigos relacionados adicionados em google-offerwall-a-solucao-para-a-crise-de-trafego-que-a-propria-ia-criou.html
 ✅ Artigos relacionados adicionados em gemini-robotics-on-device-a-revolucao-da-ia-do-google-para-robos-autonomos-locais.html
+✅ Artigos relacionados adicionados em a-crise-silenciosa-como-prompts-ocultos-de-ia-ameacam-a-integridade-da-ciencia.html
 ✅ Artigos relacionados adicionados em danny-boyle-inova-28-years-later-gravado-com-iphones.html
 ✅ Artigos relacionados adicionados em elevenlabs-aplicativo-movel-gere-vozes-ia-incriveis-no-seu-celular.html
 ✅ Artigos relacionados adicionados em novo-fundo-de-34m-para-startups-yc-o-ecossistema-se-fortalece-com-apoio-de-garry-tan.html
@@ -345,6 +352,8 @@
 ✅ Artigos relacionados adicionados em da-lyft-a-vanguarda-da-ia-como-a-eventual-e-o-daft-estao-revolucionando-o-processamento-de-dados-nao-estruturados.html
 ✅ Artigos relacionados adicionados em robotaxis-em-atlanta-uber-e-waymo-lancam-servico-inovador.html
 ✅ Artigos relacionados adicionados em fraude-por-deepfake-persona-bloqueia-75-milhoes-de-golpes.html
+✅ Artigos relacionados adicionados em unicornios-de-tecnologia-2025-o-boom-inesperado-com-36-novas-startups-bilionarias.html
+✅ Artigos relacionados adicionados em ia-grok-nova-versao-gera-controversia-com-respostas-politicas-e-antissemitas.html
 ✅ Artigos relacionados adicionados em Contrato-OpenAI-DoD-Tensão-com-a-Microsoft-Aumenta.html
 ✅ Artigos relacionados adicionados em ia-empresarial-o-fim-da-guerra-entre-modelos-abertos-e-fechados.html
 ✅ Artigos relacionados adicionados em techcrunch-all-stage-ultima-chamada-para-descontos-hoje.html
@@ -390,6 +399,7 @@
 ✅ Artigos relacionados adicionados em pitch-para-investidores-licoes-do-techcrunch-disrupt-2025.html
 ✅ Artigos relacionados adicionados em startups-em-ebulicao-ia-defesa-tech-e-valuations-milionarios-marcam-a-semana.html
 ✅ Artigos relacionados adicionados em chevron-de-30-dias-a-1--o-roi-real-da-migracao-para-nuvem.html
+✅ Artigos relacionados adicionados em x-bloqueia-reuters-na-india-censura-ou-demanda-legal-a-tensao-aumenta.html
 ✅ Artigos relacionados adicionados em o-caminho-para-o-ipo-o-que-fundadores-devem-saber-muito-antes-de-tocar-o-sino.html
 ✅ Artigos relacionados adicionados em IA-e-Emprego-na-Amazon-Menos-Vagas-Corporativas-no-Horizonte.html
 ✅ Artigos relacionados adicionados em grok-da-xai-pode-editar-suas-planilhas-revolucao-ia-a-vista.html
@@ -437,6 +447,7 @@
 ✅ Artigos relacionados adicionados em characterai-nomeia-ex-vp-da-meta-karandeep-anand-como-novo-ceo-em-momento-crucial.html
 ✅ Artigos relacionados adicionados em uber-acelera-dominio-autonomo-em-atlanta-com-robos-de-delivery.html
 ✅ Artigos relacionados adicionados em cisos-guardioes-do-investimento-de-us309-bi-em-infra-de-ia.html
+✅ Artigos relacionados adicionados em x-bloqueia-reuters-na-india-tensao-entre-liberdade-de-imprensa-e-controle-governamental.html
 ✅ Artigos relacionados adicionados em ia-politizada-de-musk-grok-e-os-perigos-reais-para-usuarios-e-empresas.html
 ✅ Artigos relacionados adicionados em a-armadilha-da-inferencia-como-a-nuvem-esta-drenando-os-lucros-da-sua-ia.html
 ✅ Artigos relacionados adicionados em apple-wallet-anuncio-do-filme-f1-irrita-usuarios-de-iphone.html
@@ -528,6 +539,7 @@
 ✅ Artigos relacionados adicionados em cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
 ✅ Artigos relacionados adicionados em modelos-de-mundo-jogaveis-o-veo-3-do-google-e-o-futuro-dos-games.html
 ✅ Artigos relacionados adicionados em ataques-runtime-em-ia-como-proteger-seu-orcamento-de-buracos-negros-financeiros.html
+✅ Artigos relacionados adicionados em adocao-de-ia-a-estrategia-da-brex-para-vencer-o-caos-tecnologico.html
 ✅ Artigos relacionados adicionados em roi-em-ia-por-que-os-cfos-exigem-metricas-reais-e-nao-apenas-demos.html
 ✅ Artigos relacionados adicionados em ctgt-vence-premio-no-vb-transform-2025-e-sinaliza-o-fim-das-apresentacoes-comuns.html
 ✅ Artigos relacionados adicionados em TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
