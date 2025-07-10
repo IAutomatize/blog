@@ -2,6 +2,7 @@
 
 📖 Coletando metadados dos artigos...
   ✓ Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
+  ✓ qualidade-de-dados-para-ia-por-que-menos-e-o-novo-mais-para-o-futuro-da-tecnologia.html
   ✓ meta-em-ofensiva-por-talentos-de-ia-de-sutskever-a-daniel-gross.html
   ✓ de-robinhood-ao-espaco-a-revolucao-energetica-de-baiju-bhatt-com-a-aetherflux.html
   ✓ ia-10x-mais-que-humanos-seu-iam-esta-pronto-para-o-futuro.html
@@ -15,6 +16,7 @@
   ✓ guerra-de-titas-ia-processos-e-bilhoes-em-investimentos-marcam-a-semana-das-startups.html
   ✓ talentos-ia-meta-contrata-trio-da-openai-e-aquece-disputa.html
   ✓ IA-Gemini-em-Pânico-no-Pokémon-O-Que-Isso-Revela.html
+  ✓ memos-a-revolucao-da-ia-com-memoria-humana-para-superar-o-esquecimento-digital.html
   ✓ ia-no-chromebook-plus-google-eleva-o-jogo-da-produtividade.html
   ✓ meta-ai-quer-acesso-total-as-suas-fotos-entenda-o-risco-de-privacidade.html
   ✓ amazon-atinge-1-milhao-de-robos-e-lanca-ia-generativa-deepfleet-para-otimizar-entregas.html
@@ -81,8 +83,10 @@
   ✓ kayak-vs-expedia-a-corrida-da-ia-para-criar-o-agente-de-viagens-do-futuro.html
   ✓ da-lyft-a-vanguarda-da-ia-como-a-eventual-e-o-daft-estao-revolucionando-o-processamento-de-dados-nao-estruturados.html
   ✓ robotaxis-em-atlanta-uber-e-waymo-lancam-servico-inovador.html
+  ✓ parceria-replit-e-microsoft-o-futuro-do-desenvolvimento-ia-no-azure-e-o-desafio-ao-google-cloud.html
   ✓ fraude-por-deepfake-persona-bloqueia-75-milhoes-de-golpes.html
   ✓ unicornios-de-tecnologia-2025-o-boom-inesperado-com-36-novas-startups-bilionarias.html
+  ✓ brainmax-e-o-futuro-da-ia-a-solucao-para-a-fragmentacao-de-aplicativos.html
   ✓ ia-grok-nova-versao-gera-controversia-com-respostas-politicas-e-antissemitas.html
   ✓ Contrato-OpenAI-DoD-Tensão-com-a-Microsoft-Aumenta.html
   ✓ ia-empresarial-o-fim-da-guerra-entre-modelos-abertos-e-fechados.html
@@ -94,6 +98,7 @@
   ✓ nhtsa-de-olho-robotaxis-tesla-investigados-em-austin.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
   ✓ agentes-de-ia-a-evolucao-que-sua-empresa-esperava-e-os-chatbots-nao-entregaram.html
+  ✓ waymo-libera-robotaxis-para-adolescentes-em-phoenix-revolucao-ou-risco.html
   ✓ airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
   ✓ xai-a-licenca-para-poluir-em-nome-da-inteligencia-artificial.html
   ✓ navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
@@ -112,9 +117,11 @@
   ✓ ia-generativa-na-saude-6-licoes-da-parceria-highmark-e-google.html
   ✓ ia-e-companhia-realidade-surpreendente-revelada-por-estudo.html
   ✓ meta-ataca-openai-e-contrata-pesquisador-chave-para-vencer-a-guerra-da-superinteligencia-artificial.html
+  ✓ mistral-ai-busca-us1-bilhao-o-futuro-da-ia-europeia-em-jogo.html
   ✓ qedma-e-ibm-a-revolucao-de-software-que-pode-destravar-a-computacao-quantica.html
   ✓ crise-no-cursor-precos-desculpas-e-a-dura-realidade-do-custo-da-ia.html
   ✓ petlibro-scout-a-camera-com-ia-que-narra-o-dia-do-seu-pet.html
+  ✓ ia-para-carros-autonomos-wayve-redefine-o-futuro-no-techcrunch-disrupt-2025.html
   ✓ Waymo-Acelera-Expansão-de-Robotáxis-na-Califórnia-Ignora-Contratempos-e-Redefine-Mobilidade.html
   ✓ Adobe-Firefly-Incendeia-a-Criação-Mobile-App-com-IA-Chega-ao-iOS-e-Android.html
   ✓ google-doppl-o-provador-virtual-com-ia-que-pode-mudar-como-compramos-roupas.html
@@ -138,6 +145,7 @@
   ✓ ia-no-x-a-solucao-contra-fake-news-ou-um-novo-risco-digital.html
   ✓ emergence-ai-craft-automacao-inteligente-para-pipelines-de-dados-corporativos.html
   ✓ Relação-OpenAI-Microsoft-em-Crise-Disputas-Internas-Ameaçam-Parceria-Bilionária.html
+  ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ techcrunch-all-stage-ultima-chance-para-ingressos-com-preco-de-lancamento.html
   ✓ cc-signals-creative-commons-define-futuro-dos-dados-para-ia.html
   ✓ claude-ia-crie-apps-sem-codigo-apenas-com-prompts.html
@@ -174,6 +182,7 @@
   ✓ chantagem-por-ia-pesquisa-da-anthropic-revela-perigo-oculto-nos-modelos.html
   ✓ a-ia-salva-ou-afunda-o-jornalismo-o-paradoxo-do-trafego-do-chatgpt.html
   ✓ o-futuro-da-ia-de-voz-o-que-esperar-da-elevenlabs-no-techcrunch-disrupt-2025.html
+  ✓ langchain-unicornio-a-jornada-de-us1-bilhao-da-infraestrutura-de-ia.html
   ✓ moratoria-na-regulamentacao-estadual-de-ia-avanca-no-senado-dos-eua-implicacoes-e-controversias.html
   ✓ do-piloto-ao-lucro-o-guia-definitivo-para-uma-ia-escalavel-com-roi-positivo.html
   ✓ finom-garante-115m-e-acelera-expansao-fintech-para-pmes-na-europa-com-ia.html
@@ -238,6 +247,7 @@
   ✓ contagem-regressiva-para-o-techcrunch-all-stage-sua-ultima-chance-de-economizar-ate-475.html
   ✓ Chatbots-de-IA-A-Sutil-Engenharia-do-Retorno-e-Seus-Dilemas.html
   ✓ xai-de-elon-musk-data-center-em-memphis-sob-investigacao-por-poluicao-e-operacao-sem-licenca.html
+  ✓ also-inc-spinoff-da-rivian-garante-us-200-milhoes-para-revolucionar-a-micromobilidade.html
   ✓ lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
   ✓ chatgpt-study-together-a-revolucao-da-ia-na-educacao.html
   ✓ Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.html
@@ -258,6 +268,7 @@
   ✓ ia-agentica-licoes-de-lideres-para-implementar-estrategias-vencedoras.html
   ✓ inteligencia-de-equipe-a-chave-para-inovar-com-ia-segundo-o-cpo-da-miro.html
   ✓ meta-desfalca-apple-e-contrata-chefe-de-modelos-de-ia-para-superunidade.html
+  ✓ ia-generativa-em-compras-a-revolucao-silenciosa-do-prime-day.html
   ✓ whatsapp-inova-com-resumos-de-conversa-por-ia-da-meta-privacidade-em-destaque.html
   ✓ alerta-na-europa-alemanha-pressiona-apple-e-google-para-banir-ia-chinesa-deepseek.html
   ✓ deepseek-prover-v2-ia-desvenda-teoremas-com-busca-recursiva-inovadora.html
@@ -280,6 +291,7 @@
   ✓ previsoes-de-emprego-com-ia-o-novo-esporte-competitivo-dos-ceos.html
   ✓ genesis-ai-a-revolucao-da-ia-para-robos-com-us-105-milhoes.html
   ✓ gemini-cli-ia-open-source-do-google-chega-ao-terminal-para-revolucionar-o-codigo.html
+  ✓ ia-grok-e-o-antissemitismo-tecnologia-ou-reflexo-de-seu-criador.html
   ❌ Erro ao processar ia-para-mvp-a-arte-de-saber-quando-usar-um-bot-e-quando-nao.html: 'utf-8' codec can't decode byte 0xe9 in position 9032: invalid continuation byte
   ✓ deepseek-coder-v2-versao-200-mais-rapida-surge-e-redefine-o-futuro-da-programacao-com-ia.html
   ✓ ia-e-semana-de-4-dias-bernie-sanders-defende-trabalhadores.html
@@ -296,15 +308,17 @@
   ✓ a-fabrica-de-ia-da-nvidia-margens-de-lucro-sob-ameaca-na-ascendente-guerra-da-inferencia.html
   ✓ google-veo-3-chega-ao-mundo-a-revolucao-da-criacao-de-videos-por-ia.html
   ✓ nyk-adquire-kadmos-fintech-inova-pagamento-de-salarios-maritimos.html
+  ✓ gerenciar-inscricoes-no-gmail-o-guia-da-nova-ferramenta-para-retomar-o-controle-do-seu-inbox.html
   ✓ adobe-memoria-longa-em-ia-de-video-com-modelos-state-space.html
   ✓ Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
   ✓ openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
 
-📊 Total de artigos processados: 298
+📊 Total de artigos processados: 311
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
+✅ Artigos relacionados adicionados em qualidade-de-dados-para-ia-por-que-menos-e-o-novo-mais-para-o-futuro-da-tecnologia.html
 ✅ Artigos relacionados adicionados em meta-em-ofensiva-por-talentos-de-ia-de-sutskever-a-daniel-gross.html
 ✅ Artigos relacionados adicionados em de-robinhood-ao-espaco-a-revolucao-energetica-de-baiju-bhatt-com-a-aetherflux.html
 ✅ Artigos relacionados adicionados em ia-10x-mais-que-humanos-seu-iam-esta-pronto-para-o-futuro.html
@@ -318,6 +332,7 @@
 ✅ Artigos relacionados adicionados em guerra-de-titas-ia-processos-e-bilhoes-em-investimentos-marcam-a-semana-das-startups.html
 ✅ Artigos relacionados adicionados em talentos-ia-meta-contrata-trio-da-openai-e-aquece-disputa.html
 ✅ Artigos relacionados adicionados em IA-Gemini-em-Pânico-no-Pokémon-O-Que-Isso-Revela.html
+✅ Artigos relacionados adicionados em memos-a-revolucao-da-ia-com-memoria-humana-para-superar-o-esquecimento-digital.html
 ✅ Artigos relacionados adicionados em ia-no-chromebook-plus-google-eleva-o-jogo-da-produtividade.html
 ✅ Artigos relacionados adicionados em meta-ai-quer-acesso-total-as-suas-fotos-entenda-o-risco-de-privacidade.html
 ✅ Artigos relacionados adicionados em amazon-atinge-1-milhao-de-robos-e-lanca-ia-generativa-deepfleet-para-otimizar-entregas.html
@@ -384,8 +399,10 @@
 ✅ Artigos relacionados adicionados em kayak-vs-expedia-a-corrida-da-ia-para-criar-o-agente-de-viagens-do-futuro.html
 ✅ Artigos relacionados adicionados em da-lyft-a-vanguarda-da-ia-como-a-eventual-e-o-daft-estao-revolucionando-o-processamento-de-dados-nao-estruturados.html
 ✅ Artigos relacionados adicionados em robotaxis-em-atlanta-uber-e-waymo-lancam-servico-inovador.html
+✅ Artigos relacionados adicionados em parceria-replit-e-microsoft-o-futuro-do-desenvolvimento-ia-no-azure-e-o-desafio-ao-google-cloud.html
 ✅ Artigos relacionados adicionados em fraude-por-deepfake-persona-bloqueia-75-milhoes-de-golpes.html
 ✅ Artigos relacionados adicionados em unicornios-de-tecnologia-2025-o-boom-inesperado-com-36-novas-startups-bilionarias.html
+✅ Artigos relacionados adicionados em brainmax-e-o-futuro-da-ia-a-solucao-para-a-fragmentacao-de-aplicativos.html
 ✅ Artigos relacionados adicionados em ia-grok-nova-versao-gera-controversia-com-respostas-politicas-e-antissemitas.html
 ✅ Artigos relacionados adicionados em Contrato-OpenAI-DoD-Tensão-com-a-Microsoft-Aumenta.html
 ✅ Artigos relacionados adicionados em ia-empresarial-o-fim-da-guerra-entre-modelos-abertos-e-fechados.html
@@ -397,6 +414,7 @@
 ✅ Artigos relacionados adicionados em nhtsa-de-olho-robotaxis-tesla-investigados-em-austin.html
 ✅ Artigos relacionados adicionados em Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 ✅ Artigos relacionados adicionados em agentes-de-ia-a-evolucao-que-sua-empresa-esperava-e-os-chatbots-nao-entregaram.html
+✅ Artigos relacionados adicionados em waymo-libera-robotaxis-para-adolescentes-em-phoenix-revolucao-ou-risco.html
 ✅ Artigos relacionados adicionados em airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
 ✅ Artigos relacionados adicionados em xai-a-licenca-para-poluir-em-nome-da-inteligencia-artificial.html
 ✅ Artigos relacionados adicionados em navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
@@ -415,9 +433,11 @@
 ✅ Artigos relacionados adicionados em ia-generativa-na-saude-6-licoes-da-parceria-highmark-e-google.html
 ✅ Artigos relacionados adicionados em ia-e-companhia-realidade-surpreendente-revelada-por-estudo.html
 ✅ Artigos relacionados adicionados em meta-ataca-openai-e-contrata-pesquisador-chave-para-vencer-a-guerra-da-superinteligencia-artificial.html
+✅ Artigos relacionados adicionados em mistral-ai-busca-us1-bilhao-o-futuro-da-ia-europeia-em-jogo.html
 ✅ Artigos relacionados adicionados em qedma-e-ibm-a-revolucao-de-software-que-pode-destravar-a-computacao-quantica.html
 ✅ Artigos relacionados adicionados em crise-no-cursor-precos-desculpas-e-a-dura-realidade-do-custo-da-ia.html
 ✅ Artigos relacionados adicionados em petlibro-scout-a-camera-com-ia-que-narra-o-dia-do-seu-pet.html
+✅ Artigos relacionados adicionados em ia-para-carros-autonomos-wayve-redefine-o-futuro-no-techcrunch-disrupt-2025.html
 ✅ Artigos relacionados adicionados em Waymo-Acelera-Expansão-de-Robotáxis-na-Califórnia-Ignora-Contratempos-e-Redefine-Mobilidade.html
 ✅ Artigos relacionados adicionados em Adobe-Firefly-Incendeia-a-Criação-Mobile-App-com-IA-Chega-ao-iOS-e-Android.html
 ✅ Artigos relacionados adicionados em google-doppl-o-provador-virtual-com-ia-que-pode-mudar-como-compramos-roupas.html
@@ -441,6 +461,7 @@
 ✅ Artigos relacionados adicionados em ia-no-x-a-solucao-contra-fake-news-ou-um-novo-risco-digital.html
 ✅ Artigos relacionados adicionados em emergence-ai-craft-automacao-inteligente-para-pipelines-de-dados-corporativos.html
 ✅ Artigos relacionados adicionados em Relação-OpenAI-Microsoft-em-Crise-Disputas-Internas-Ameaçam-Parceria-Bilionária.html
+✅ Artigos relacionados adicionados em o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 ✅ Artigos relacionados adicionados em techcrunch-all-stage-ultima-chance-para-ingressos-com-preco-de-lancamento.html
 ✅ Artigos relacionados adicionados em cc-signals-creative-commons-define-futuro-dos-dados-para-ia.html
 ✅ Artigos relacionados adicionados em claude-ia-crie-apps-sem-codigo-apenas-com-prompts.html
@@ -477,6 +498,7 @@
 ✅ Artigos relacionados adicionados em chantagem-por-ia-pesquisa-da-anthropic-revela-perigo-oculto-nos-modelos.html
 ✅ Artigos relacionados adicionados em a-ia-salva-ou-afunda-o-jornalismo-o-paradoxo-do-trafego-do-chatgpt.html
 ✅ Artigos relacionados adicionados em o-futuro-da-ia-de-voz-o-que-esperar-da-elevenlabs-no-techcrunch-disrupt-2025.html
+✅ Artigos relacionados adicionados em langchain-unicornio-a-jornada-de-us1-bilhao-da-infraestrutura-de-ia.html
 ✅ Artigos relacionados adicionados em moratoria-na-regulamentacao-estadual-de-ia-avanca-no-senado-dos-eua-implicacoes-e-controversias.html
 ✅ Artigos relacionados adicionados em do-piloto-ao-lucro-o-guia-definitivo-para-uma-ia-escalavel-com-roi-positivo.html
 ✅ Artigos relacionados adicionados em finom-garante-115m-e-acelera-expansao-fintech-para-pmes-na-europa-com-ia.html
@@ -541,6 +563,7 @@
 ✅ Artigos relacionados adicionados em contagem-regressiva-para-o-techcrunch-all-stage-sua-ultima-chance-de-economizar-ate-475.html
 ✅ Artigos relacionados adicionados em Chatbots-de-IA-A-Sutil-Engenharia-do-Retorno-e-Seus-Dilemas.html
 ✅ Artigos relacionados adicionados em xai-de-elon-musk-data-center-em-memphis-sob-investigacao-por-poluicao-e-operacao-sem-licenca.html
+✅ Artigos relacionados adicionados em also-inc-spinoff-da-rivian-garante-us-200-milhoes-para-revolucionar-a-micromobilidade.html
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
 ✅ Artigos relacionados adicionados em chatgpt-study-together-a-revolucao-da-ia-na-educacao.html
 ✅ Artigos relacionados adicionados em Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.html
@@ -561,6 +584,7 @@
 ✅ Artigos relacionados adicionados em ia-agentica-licoes-de-lideres-para-implementar-estrategias-vencedoras.html
 ✅ Artigos relacionados adicionados em inteligencia-de-equipe-a-chave-para-inovar-com-ia-segundo-o-cpo-da-miro.html
 ✅ Artigos relacionados adicionados em meta-desfalca-apple-e-contrata-chefe-de-modelos-de-ia-para-superunidade.html
+✅ Artigos relacionados adicionados em ia-generativa-em-compras-a-revolucao-silenciosa-do-prime-day.html
 ✅ Artigos relacionados adicionados em whatsapp-inova-com-resumos-de-conversa-por-ia-da-meta-privacidade-em-destaque.html
 ✅ Artigos relacionados adicionados em alerta-na-europa-alemanha-pressiona-apple-e-google-para-banir-ia-chinesa-deepseek.html
 ✅ Artigos relacionados adicionados em deepseek-prover-v2-ia-desvenda-teoremas-com-busca-recursiva-inovadora.html
@@ -583,6 +607,7 @@
 ✅ Artigos relacionados adicionados em previsoes-de-emprego-com-ia-o-novo-esporte-competitivo-dos-ceos.html
 ✅ Artigos relacionados adicionados em genesis-ai-a-revolucao-da-ia-para-robos-com-us-105-milhoes.html
 ✅ Artigos relacionados adicionados em gemini-cli-ia-open-source-do-google-chega-ao-terminal-para-revolucionar-o-codigo.html
+✅ Artigos relacionados adicionados em ia-grok-e-o-antissemitismo-tecnologia-ou-reflexo-de-seu-criador.html
 ❌ Erro ao adicionar artigos relacionados em articles/ia-para-mvp-a-arte-de-saber-quando-usar-um-bot-e-quando-nao.html: 'utf-8' codec can't decode byte 0xe9 in position 9032: invalid continuation byte
 ✅ Artigos relacionados adicionados em deepseek-coder-v2-versao-200-mais-rapida-surge-e-redefine-o-futuro-da-programacao-com-ia.html
 ✅ Artigos relacionados adicionados em ia-e-semana-de-4-dias-bernie-sanders-defende-trabalhadores.html
@@ -599,6 +624,7 @@
 ✅ Artigos relacionados adicionados em a-fabrica-de-ia-da-nvidia-margens-de-lucro-sob-ameaca-na-ascendente-guerra-da-inferencia.html
 ✅ Artigos relacionados adicionados em google-veo-3-chega-ao-mundo-a-revolucao-da-criacao-de-videos-por-ia.html
 ✅ Artigos relacionados adicionados em nyk-adquire-kadmos-fintech-inova-pagamento-de-salarios-maritimos.html
+✅ Artigos relacionados adicionados em gerenciar-inscricoes-no-gmail-o-guia-da-nova-ferramenta-para-retomar-o-controle-do-seu-inbox.html
 ✅ Artigos relacionados adicionados em adobe-memoria-longa-em-ia-de-video-com-modelos-state-space.html
 ✅ Artigos relacionados adicionados em Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
 ✅ Artigos relacionados adicionados em openai-parceria-com-jony-ive-enfrenta-obstaculo-legal-inesperado.html
