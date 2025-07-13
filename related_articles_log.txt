@@ -174,6 +174,7 @@
   ✓ nvidia-e-o-chip-para-a-china-a-manobra-estrategica-na-guerra-da-ia.html
   ✓ pitch-para-investidores-licoes-do-techcrunch-disrupt-2025.html
   ✓ google-doppl-o-provador-virtual-com-ia-que-pode-mudar-como-compramos-roupas.html
+  ✓ ia-de-voz-para-todos-como-a-tecnologia-supera-barreiras-de-sotaque.html
   ✓ petlibro-scout-a-camera-com-ia-que-descreve-o-dia-a-dia-do-seu-pet.html
   ✓ google-fotos-ia-e-busca-classica-se-unem-para-acelerar-seus-resultados.html
   ✓ memos-a-revolucao-da-ia-com-memoria-humana-para-superar-o-esquecimento-digital.html
@@ -198,6 +199,7 @@
   ✓ Google-Scale-AI-Parceria-em-Risco-Após-Investimento-da-Meta.html
   ✓ us100-milhoes-para-ia-cofundador-da-databricks-e-perplexity-lanca-fundo-com-foco-em-pesquisa-de-impacto.html
   ✓ Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
+  ✓ ia-da-onu-cria-avatar-de-refugiada-empatia-digital-ou-apropriacao-tecnologica.html
   ✓ Applied-Intuition-Salto-de-US$600M-Impulsiona-Avanço-em-IA-para-Defesa-e-Veículos-Autônomos.html
   ✓ ia-no-chromebook-plus-google-eleva-o-jogo-da-produtividade.html
   ✓ monetizacao-youtube-e-ia-a-guerra-contra-o-conteudo-de-baixa-qualidade-comecou.html
@@ -326,6 +328,7 @@
   ✓ nhtsa-de-olho-robotaxis-tesla-investigados-em-austin.html
   ✓ Waymo-Acelera-Expansão-de-Robotáxis-na-Califórnia-Ignora-Contratempos-e-Redefine-Mobilidade.html
   ✓ minimalismo-de-modelos-a-estrategia-de-ia-que-economiza-milhoes.html
+  ✓ crise-no-x-analise-da-saida-da-ceo-linda-yaccarino-e-o-futuro-incerto-da-plataforma.html
   ✓ meta-negocia-compra-da-play-ai-a-proxima-revolucao-na-interacao-social.html
   ✓ meta-e-o-fair-use-juiz-decide-a-favor-da-gigante-em-caso-de-treinamento-de-ia-com-livros-protegidos.html
   ✓ claude-ia-crie-apps-sem-codigo-apenas-com-prompts.html
@@ -352,8 +355,10 @@
   ✓ techcrunch-disrupt-2025-desvende-taticas-de-sucesso-no-builders-stage.html
   ✓ seguranca-na-openai-a-fortaleza-digital-contra-espionagem-de-ia.html
   ✓ catio-ia-para-gatos-vence-premio-de-inovacao-na-vb-transform-2025.html
+  ✓ contagem-regressiva-para-o-techcrunch-all-stage-2025-ultima-chance-de-inovar-em-boston.html
   ✓ apple-wallet-exibe-anuncio-do-filme-f1-e-irrita-usuarios-do-iphone-privacidade-em-jogo.html
   ✓ lgnd-a-ia-que-quer-ser-o-chatgpt-do-planeta-terra.html
+  ✓ controversia-grok-o-pedido-de-desculpas-da-xai-e-a-crise-de-confianca-na-ia-de-musk.html
   ✓ vazamento-na-qantas-dados-de-6-milhoes-de-passageiros-em-risco-apos-ataque-cibernetico.html
   ✓ Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html
   ✓ srpo-da-kwai-ai-grpo-pode-ser-10x-mais-eficiente-com-nova-tecnica.html
@@ -384,7 +389,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 381
+📊 Total de artigos processados: 386
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -560,6 +565,7 @@
 ✅ Artigos relacionados adicionados em nvidia-e-o-chip-para-a-china-a-manobra-estrategica-na-guerra-da-ia.html
 ✅ Artigos relacionados adicionados em pitch-para-investidores-licoes-do-techcrunch-disrupt-2025.html
 ✅ Artigos relacionados adicionados em google-doppl-o-provador-virtual-com-ia-que-pode-mudar-como-compramos-roupas.html
+✅ Artigos relacionados adicionados em ia-de-voz-para-todos-como-a-tecnologia-supera-barreiras-de-sotaque.html
 ✅ Artigos relacionados adicionados em petlibro-scout-a-camera-com-ia-que-descreve-o-dia-a-dia-do-seu-pet.html
 ✅ Artigos relacionados adicionados em google-fotos-ia-e-busca-classica-se-unem-para-acelerar-seus-resultados.html
 ✅ Artigos relacionados adicionados em memos-a-revolucao-da-ia-com-memoria-humana-para-superar-o-esquecimento-digital.html
@@ -584,6 +590,7 @@
 ✅ Artigos relacionados adicionados em Google-Scale-AI-Parceria-em-Risco-Após-Investimento-da-Meta.html
 ✅ Artigos relacionados adicionados em us100-milhoes-para-ia-cofundador-da-databricks-e-perplexity-lanca-fundo-com-foco-em-pesquisa-de-impacto.html
 ✅ Artigos relacionados adicionados em Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
+✅ Artigos relacionados adicionados em ia-da-onu-cria-avatar-de-refugiada-empatia-digital-ou-apropriacao-tecnologica.html
 ✅ Artigos relacionados adicionados em Applied-Intuition-Salto-de-US$600M-Impulsiona-Avanço-em-IA-para-Defesa-e-Veículos-Autônomos.html
 ✅ Artigos relacionados adicionados em ia-no-chromebook-plus-google-eleva-o-jogo-da-produtividade.html
 ✅ Artigos relacionados adicionados em monetizacao-youtube-e-ia-a-guerra-contra-o-conteudo-de-baixa-qualidade-comecou.html
@@ -712,6 +719,7 @@
 ✅ Artigos relacionados adicionados em nhtsa-de-olho-robotaxis-tesla-investigados-em-austin.html
 ✅ Artigos relacionados adicionados em Waymo-Acelera-Expansão-de-Robotáxis-na-Califórnia-Ignora-Contratempos-e-Redefine-Mobilidade.html
 ✅ Artigos relacionados adicionados em minimalismo-de-modelos-a-estrategia-de-ia-que-economiza-milhoes.html
+✅ Artigos relacionados adicionados em crise-no-x-analise-da-saida-da-ceo-linda-yaccarino-e-o-futuro-incerto-da-plataforma.html
 ✅ Artigos relacionados adicionados em meta-negocia-compra-da-play-ai-a-proxima-revolucao-na-interacao-social.html
 ✅ Artigos relacionados adicionados em meta-e-o-fair-use-juiz-decide-a-favor-da-gigante-em-caso-de-treinamento-de-ia-com-livros-protegidos.html
 ✅ Artigos relacionados adicionados em claude-ia-crie-apps-sem-codigo-apenas-com-prompts.html
@@ -738,8 +746,10 @@
 ✅ Artigos relacionados adicionados em techcrunch-disrupt-2025-desvende-taticas-de-sucesso-no-builders-stage.html
 ✅ Artigos relacionados adicionados em seguranca-na-openai-a-fortaleza-digital-contra-espionagem-de-ia.html
 ✅ Artigos relacionados adicionados em catio-ia-para-gatos-vence-premio-de-inovacao-na-vb-transform-2025.html
+✅ Artigos relacionados adicionados em contagem-regressiva-para-o-techcrunch-all-stage-2025-ultima-chance-de-inovar-em-boston.html
 ✅ Artigos relacionados adicionados em apple-wallet-exibe-anuncio-do-filme-f1-e-irrita-usuarios-do-iphone-privacidade-em-jogo.html
 ✅ Artigos relacionados adicionados em lgnd-a-ia-que-quer-ser-o-chatgpt-do-planeta-terra.html
+✅ Artigos relacionados adicionados em controversia-grok-o-pedido-de-desculpas-da-xai-e-a-crise-de-confianca-na-ia-de-musk.html
 ✅ Artigos relacionados adicionados em vazamento-na-qantas-dados-de-6-milhoes-de-passageiros-em-risco-apos-ataque-cibernetico.html
 ✅ Artigos relacionados adicionados em Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html
 ✅ Artigos relacionados adicionados em srpo-da-kwai-ai-grpo-pode-ser-10x-mais-eficiente-com-nova-tecnica.html
