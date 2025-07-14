@@ -42,6 +42,7 @@
   ✓ dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
   ✓ seal-ai-do-mit-a-nova-era-da-inteligencia-artificial-autoaperfeicoavel.html
   ✓ robo-reachy-mini-da-hugging-face-a-revolucao-open-source-na-sua-mesa.html
+  ✓ pare-de-contratar-engenheiros-como-em-2021-a-era-da-forca-de-trabalho-nativa-de-ia-chegou.html
   ✓ grok-4-a-ia-de-elon-musk-pensa-como-o-dono-analise-de-vies.html
   ✓ Adobe-Firefly-Incendeia-a-Criação-Mobile-App-com-IA-Chega-ao-iOS-e-Android.html
   ✓ deepseek-r2-e-spct-a-nova-fronteira-da-eficiencia-em-inferencia-de-ia.html
@@ -57,6 +58,7 @@
   ✓ a-revolucao-energetica-de-baiju-bhatt-energia-solar-espacial-com-aetherflux-pode-mudar-tudo.html
   ✓ openai-libera-sdk-para-agentes-de-ia-a-revolucao-nos-negocios.html
   ✓ talentos-ia-meta-contrata-trio-da-openai-e-aquece-disputa.html
+  ✓ techcrunch-all-stage-2025-ultima-chamada-para-o-evento-que-promete-acelerar-startups-em-boston.html
   ✓ captacao-de-recursos-em-2025-a-estrategia-mudou-adapte-se-ou-fique-para-tras.html
   ✓ bernie-sanders-ia-deve-gerar-semana-de-4-dias-nao-demissoes.html
   ✓ ia-empresarial-o-desafio-e-escolher-o-llm-certo.html
@@ -239,6 +241,7 @@
   ✓ creatio-83-ia-nativa-no-crm-desafia-modelo-de-add-ons-da-salesforce.html
   ✓ uber-acelera-dominio-autonomo-em-atlanta-com-robos-de-delivery.html
   ✓ google-veo-3-transforme-imagens-em-videos-com-a-nova-ia-do-gemini.html
+  ✓ ia-na-terapia-a-promessa-de-ajuda-e-o-risco-oculto-revelado-por-stanford.html
   ✓ nuvem-quantica-chance-trilionaria-riscos-iminentes.html
   ✓ startup-de-uma-pessoa-so-sonho-bilionario-ou-ilusao-ceo-da-windsurf-pondera.html
   ✓ techcrunch-all-stage-ultima-chance-para-ingressos-com-preco-de-lancamento.html
@@ -262,6 +265,7 @@
   ✓ captacao-de-recursos-evite-as-armadilhas-que-afundam-startups.html
   ✓ Google-IA-Segurança-Índia-IA-Contra-Fraudes-Crescentes.html
   ✓ midjourney-v1-a-revolucao-criativa-na-geracao-de-video-por-ia-comecou.html
+  ✓ meta-adquire-playai-a-estrategia-por-tras-da-voz-do-futuro-da-ia.html
   ✓ ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
   ✓ Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.html
   ✓ reviravolta-na-ia-google-contrata-ceo-da-windsurf-e-acordo-com-openai-desmorona.html
@@ -290,9 +294,11 @@
   ✓ gemini-cli-google-libera-ia-de-ponta-gratuitamente-para-desenvolvedores-via-codigo-aberto.html
   ✓ ia-empresarial-o-elo-perdido-que-apenas-inteligencia-nao-resolve.html
   ✓ ia-generativa-em-compras-a-revolucao-silenciosa-do-prime-day.html
+  ✓ o-porto-humano-navegando-identidade-e-proposito-na-era-da-ia.html
   ✓ petlibro-scout-a-camera-com-ia-que-narra-o-dia-do-seu-pet.html
   ✓ kimi-k2-supera-gpt-4-a-nova-ia-gratuita-que-desafia-o-dominio-da-openai.html
   ✓ bright-data-a-empresa-que-venceu-musk-e-meta-e-agora-democratiza-os-dados-para-ia.html
+  ✓ spacex-e-xai-o-investimento-de-us2-bilhoes-que-cimenta-o-imperio-de-elon-musk.html
   ✓ Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
   ✓ also-inc-spinoff-da-rivian-garante-us-200-milhoes-para-revolucionar-a-micromobilidade.html
   ✓ pensar-como-otimizacao-o-novo-paradigma-que-revoluciona-a-ia.html
@@ -389,7 +395,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 386
+📊 Total de artigos processados: 392
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -433,6 +439,7 @@
 ✅ Artigos relacionados adicionados em dinamarca-inova-com-lei-de-direitos-autorais-contra-deepfakes.html
 ✅ Artigos relacionados adicionados em seal-ai-do-mit-a-nova-era-da-inteligencia-artificial-autoaperfeicoavel.html
 ✅ Artigos relacionados adicionados em robo-reachy-mini-da-hugging-face-a-revolucao-open-source-na-sua-mesa.html
+✅ Artigos relacionados adicionados em pare-de-contratar-engenheiros-como-em-2021-a-era-da-forca-de-trabalho-nativa-de-ia-chegou.html
 ✅ Artigos relacionados adicionados em grok-4-a-ia-de-elon-musk-pensa-como-o-dono-analise-de-vies.html
 ✅ Artigos relacionados adicionados em Adobe-Firefly-Incendeia-a-Criação-Mobile-App-com-IA-Chega-ao-iOS-e-Android.html
 ✅ Artigos relacionados adicionados em deepseek-r2-e-spct-a-nova-fronteira-da-eficiencia-em-inferencia-de-ia.html
@@ -448,6 +455,7 @@
 ✅ Artigos relacionados adicionados em a-revolucao-energetica-de-baiju-bhatt-energia-solar-espacial-com-aetherflux-pode-mudar-tudo.html
 ✅ Artigos relacionados adicionados em openai-libera-sdk-para-agentes-de-ia-a-revolucao-nos-negocios.html
 ✅ Artigos relacionados adicionados em talentos-ia-meta-contrata-trio-da-openai-e-aquece-disputa.html
+✅ Artigos relacionados adicionados em techcrunch-all-stage-2025-ultima-chamada-para-o-evento-que-promete-acelerar-startups-em-boston.html
 ✅ Artigos relacionados adicionados em captacao-de-recursos-em-2025-a-estrategia-mudou-adapte-se-ou-fique-para-tras.html
 ✅ Artigos relacionados adicionados em bernie-sanders-ia-deve-gerar-semana-de-4-dias-nao-demissoes.html
 ✅ Artigos relacionados adicionados em ia-empresarial-o-desafio-e-escolher-o-llm-certo.html
@@ -630,6 +638,7 @@
 ✅ Artigos relacionados adicionados em creatio-83-ia-nativa-no-crm-desafia-modelo-de-add-ons-da-salesforce.html
 ✅ Artigos relacionados adicionados em uber-acelera-dominio-autonomo-em-atlanta-com-robos-de-delivery.html
 ✅ Artigos relacionados adicionados em google-veo-3-transforme-imagens-em-videos-com-a-nova-ia-do-gemini.html
+✅ Artigos relacionados adicionados em ia-na-terapia-a-promessa-de-ajuda-e-o-risco-oculto-revelado-por-stanford.html
 ✅ Artigos relacionados adicionados em nuvem-quantica-chance-trilionaria-riscos-iminentes.html
 ✅ Artigos relacionados adicionados em startup-de-uma-pessoa-so-sonho-bilionario-ou-ilusao-ceo-da-windsurf-pondera.html
 ✅ Artigos relacionados adicionados em techcrunch-all-stage-ultima-chance-para-ingressos-com-preco-de-lancamento.html
@@ -653,6 +662,7 @@
 ✅ Artigos relacionados adicionados em captacao-de-recursos-evite-as-armadilhas-que-afundam-startups.html
 ✅ Artigos relacionados adicionados em Google-IA-Segurança-Índia-IA-Contra-Fraudes-Crescentes.html
 ✅ Artigos relacionados adicionados em midjourney-v1-a-revolucao-criativa-na-geracao-de-video-por-ia-comecou.html
+✅ Artigos relacionados adicionados em meta-adquire-playai-a-estrategia-por-tras-da-voz-do-futuro-da-ia.html
 ✅ Artigos relacionados adicionados em ultima-chance-economize-210-no-seu-passaporte-para-o-techcrunch-all-stage-2025.html
 ✅ Artigos relacionados adicionados em Crosby-IA-da-Sequoia-Revoluciona-Contratos-Jurídicos.html
 ✅ Artigos relacionados adicionados em reviravolta-na-ia-google-contrata-ceo-da-windsurf-e-acordo-com-openai-desmorona.html
@@ -681,9 +691,11 @@
 ✅ Artigos relacionados adicionados em gemini-cli-google-libera-ia-de-ponta-gratuitamente-para-desenvolvedores-via-codigo-aberto.html
 ✅ Artigos relacionados adicionados em ia-empresarial-o-elo-perdido-que-apenas-inteligencia-nao-resolve.html
 ✅ Artigos relacionados adicionados em ia-generativa-em-compras-a-revolucao-silenciosa-do-prime-day.html
+✅ Artigos relacionados adicionados em o-porto-humano-navegando-identidade-e-proposito-na-era-da-ia.html
 ✅ Artigos relacionados adicionados em petlibro-scout-a-camera-com-ia-que-narra-o-dia-do-seu-pet.html
 ✅ Artigos relacionados adicionados em kimi-k2-supera-gpt-4-a-nova-ia-gratuita-que-desafia-o-dominio-da-openai.html
 ✅ Artigos relacionados adicionados em bright-data-a-empresa-que-venceu-musk-e-meta-e-agora-democratiza-os-dados-para-ia.html
+✅ Artigos relacionados adicionados em spacex-e-xai-o-investimento-de-us2-bilhoes-que-cimenta-o-imperio-de-elon-musk.html
 ✅ Artigos relacionados adicionados em Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
 ✅ Artigos relacionados adicionados em also-inc-spinoff-da-rivian-garante-us-200-milhoes-para-revolucionar-a-micromobilidade.html
 ✅ Artigos relacionados adicionados em pensar-como-otimizacao-o-novo-paradigma-que-revoluciona-a-ia.html
