@@ -38,6 +38,7 @@
   ✓ ia-e-livros-anthropic-vence-batalha-de-copyright-o-que-muda.html
   ✓ a-revolucao-agentica-da-ia-o-que-lideres-empresariais-precisam-saber-agora.html
   ✓ mistral-ai-busca-us1-bilhao-o-futuro-da-ia-europeia-em-jogo.html
+  ✓ claude-para-financas-a-nova-aposta-da-anthropic-em-ia-vertical.html
   ✓ coreweave-compra-core-scientific-por-us9b-uma-nova-era-para-infraestrutura-de-ia.html
   ✓ ring-inova-com-ia-descricoes-detalhadas-de-movimento-em-cameras-e-campainhas.html
   ✓ ia-grok-nos-teslas-a-revolucao-de-musk-ou-um-risco-ao-volante.html
@@ -131,6 +132,7 @@
   ✓ techcrunch-all-stage-contagem-regressiva-para-o-evento-de-startups-em-boston.html
   ✓ prompt-ops-a-disciplina-essencial-para-controlar-os-custos-ocultos-da-ia.html
   ✓ guerra-da-ia-congresso-dos-eua-avalia-pausar-leis-estaduais-por-10-anos.html
+  ✓ techcrunch-all-stage-o-manual-de-sobrevivencia-para-fundadores-em-2025.html
   ✓ data-center-ia-da-meta-a-aposta-de-5gw-de-zuckerberg.html
   ✓ meta-oakley-hstn-smart-glasses-com-ia-para-esportistas.html
   ✓ mobilidade-do-futuro-a-revolucao-de-bilhoes-em-andamento.html
@@ -210,6 +212,7 @@
   ✓ us100-milhoes-para-ia-cofundador-da-databricks-e-perplexity-lanca-fundo-com-foco-em-pesquisa-de-impacto.html
   ✓ notebooklm-sua-pesquisa-com-ia-agora-tem-conteudo-de-the-economist-e-the-atlantic.html
   ✓ Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
+  ✓ a-corrida-da-ia-por-que-a-meta-esta-construindo-data-centers-em-tendas.html
   ✓ ia-da-onu-cria-avatar-de-refugiada-empatia-digital-ou-apropriacao-tecnologica.html
   ✓ Applied-Intuition-Salto-de-US$600M-Impulsiona-Avanço-em-IA-para-Defesa-e-Veículos-Autônomos.html
   ✓ ia-no-chromebook-plus-google-eleva-o-jogo-da-produtividade.html
@@ -334,6 +337,7 @@
   ✓ atribuicao-de-falhas-em-mas-nova-ia-da-psu-e-duke.html
   ✓ Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
   ✓ ia-do-google-para-marketing-chega-a-india-com-fim-de-imposto-digital.html
+  ✓ nvidia-vs-eua-a-reviravolta-nos-chips-de-ia-para-a-china.html
   ✓ openai-contrata-time-da-crossing-minds-o-futuro-do-e-commerce-com-ia.html
   ✓ waymo-desafia-o-transito-de-ny-e-filadelfia-com-testes-de-robotaxis.html
   ✓ a-ia-salva-ou-afunda-o-jornalismo-o-paradoxo-do-trafego-do-chatgpt.html
@@ -404,6 +408,7 @@
   ✓ ia-no-x-a-solucao-contra-fake-news-ou-um-novo-risco-digital.html
   ✓ xai-de-elon-musk-garante-us10-bi-para-desafiar-gigantes-da-ia.html
   ✓ alem-do-tam-como-startups-visionarias-criam-seus-proprios-mercados.html
+  ✓ nextdoor-se-reinventa-com-ia-mais-conexao-e-seguranca-na-vizinhanca.html
   ✓ moratoria-na-regulamentacao-estadual-de-ia-avanca-no-senado-dos-eua-implicacoes-e-controversias.html
   ✓ franca-investiga-x-por-manipulacao-e-ia-grok-entra-na-mira.html
   ✓ navegador-ia-da-openai-o-fim-do-google-chrome-como-o-conhecemos.html
@@ -413,7 +418,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 410
+📊 Total de artigos processados: 415
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -453,6 +458,7 @@
 ✅ Artigos relacionados adicionados em ia-e-livros-anthropic-vence-batalha-de-copyright-o-que-muda.html
 ✅ Artigos relacionados adicionados em a-revolucao-agentica-da-ia-o-que-lideres-empresariais-precisam-saber-agora.html
 ✅ Artigos relacionados adicionados em mistral-ai-busca-us1-bilhao-o-futuro-da-ia-europeia-em-jogo.html
+✅ Artigos relacionados adicionados em claude-para-financas-a-nova-aposta-da-anthropic-em-ia-vertical.html
 ✅ Artigos relacionados adicionados em coreweave-compra-core-scientific-por-us9b-uma-nova-era-para-infraestrutura-de-ia.html
 ✅ Artigos relacionados adicionados em ring-inova-com-ia-descricoes-detalhadas-de-movimento-em-cameras-e-campainhas.html
 ✅ Artigos relacionados adicionados em ia-grok-nos-teslas-a-revolucao-de-musk-ou-um-risco-ao-volante.html
@@ -546,6 +552,7 @@
 ✅ Artigos relacionados adicionados em techcrunch-all-stage-contagem-regressiva-para-o-evento-de-startups-em-boston.html
 ✅ Artigos relacionados adicionados em prompt-ops-a-disciplina-essencial-para-controlar-os-custos-ocultos-da-ia.html
 ✅ Artigos relacionados adicionados em guerra-da-ia-congresso-dos-eua-avalia-pausar-leis-estaduais-por-10-anos.html
+✅ Artigos relacionados adicionados em techcrunch-all-stage-o-manual-de-sobrevivencia-para-fundadores-em-2025.html
 ✅ Artigos relacionados adicionados em data-center-ia-da-meta-a-aposta-de-5gw-de-zuckerberg.html
 ✅ Artigos relacionados adicionados em meta-oakley-hstn-smart-glasses-com-ia-para-esportistas.html
 ✅ Artigos relacionados adicionados em mobilidade-do-futuro-a-revolucao-de-bilhoes-em-andamento.html
@@ -625,6 +632,7 @@
 ✅ Artigos relacionados adicionados em us100-milhoes-para-ia-cofundador-da-databricks-e-perplexity-lanca-fundo-com-foco-em-pesquisa-de-impacto.html
 ✅ Artigos relacionados adicionados em notebooklm-sua-pesquisa-com-ia-agora-tem-conteudo-de-the-economist-e-the-atlantic.html
 ✅ Artigos relacionados adicionados em Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
+✅ Artigos relacionados adicionados em a-corrida-da-ia-por-que-a-meta-esta-construindo-data-centers-em-tendas.html
 ✅ Artigos relacionados adicionados em ia-da-onu-cria-avatar-de-refugiada-empatia-digital-ou-apropriacao-tecnologica.html
 ✅ Artigos relacionados adicionados em Applied-Intuition-Salto-de-US$600M-Impulsiona-Avanço-em-IA-para-Defesa-e-Veículos-Autônomos.html
 ✅ Artigos relacionados adicionados em ia-no-chromebook-plus-google-eleva-o-jogo-da-produtividade.html
@@ -749,6 +757,7 @@
 ✅ Artigos relacionados adicionados em atribuicao-de-falhas-em-mas-nova-ia-da-psu-e-duke.html
 ✅ Artigos relacionados adicionados em Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
 ✅ Artigos relacionados adicionados em ia-do-google-para-marketing-chega-a-india-com-fim-de-imposto-digital.html
+✅ Artigos relacionados adicionados em nvidia-vs-eua-a-reviravolta-nos-chips-de-ia-para-a-china.html
 ✅ Artigos relacionados adicionados em openai-contrata-time-da-crossing-minds-o-futuro-do-e-commerce-com-ia.html
 ✅ Artigos relacionados adicionados em waymo-desafia-o-transito-de-ny-e-filadelfia-com-testes-de-robotaxis.html
 ✅ Artigos relacionados adicionados em a-ia-salva-ou-afunda-o-jornalismo-o-paradoxo-do-trafego-do-chatgpt.html
@@ -819,6 +828,7 @@
 ✅ Artigos relacionados adicionados em ia-no-x-a-solucao-contra-fake-news-ou-um-novo-risco-digital.html
 ✅ Artigos relacionados adicionados em xai-de-elon-musk-garante-us10-bi-para-desafiar-gigantes-da-ia.html
 ✅ Artigos relacionados adicionados em alem-do-tam-como-startups-visionarias-criam-seus-proprios-mercados.html
+✅ Artigos relacionados adicionados em nextdoor-se-reinventa-com-ia-mais-conexao-e-seguranca-na-vizinhanca.html
 ✅ Artigos relacionados adicionados em moratoria-na-regulamentacao-estadual-de-ia-avanca-no-senado-dos-eua-implicacoes-e-controversias.html
 ✅ Artigos relacionados adicionados em franca-investiga-x-por-manipulacao-e-ia-grok-entra-na-mira.html
 ✅ Artigos relacionados adicionados em navegador-ia-da-openai-o-fim-do-google-chrome-como-o-conhecemos.html
