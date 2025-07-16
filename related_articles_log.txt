@@ -188,6 +188,7 @@
   ✓ data-center-da-xai-em-memphis-avanco-da-ia-sob-nevoa-de-duvidas-ambientais.html
   ✓ parceria-replit-e-microsoft-o-futuro-do-desenvolvimento-ia-no-azure-e-o-desafio-ao-google-cloud.html
   ✓ x-bloqueia-reuters-na-india-tensao-entre-liberdade-de-imprensa-e-controle-governamental.html
+  ✓ mistral-voxtral-a-ia-que-escuta-entende-e-executa-redefinindo-a-transcricao.html
   ✓ meta-desfalca-apple-e-contrata-chefe-de-modelos-de-ia-para-superunidade.html
   ✓ domine-seu-cap-table-o-segredo-para-acelerar-sua-captacao-de-recursos.html
   ✓ blok-ai-a-revolucao-nos-testes-de-apps-com-simulacao-de-personas.html
@@ -224,6 +225,7 @@
   ✓ us100-milhoes-para-ia-cofundador-da-databricks-e-perplexity-lanca-fundo-com-foco-em-pesquisa-de-impacto.html
   ✓ notebooklm-sua-pesquisa-com-ia-agora-tem-conteudo-de-the-economist-e-the-atlantic.html
   ✓ Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
+  ✓ vies-de-concordancia-em-ias-por-que-elas-mentem-para-te-agradar.html
   ✓ a-corrida-da-ia-por-que-a-meta-esta-construindo-data-centers-em-tendas.html
   ✓ ia-da-onu-cria-avatar-de-refugiada-empatia-digital-ou-apropriacao-tecnologica.html
   ✓ Applied-Intuition-Salto-de-US$600M-Impulsiona-Avanço-em-IA-para-Defesa-e-Veículos-Autônomos.html
@@ -363,6 +365,7 @@
   ✓ openai-contrata-time-da-crossing-minds-o-futuro-do-e-commerce-com-ia.html
   ✓ waymo-desafia-o-transito-de-ny-e-filadelfia-com-testes-de-robotaxis.html
   ✓ a-ia-salva-ou-afunda-o-jornalismo-o-paradoxo-do-trafego-do-chatgpt.html
+  ✓ companheiros-de-ia-do-grok-entre-a-seducao-digital-e-o-caos-sem-filtros.html
   ✓ uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
   ✓ busca-com-ia-startup-de-fundadora-marroquina-levanta-us42m-para-revolucionar-a-precisao-dos-llms.html
   ✓ navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
@@ -442,7 +445,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 439
+📊 Total de artigos processados: 442
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -632,6 +635,7 @@
 ✅ Artigos relacionados adicionados em data-center-da-xai-em-memphis-avanco-da-ia-sob-nevoa-de-duvidas-ambientais.html
 ✅ Artigos relacionados adicionados em parceria-replit-e-microsoft-o-futuro-do-desenvolvimento-ia-no-azure-e-o-desafio-ao-google-cloud.html
 ✅ Artigos relacionados adicionados em x-bloqueia-reuters-na-india-tensao-entre-liberdade-de-imprensa-e-controle-governamental.html
+✅ Artigos relacionados adicionados em mistral-voxtral-a-ia-que-escuta-entende-e-executa-redefinindo-a-transcricao.html
 ✅ Artigos relacionados adicionados em meta-desfalca-apple-e-contrata-chefe-de-modelos-de-ia-para-superunidade.html
 ✅ Artigos relacionados adicionados em domine-seu-cap-table-o-segredo-para-acelerar-sua-captacao-de-recursos.html
 ✅ Artigos relacionados adicionados em blok-ai-a-revolucao-nos-testes-de-apps-com-simulacao-de-personas.html
@@ -668,6 +672,7 @@
 ✅ Artigos relacionados adicionados em us100-milhoes-para-ia-cofundador-da-databricks-e-perplexity-lanca-fundo-com-foco-em-pesquisa-de-impacto.html
 ✅ Artigos relacionados adicionados em notebooklm-sua-pesquisa-com-ia-agora-tem-conteudo-de-the-economist-e-the-atlantic.html
 ✅ Artigos relacionados adicionados em Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
+✅ Artigos relacionados adicionados em vies-de-concordancia-em-ias-por-que-elas-mentem-para-te-agradar.html
 ✅ Artigos relacionados adicionados em a-corrida-da-ia-por-que-a-meta-esta-construindo-data-centers-em-tendas.html
 ✅ Artigos relacionados adicionados em ia-da-onu-cria-avatar-de-refugiada-empatia-digital-ou-apropriacao-tecnologica.html
 ✅ Artigos relacionados adicionados em Applied-Intuition-Salto-de-US$600M-Impulsiona-Avanço-em-IA-para-Defesa-e-Veículos-Autônomos.html
@@ -807,6 +812,7 @@
 ✅ Artigos relacionados adicionados em openai-contrata-time-da-crossing-minds-o-futuro-do-e-commerce-com-ia.html
 ✅ Artigos relacionados adicionados em waymo-desafia-o-transito-de-ny-e-filadelfia-com-testes-de-robotaxis.html
 ✅ Artigos relacionados adicionados em a-ia-salva-ou-afunda-o-jornalismo-o-paradoxo-do-trafego-do-chatgpt.html
+✅ Artigos relacionados adicionados em companheiros-de-ia-do-grok-entre-a-seducao-digital-e-o-caos-sem-filtros.html
 ✅ Artigos relacionados adicionados em uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 ✅ Artigos relacionados adicionados em busca-com-ia-startup-de-fundadora-marroquina-levanta-us42m-para-revolucionar-a-precisao-dos-llms.html
 ✅ Artigos relacionados adicionados em navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html

@@ -372,6 +372,8 @@ Breadcrumbs já existem em articles/parceria-replit-e-microsoft-o-futuro-do-dese
 Processado: parceria-replit-e-microsoft-o-futuro-do-desenvolvimento-ia-no-azure-e-o-desafio-ao-google-cloud.html
 Breadcrumbs já existem em articles/x-bloqueia-reuters-na-india-tensao-entre-liberdade-de-imprensa-e-controle-governamental.html
 Processado: x-bloqueia-reuters-na-india-tensao-entre-liberdade-de-imprensa-e-controle-governamental.html
+Breadcrumbs já existem em articles/mistral-voxtral-a-ia-que-escuta-entende-e-executa-redefinindo-a-transcricao.html
+Processado: mistral-voxtral-a-ia-que-escuta-entende-e-executa-redefinindo-a-transcricao.html
 Breadcrumbs já existem em articles/meta-desfalca-apple-e-contrata-chefe-de-modelos-de-ia-para-superunidade.html
 Processado: meta-desfalca-apple-e-contrata-chefe-de-modelos-de-ia-para-superunidade.html
 Breadcrumbs já existem em articles/domine-seu-cap-table-o-segredo-para-acelerar-sua-captacao-de-recursos.html
@@ -444,6 +446,8 @@ Breadcrumbs já existem em articles/notebooklm-sua-pesquisa-com-ia-agora-tem-con
 Processado: notebooklm-sua-pesquisa-com-ia-agora-tem-conteudo-de-the-economist-e-the-atlantic.html
 Breadcrumbs já existem em articles/Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
 Processado: Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
+Breadcrumbs já existem em articles/vies-de-concordancia-em-ias-por-que-elas-mentem-para-te-agradar.html
+Processado: vies-de-concordancia-em-ias-por-que-elas-mentem-para-te-agradar.html
 Breadcrumbs já existem em articles/a-corrida-da-ia-por-que-a-meta-esta-construindo-data-centers-em-tendas.html
 Processado: a-corrida-da-ia-por-que-a-meta-esta-construindo-data-centers-em-tendas.html
 Breadcrumbs já existem em articles/ia-da-onu-cria-avatar-de-refugiada-empatia-digital-ou-apropriacao-tecnologica.html
@@ -721,6 +725,8 @@ Breadcrumbs já existem em articles/waymo-desafia-o-transito-de-ny-e-filadelfia-
 Processado: waymo-desafia-o-transito-de-ny-e-filadelfia-com-testes-de-robotaxis.html
 Breadcrumbs já existem em articles/a-ia-salva-ou-afunda-o-jornalismo-o-paradoxo-do-trafego-do-chatgpt.html
 Processado: a-ia-salva-ou-afunda-o-jornalismo-o-paradoxo-do-trafego-do-chatgpt.html
+Breadcrumbs já existem em articles/companheiros-de-ia-do-grok-entre-a-seducao-digital-e-o-caos-sem-filtros.html
+Processado: companheiros-de-ia-do-grok-entre-a-seducao-digital-e-o-caos-sem-filtros.html
 Breadcrumbs já existem em articles/uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 Processado: uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 Breadcrumbs já existem em articles/busca-com-ia-startup-de-fundadora-marroquina-levanta-us42m-para-revolucionar-a-precisao-dos-llms.html
@@ -1066,6 +1072,7 @@ Artigos relacionados adicionados com sucesso em articles/a-era-grok-da-tesla-e-o
 Artigos relacionados adicionados com sucesso em articles/data-center-da-xai-em-memphis-avanco-da-ia-sob-nevoa-de-duvidas-ambientais.html
 Artigos relacionados adicionados com sucesso em articles/parceria-replit-e-microsoft-o-futuro-do-desenvolvimento-ia-no-azure-e-o-desafio-ao-google-cloud.html
 Artigos relacionados adicionados com sucesso em articles/x-bloqueia-reuters-na-india-tensao-entre-liberdade-de-imprensa-e-controle-governamental.html
+Artigos relacionados adicionados com sucesso em articles/mistral-voxtral-a-ia-que-escuta-entende-e-executa-redefinindo-a-transcricao.html
 Artigos relacionados adicionados com sucesso em articles/meta-desfalca-apple-e-contrata-chefe-de-modelos-de-ia-para-superunidade.html
 Artigos relacionados adicionados com sucesso em articles/domine-seu-cap-table-o-segredo-para-acelerar-sua-captacao-de-recursos.html
 Artigos relacionados adicionados com sucesso em articles/blok-ai-a-revolucao-nos-testes-de-apps-com-simulacao-de-personas.html
@@ -1102,6 +1109,7 @@ Artigos relacionados adicionados com sucesso em articles/Google-Scale-AI-Parceri
 Artigos relacionados adicionados com sucesso em articles/us100-milhoes-para-ia-cofundador-da-databricks-e-perplexity-lanca-fundo-com-foco-em-pesquisa-de-impacto.html
 Artigos relacionados adicionados com sucesso em articles/notebooklm-sua-pesquisa-com-ia-agora-tem-conteudo-de-the-economist-e-the-atlantic.html
 Artigos relacionados adicionados com sucesso em articles/Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
+Artigos relacionados adicionados com sucesso em articles/vies-de-concordancia-em-ias-por-que-elas-mentem-para-te-agradar.html
 Artigos relacionados adicionados com sucesso em articles/a-corrida-da-ia-por-que-a-meta-esta-construindo-data-centers-em-tendas.html
 Artigos relacionados adicionados com sucesso em articles/ia-da-onu-cria-avatar-de-refugiada-empatia-digital-ou-apropriacao-tecnologica.html
 Artigos relacionados adicionados com sucesso em articles/Applied-Intuition-Salto-de-US$600M-Impulsiona-Avanço-em-IA-para-Defesa-e-Veículos-Autônomos.html
@@ -1241,6 +1249,7 @@ Artigos relacionados adicionados com sucesso em articles/nvidia-vs-eua-a-revirav
 Artigos relacionados adicionados com sucesso em articles/openai-contrata-time-da-crossing-minds-o-futuro-do-e-commerce-com-ia.html
 Artigos relacionados adicionados com sucesso em articles/waymo-desafia-o-transito-de-ny-e-filadelfia-com-testes-de-robotaxis.html
 Artigos relacionados adicionados com sucesso em articles/a-ia-salva-ou-afunda-o-jornalismo-o-paradoxo-do-trafego-do-chatgpt.html
+Artigos relacionados adicionados com sucesso em articles/companheiros-de-ia-do-grok-entre-a-seducao-digital-e-o-caos-sem-filtros.html
 Artigos relacionados adicionados com sucesso em articles/uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 Artigos relacionados adicionados com sucesso em articles/busca-com-ia-startup-de-fundadora-marroquina-levanta-us42m-para-revolucionar-a-precisao-dos-llms.html
 Artigos relacionados adicionados com sucesso em articles/navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
@@ -1319,7 +1328,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 131 artigos à seção de últimas notícias
+Adicionados 134 artigos à seção de últimas notícias
 Adicionadas 41 categorias
-Adicionadas 929 tags
-Sitemap atualizado com 11997 URLs
+Adicionadas 932 tags
+Sitemap atualizado com 12440 URLs
