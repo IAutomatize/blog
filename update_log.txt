@@ -68,6 +68,8 @@ Breadcrumbs já existem em articles/cognition-adquire-windsurf-a-reviravolta-na-
 Processado: cognition-adquire-windsurf-a-reviravolta-na-guerra-de-ia-para-codificacao.html
 Breadcrumbs já existem em articles/nascent-materials-revolucao-em-baterias-lfp-mais-acessiveis.html
 Processado: nascent-materials-revolucao-em-baterias-lfp-mais-acessiveis.html
+Breadcrumbs já existem em articles/clonagem-de-voz-por-ia-a-nova-tecnologia-que-aprende-a-esquecer.html
+Processado: clonagem-de-voz-por-ia-a-nova-tecnologia-que-aprende-a-esquecer.html
 Breadcrumbs já existem em articles/google-ai-mode-agora-com-conversas-por-voz-fluidas-e-interativas.html
 Processado: google-ai-mode-agora-com-conversas-por-voz-fluidas-e-interativas.html
 Breadcrumbs já existem em articles/ia-e-livros-anthropic-vence-batalha-de-copyright-o-que-muda.html
@@ -952,6 +954,7 @@ Artigos relacionados adicionados com sucesso em articles/a-reviravolta-de-kalani
 Artigos relacionados adicionados com sucesso em articles/chatehr-stanford-ia-segura-para-consultar-prontuarios-medicos.html
 Artigos relacionados adicionados com sucesso em articles/cognition-adquire-windsurf-a-reviravolta-na-guerra-de-ia-para-codificacao.html
 Artigos relacionados adicionados com sucesso em articles/nascent-materials-revolucao-em-baterias-lfp-mais-acessiveis.html
+Artigos relacionados adicionados com sucesso em articles/clonagem-de-voz-por-ia-a-nova-tecnologia-que-aprende-a-esquecer.html
 Artigos relacionados adicionados com sucesso em articles/google-ai-mode-agora-com-conversas-por-voz-fluidas-e-interativas.html
 Artigos relacionados adicionados com sucesso em articles/ia-e-livros-anthropic-vence-batalha-de-copyright-o-que-muda.html
 Artigos relacionados adicionados com sucesso em articles/a-revolucao-agentica-da-ia-o-que-lideres-empresariais-precisam-saber-agora.html
@@ -1376,7 +1379,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 134 artigos à seção de últimas notícias
+Adicionados 135 artigos à seção de últimas notícias
 Adicionadas 41 categorias
-Adicionadas 946 tags
-Sitemap atualizado com 12899 URLs
+Adicionadas 948 tags
+Sitemap atualizado com 13359 URLs

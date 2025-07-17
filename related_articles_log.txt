@@ -36,6 +36,7 @@
   ✓ chatehr-stanford-ia-segura-para-consultar-prontuarios-medicos.html
   ✓ cognition-adquire-windsurf-a-reviravolta-na-guerra-de-ia-para-codificacao.html
   ✓ nascent-materials-revolucao-em-baterias-lfp-mais-acessiveis.html
+  ✓ clonagem-de-voz-por-ia-a-nova-tecnologia-que-aprende-a-esquecer.html
   ✓ google-ai-mode-agora-com-conversas-por-voz-fluidas-e-interativas.html
   ✓ ia-e-livros-anthropic-vence-batalha-de-copyright-o-que-muda.html
   ✓ a-revolucao-agentica-da-ia-o-que-lideres-empresariais-precisam-saber-agora.html
@@ -461,7 +462,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 458
+📊 Total de artigos processados: 459
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -499,6 +500,7 @@
 ✅ Artigos relacionados adicionados em chatehr-stanford-ia-segura-para-consultar-prontuarios-medicos.html
 ✅ Artigos relacionados adicionados em cognition-adquire-windsurf-a-reviravolta-na-guerra-de-ia-para-codificacao.html
 ✅ Artigos relacionados adicionados em nascent-materials-revolucao-em-baterias-lfp-mais-acessiveis.html
+✅ Artigos relacionados adicionados em clonagem-de-voz-por-ia-a-nova-tecnologia-que-aprende-a-esquecer.html
 ✅ Artigos relacionados adicionados em google-ai-mode-agora-com-conversas-por-voz-fluidas-e-interativas.html
 ✅ Artigos relacionados adicionados em ia-e-livros-anthropic-vence-batalha-de-copyright-o-que-muda.html
 ✅ Artigos relacionados adicionados em a-revolucao-agentica-da-ia-o-que-lideres-empresariais-precisam-saber-agora.html
