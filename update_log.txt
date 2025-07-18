@@ -737,6 +737,8 @@ Breadcrumbs já existem em articles/mistral-voxtral-a-revolucao-open-source-na-i
 Processado: mistral-voxtral-a-revolucao-open-source-na-ia-de-audio-chegou.html
 Breadcrumbs já existem em articles/amazon-atinge-1-milhao-de-robos-e-lanca-ia-generativa-deepfleet.html
 Processado: amazon-atinge-1-milhao-de-robos-e-lanca-ia-generativa-deepfleet.html
+Breadcrumbs já existem em articles/perplexity-ai-na-india-a-estrategia-ousada-para-desafiar-a-openai.html
+Processado: perplexity-ai-na-india-a-estrategia-ousada-para-desafiar-a-openai.html
 Breadcrumbs já existem em articles/ia-no-linkedin-por-que-o-assistente-de-escrita-decepcionou-e-o-que-isso-sinaliza.html
 Processado: ia-no-linkedin-por-que-o-assistente-de-escrita-decepcionou-e-o-que-isso-sinaliza.html
 Breadcrumbs já existem em articles/cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
@@ -1327,6 +1329,7 @@ Artigos relacionados adicionados com sucesso em articles/also-inc-spinoff-da-riv
 Artigos relacionados adicionados com sucesso em articles/pensar-como-otimizacao-o-novo-paradigma-que-revoluciona-a-ia.html
 Artigos relacionados adicionados com sucesso em articles/mistral-voxtral-a-revolucao-open-source-na-ia-de-audio-chegou.html
 Artigos relacionados adicionados com sucesso em articles/amazon-atinge-1-milhao-de-robos-e-lanca-ia-generativa-deepfleet.html
+Artigos relacionados adicionados com sucesso em articles/perplexity-ai-na-india-a-estrategia-ousada-para-desafiar-a-openai.html
 Artigos relacionados adicionados com sucesso em articles/ia-no-linkedin-por-que-o-assistente-de-escrita-decepcionou-e-o-que-isso-sinaliza.html
 Artigos relacionados adicionados com sucesso em articles/cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
 Artigos relacionados adicionados com sucesso em articles/ia-generativa-na-saude-6-licoes-da-parceria-highmark-e-google.html
@@ -1436,7 +1439,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 129 artigos à seção de últimas notícias
+Adicionados 130 artigos à seção de últimas notícias
 Adicionadas 42 categorias
-Adicionadas 979 tags
-Sitemap atualizado com 13838 URLs
+Adicionadas 980 tags
+Sitemap atualizado com 14318 URLs

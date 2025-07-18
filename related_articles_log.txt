@@ -371,6 +371,7 @@
   ✓ pensar-como-otimizacao-o-novo-paradigma-que-revoluciona-a-ia.html
   ✓ mistral-voxtral-a-revolucao-open-source-na-ia-de-audio-chegou.html
   ✓ amazon-atinge-1-milhao-de-robos-e-lanca-ia-generativa-deepfleet.html
+  ✓ perplexity-ai-na-india-a-estrategia-ousada-para-desafiar-a-openai.html
   ✓ ia-no-linkedin-por-que-o-assistente-de-escrita-decepcionou-e-o-que-isso-sinaliza.html
   ✓ cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
   ✓ ia-generativa-na-saude-6-licoes-da-parceria-highmark-e-google.html
@@ -481,7 +482,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 478
+📊 Total de artigos processados: 479
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -854,6 +855,7 @@
 ✅ Artigos relacionados adicionados em pensar-como-otimizacao-o-novo-paradigma-que-revoluciona-a-ia.html
 ✅ Artigos relacionados adicionados em mistral-voxtral-a-revolucao-open-source-na-ia-de-audio-chegou.html
 ✅ Artigos relacionados adicionados em amazon-atinge-1-milhao-de-robos-e-lanca-ia-generativa-deepfleet.html
+✅ Artigos relacionados adicionados em perplexity-ai-na-india-a-estrategia-ousada-para-desafiar-a-openai.html
 ✅ Artigos relacionados adicionados em ia-no-linkedin-por-que-o-assistente-de-escrita-decepcionou-e-o-que-isso-sinaliza.html
 ✅ Artigos relacionados adicionados em cluely-o-marketing-da-polemica-e-o-futuro-das-startups-de-ia.html
 ✅ Artigos relacionados adicionados em ia-generativa-na-saude-6-licoes-da-parceria-highmark-e-google.html
