@@ -164,6 +164,8 @@ Breadcrumbs já existem em articles/openai-adia-modelo-aberto-seguranca-ou-press
 Processado: openai-adia-modelo-aberto-seguranca-ou-pressao-competitiva.html
 Breadcrumbs já existem em articles/sakana-ai-treequest-a-revolucao-dos-times-de-ia-que-superam-llms-em-30.html
 Processado: sakana-ai-treequest-a-revolucao-dos-times-de-ia-que-superam-llms-em-30.html
+Breadcrumbs já existem em articles/aquisicao-windsurf-cognition-da-crise-a-salvacao-em-72-horas.html
+Processado: aquisicao-windsurf-cognition-da-crise-a-salvacao-em-72-horas.html
 Breadcrumbs já existem em articles/grok-ai-de-elon-musk-a-ia-que-busca-a-verdade-e-encontra-conspiracoes.html
 Processado: grok-ai-de-elon-musk-a-ia-que-busca-a-verdade-e-encontra-conspiracoes.html
 Breadcrumbs já existem em articles/genesis-ai-a-revolucao-da-ia-para-robos-com-us-105-milhoes.html
@@ -262,6 +264,8 @@ Breadcrumbs já existem em articles/fraude-por-deepfake-persona-bloqueia-75-milh
 Processado: fraude-por-deepfake-persona-bloqueia-75-milhoes-de-golpes.html
 Breadcrumbs já existem em articles/falha-de-ia-no-mcdonalds-como-a-senha-123456-expos-dados-de-milhoes.html
 Processado: falha-de-ia-no-mcdonalds-como-a-senha-123456-expos-dados-de-milhoes.html
+Breadcrumbs já existem em articles/privacidade-e-ia-o-preco-oculto-por-tras-da-conveniencia.html
+Processado: privacidade-e-ia-o-preco-oculto-por-tras-da-conveniencia.html
 Breadcrumbs já existem em articles/remark-capta-us16m-com-ia-treinada-por-humanos-para-e-commerce.html
 Processado: remark-capta-us16m-com-ia-treinada-por-humanos-para-e-commerce.html
 Breadcrumbs já existem em articles/o-alarme-soou-por-que-os-criadores-da-ia-temem-perder-o-controle-de-suas-criacoes.html
@@ -318,6 +322,8 @@ Breadcrumbs já existem em articles/ChatGPT-e-Saúde-Mental-Quando-a-IA-Amplific
 Processado: ChatGPT-e-Saúde-Mental-Quando-a-IA-Amplifica-Delírios-e-Preocupações.html
 Breadcrumbs já existem em articles/sb-1047-a-batalha-pela-regulamentacao-de-ia-na-california-recomeca.html
 Processado: sb-1047-a-batalha-pela-regulamentacao-de-ia-na-california-recomeca.html
+Breadcrumbs já existem em articles/plataformas-centradas-em-modelos-5-perguntas-que-sua-equipe-de-devs-precisa-fazer.html
+Processado: plataformas-centradas-em-modelos-5-perguntas-que-sua-equipe-de-devs-precisa-fazer.html
 Breadcrumbs já existem em articles/aceleracao-imparavel-dos-agentes-de-ia-por-que-a-adocao-empresarial-superou-todas-as-previsoes.html
 Processado: aceleracao-imparavel-dos-agentes-de-ia-por-que-a-adocao-empresarial-superou-todas-as-previsoes.html
 Breadcrumbs já existem em articles/Guerra-de-Talentos-em-IA-Altman-Afirma-que-Meta-Falhou-ao-Tentar-Seduzir-Equipe-da-OpenAI-com-US$100M.html
@@ -925,6 +931,8 @@ Breadcrumbs já existem em articles/vazamento-na-qantas-dados-de-6-milhoes-de-pa
 Processado: vazamento-na-qantas-dados-de-6-milhoes-de-passageiros-em-risco-apos-ataque-cibernetico.html
 Breadcrumbs já existem em articles/Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html
 Processado: Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html
+Breadcrumbs já existem em articles/david-sacks-no-governo-inovacao-ou-conflito-de-interesses.html
+Processado: david-sacks-no-governo-inovacao-ou-conflito-de-interesses.html
 Breadcrumbs já existem em articles/srpo-da-kwai-ai-grpo-pode-ser-10x-mais-eficiente-com-nova-tecnica.html
 Processado: srpo-da-kwai-ai-grpo-pode-ser-10x-mais-eficiente-com-nova-tecnica.html
 Breadcrumbs já existem em articles/unicornios-de-tecnologia-2025-o-boom-inesperado-com-36-novas-startups-bilionarias.html
@@ -1070,6 +1078,7 @@ Artigos relacionados adicionados com sucesso em articles/ferramentas-de-ia-no-te
 Artigos relacionados adicionados com sucesso em articles/ia-grok-nova-versao-gera-controversia-com-respostas-politicas-e-antissemitas.html
 Artigos relacionados adicionados com sucesso em articles/openai-adia-modelo-aberto-seguranca-ou-pressao-competitiva.html
 Artigos relacionados adicionados com sucesso em articles/sakana-ai-treequest-a-revolucao-dos-times-de-ia-que-superam-llms-em-30.html
+Artigos relacionados adicionados com sucesso em articles/aquisicao-windsurf-cognition-da-crise-a-salvacao-em-72-horas.html
 Artigos relacionados adicionados com sucesso em articles/grok-ai-de-elon-musk-a-ia-que-busca-a-verdade-e-encontra-conspiracoes.html
 Artigos relacionados adicionados com sucesso em articles/genesis-ai-a-revolucao-da-ia-para-robos-com-us-105-milhoes.html
 Artigos relacionados adicionados com sucesso em articles/xai-contrata-engenheiro-de-waifus-a-ia-de-musk-quer-conquistar-coracoes.html
@@ -1119,6 +1128,7 @@ Artigos relacionados adicionados com sucesso em articles/apple-e-a-nova-siri-par
 Artigos relacionados adicionados com sucesso em articles/agentes-autonomos-de-ia-a-estrategia-da-intuit-e-amex-para-superar-a-concorrencia.html
 Artigos relacionados adicionados com sucesso em articles/fraude-por-deepfake-persona-bloqueia-75-milhoes-de-golpes.html
 Artigos relacionados adicionados com sucesso em articles/falha-de-ia-no-mcdonalds-como-a-senha-123456-expos-dados-de-milhoes.html
+Artigos relacionados adicionados com sucesso em articles/privacidade-e-ia-o-preco-oculto-por-tras-da-conveniencia.html
 Artigos relacionados adicionados com sucesso em articles/remark-capta-us16m-com-ia-treinada-por-humanos-para-e-commerce.html
 Artigos relacionados adicionados com sucesso em articles/o-alarme-soou-por-que-os-criadores-da-ia-temem-perder-o-controle-de-suas-criacoes.html
 Artigos relacionados adicionados com sucesso em articles/spacex-pode-atingir-avaliacao-de-us-400-bilhoes-em-nova-rodada-de-financiamento.html
@@ -1147,6 +1157,7 @@ Artigos relacionados adicionados com sucesso em articles/mobilidade-do-futuro-a-
 Artigos relacionados adicionados com sucesso em articles/semeamento-de-nuvens-a-verdade-cientifica-sobre-as-inundacoes-no-texas.html
 Artigos relacionados adicionados com sucesso em articles/ChatGPT-e-Saúde-Mental-Quando-a-IA-Amplifica-Delírios-e-Preocupações.html
 Artigos relacionados adicionados com sucesso em articles/sb-1047-a-batalha-pela-regulamentacao-de-ia-na-california-recomeca.html
+Artigos relacionados adicionados com sucesso em articles/plataformas-centradas-em-modelos-5-perguntas-que-sua-equipe-de-devs-precisa-fazer.html
 Artigos relacionados adicionados com sucesso em articles/aceleracao-imparavel-dos-agentes-de-ia-por-que-a-adocao-empresarial-superou-todas-as-previsoes.html
 Artigos relacionados adicionados com sucesso em articles/Guerra-de-Talentos-em-IA-Altman-Afirma-que-Meta-Falhou-ao-Tentar-Seduzir-Equipe-da-OpenAI-com-US$100M.html
 Artigos relacionados adicionados com sucesso em articles/google-acelera-futuro-da-infraestrutura-com-academia-de-ia-para-startups.html
@@ -1451,6 +1462,7 @@ Artigos relacionados adicionados com sucesso em articles/lgnd-a-ia-que-quer-ser-
 Artigos relacionados adicionados com sucesso em articles/controversia-grok-o-pedido-de-desculpas-da-xai-e-a-crise-de-confianca-na-ia-de-musk.html
 Artigos relacionados adicionados com sucesso em articles/vazamento-na-qantas-dados-de-6-milhoes-de-passageiros-em-risco-apos-ataque-cibernetico.html
 Artigos relacionados adicionados com sucesso em articles/Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html
+Artigos relacionados adicionados com sucesso em articles/david-sacks-no-governo-inovacao-ou-conflito-de-interesses.html
 Artigos relacionados adicionados com sucesso em articles/srpo-da-kwai-ai-grpo-pode-ser-10x-mais-eficiente-com-nova-tecnica.html
 Artigos relacionados adicionados com sucesso em articles/unicornios-de-tecnologia-2025-o-boom-inesperado-com-36-novas-startups-bilionarias.html
 Artigos relacionados adicionados com sucesso em articles/ultima-chamada-economize-ate-210-no-techcrunch-all-stage-e-acelere-sua-startup.html
@@ -1481,7 +1493,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 128 artigos à seção de últimas notícias
-Adicionadas 42 categorias
-Adicionadas 1000 tags
-Sitemap atualizado com 14812 URLs
+Adicionados 116 artigos à seção de últimas notícias
+Adicionadas 43 categorias
+Adicionadas 1006 tags
+Sitemap atualizado com 15310 URLs

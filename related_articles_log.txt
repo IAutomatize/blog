@@ -84,6 +84,7 @@
   ✓ ia-grok-nova-versao-gera-controversia-com-respostas-politicas-e-antissemitas.html
   ✓ openai-adia-modelo-aberto-seguranca-ou-pressao-competitiva.html
   ✓ sakana-ai-treequest-a-revolucao-dos-times-de-ia-que-superam-llms-em-30.html
+  ✓ aquisicao-windsurf-cognition-da-crise-a-salvacao-em-72-horas.html
   ✓ grok-ai-de-elon-musk-a-ia-que-busca-a-verdade-e-encontra-conspiracoes.html
   ✓ genesis-ai-a-revolucao-da-ia-para-robos-com-us-105-milhoes.html
   ✓ xai-contrata-engenheiro-de-waifus-a-ia-de-musk-quer-conquistar-coracoes.html
@@ -133,6 +134,7 @@
   ✓ agentes-autonomos-de-ia-a-estrategia-da-intuit-e-amex-para-superar-a-concorrencia.html
   ✓ fraude-por-deepfake-persona-bloqueia-75-milhoes-de-golpes.html
   ✓ falha-de-ia-no-mcdonalds-como-a-senha-123456-expos-dados-de-milhoes.html
+  ✓ privacidade-e-ia-o-preco-oculto-por-tras-da-conveniencia.html
   ✓ remark-capta-us16m-com-ia-treinada-por-humanos-para-e-commerce.html
   ✓ o-alarme-soou-por-que-os-criadores-da-ia-temem-perder-o-controle-de-suas-criacoes.html
   ✓ spacex-pode-atingir-avaliacao-de-us-400-bilhoes-em-nova-rodada-de-financiamento.html
@@ -161,6 +163,7 @@
   ✓ semeamento-de-nuvens-a-verdade-cientifica-sobre-as-inundacoes-no-texas.html
   ✓ ChatGPT-e-Saúde-Mental-Quando-a-IA-Amplifica-Delírios-e-Preocupações.html
   ✓ sb-1047-a-batalha-pela-regulamentacao-de-ia-na-california-recomeca.html
+  ✓ plataformas-centradas-em-modelos-5-perguntas-que-sua-equipe-de-devs-precisa-fazer.html
   ✓ aceleracao-imparavel-dos-agentes-de-ia-por-que-a-adocao-empresarial-superou-todas-as-previsoes.html
   ✓ Guerra-de-Talentos-em-IA-Altman-Afirma-que-Meta-Falhou-ao-Tentar-Seduzir-Equipe-da-OpenAI-com-US$100M.html
   ✓ google-acelera-futuro-da-infraestrutura-com-academia-de-ia-para-startups.html
@@ -465,6 +468,7 @@
   ✓ controversia-grok-o-pedido-de-desculpas-da-xai-e-a-crise-de-confianca-na-ia-de-musk.html
   ✓ vazamento-na-qantas-dados-de-6-milhoes-de-passageiros-em-risco-apos-ataque-cibernetico.html
   ✓ Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html
+  ✓ david-sacks-no-governo-inovacao-ou-conflito-de-interesses.html
   ✓ srpo-da-kwai-ai-grpo-pode-ser-10x-mais-eficiente-com-nova-tecnica.html
   ✓ unicornios-de-tecnologia-2025-o-boom-inesperado-com-36-novas-startups-bilionarias.html
   ✓ ultima-chamada-economize-ate-210-no-techcrunch-all-stage-e-acelere-sua-startup.html
@@ -496,7 +500,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 493
+📊 Total de artigos processados: 497
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -582,6 +586,7 @@
 ✅ Artigos relacionados adicionados em ia-grok-nova-versao-gera-controversia-com-respostas-politicas-e-antissemitas.html
 ✅ Artigos relacionados adicionados em openai-adia-modelo-aberto-seguranca-ou-pressao-competitiva.html
 ✅ Artigos relacionados adicionados em sakana-ai-treequest-a-revolucao-dos-times-de-ia-que-superam-llms-em-30.html
+✅ Artigos relacionados adicionados em aquisicao-windsurf-cognition-da-crise-a-salvacao-em-72-horas.html
 ✅ Artigos relacionados adicionados em grok-ai-de-elon-musk-a-ia-que-busca-a-verdade-e-encontra-conspiracoes.html
 ✅ Artigos relacionados adicionados em genesis-ai-a-revolucao-da-ia-para-robos-com-us-105-milhoes.html
 ✅ Artigos relacionados adicionados em xai-contrata-engenheiro-de-waifus-a-ia-de-musk-quer-conquistar-coracoes.html
@@ -631,6 +636,7 @@
 ✅ Artigos relacionados adicionados em agentes-autonomos-de-ia-a-estrategia-da-intuit-e-amex-para-superar-a-concorrencia.html
 ✅ Artigos relacionados adicionados em fraude-por-deepfake-persona-bloqueia-75-milhoes-de-golpes.html
 ✅ Artigos relacionados adicionados em falha-de-ia-no-mcdonalds-como-a-senha-123456-expos-dados-de-milhoes.html
+✅ Artigos relacionados adicionados em privacidade-e-ia-o-preco-oculto-por-tras-da-conveniencia.html
 ✅ Artigos relacionados adicionados em remark-capta-us16m-com-ia-treinada-por-humanos-para-e-commerce.html
 ✅ Artigos relacionados adicionados em o-alarme-soou-por-que-os-criadores-da-ia-temem-perder-o-controle-de-suas-criacoes.html
 ✅ Artigos relacionados adicionados em spacex-pode-atingir-avaliacao-de-us-400-bilhoes-em-nova-rodada-de-financiamento.html
@@ -659,6 +665,7 @@
 ✅ Artigos relacionados adicionados em semeamento-de-nuvens-a-verdade-cientifica-sobre-as-inundacoes-no-texas.html
 ✅ Artigos relacionados adicionados em ChatGPT-e-Saúde-Mental-Quando-a-IA-Amplifica-Delírios-e-Preocupações.html
 ✅ Artigos relacionados adicionados em sb-1047-a-batalha-pela-regulamentacao-de-ia-na-california-recomeca.html
+✅ Artigos relacionados adicionados em plataformas-centradas-em-modelos-5-perguntas-que-sua-equipe-de-devs-precisa-fazer.html
 ✅ Artigos relacionados adicionados em aceleracao-imparavel-dos-agentes-de-ia-por-que-a-adocao-empresarial-superou-todas-as-previsoes.html
 ✅ Artigos relacionados adicionados em Guerra-de-Talentos-em-IA-Altman-Afirma-que-Meta-Falhou-ao-Tentar-Seduzir-Equipe-da-OpenAI-com-US$100M.html
 ✅ Artigos relacionados adicionados em google-acelera-futuro-da-infraestrutura-com-academia-de-ia-para-startups.html
@@ -963,6 +970,7 @@
 ✅ Artigos relacionados adicionados em controversia-grok-o-pedido-de-desculpas-da-xai-e-a-crise-de-confianca-na-ia-de-musk.html
 ✅ Artigos relacionados adicionados em vazamento-na-qantas-dados-de-6-milhoes-de-passageiros-em-risco-apos-ataque-cibernetico.html
 ✅ Artigos relacionados adicionados em Cluely-A-Polêmica-Startup-de-IA-e-a-Festa-Lendária-que-Nunca-Aconteceu.html
+✅ Artigos relacionados adicionados em david-sacks-no-governo-inovacao-ou-conflito-de-interesses.html
 ✅ Artigos relacionados adicionados em srpo-da-kwai-ai-grpo-pode-ser-10x-mais-eficiente-com-nova-tecnica.html
 ✅ Artigos relacionados adicionados em unicornios-de-tecnologia-2025-o-boom-inesperado-com-36-novas-startups-bilionarias.html
 ✅ Artigos relacionados adicionados em ultima-chamada-economize-ate-210-no-techcrunch-all-stage-e-acelere-sua-startup.html
