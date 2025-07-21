@@ -136,6 +136,7 @@
   ✓ falha-de-ia-no-mcdonalds-como-a-senha-123456-expos-dados-de-milhoes.html
   ✓ privacidade-e-ia-o-preco-oculto-por-tras-da-conveniencia.html
   ✓ remark-capta-us16m-com-ia-treinada-por-humanos-para-e-commerce.html
+  ✓ de-entregas-a-fabricas-a-pivo-estrategica-da-cartken-para-robos-industriais.html
   ✓ o-alarme-soou-por-que-os-criadores-da-ia-temem-perder-o-controle-de-suas-criacoes.html
   ✓ spacex-pode-atingir-avaliacao-de-us-400-bilhoes-em-nova-rodada-de-financiamento.html
   ✓ joby-aviation-acelera-rumo-ao-futuro-do-taxi-aereo-com-expansao-estrategica.html
@@ -274,6 +275,7 @@
   ✓ hackers-norte-coreanos-a-ameaca-digital-que-drenou-bilhoes-em-cripto-em-2025.html
   ✓ emergence-ai-craft-automacao-inteligente-para-pipelines-de-dados-corporativos.html
   ✓ techcrunch-all-stage-ingressos-com-precos-de-lancamento-por-tempo-limitado.html
+  ✓ personalizacao-por-ia-a-armadilha-invisivel-que-molda-sua-realidade.html
   ✓ deepseek-coder-v2-versao-200-mais-rapida-surge-e-redefine-o-futuro-da-programacao-com-ia.html
   ✓ lovable-a-startup-de-ia-que-virou-unicornio-em-apenas-8-meses.html
   ✓ agente-chatgpt-a-revolucao-da-openai-que-automatiza-seu-computador.html
@@ -500,7 +502,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 497
+📊 Total de artigos processados: 499
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -638,6 +640,7 @@
 ✅ Artigos relacionados adicionados em falha-de-ia-no-mcdonalds-como-a-senha-123456-expos-dados-de-milhoes.html
 ✅ Artigos relacionados adicionados em privacidade-e-ia-o-preco-oculto-por-tras-da-conveniencia.html
 ✅ Artigos relacionados adicionados em remark-capta-us16m-com-ia-treinada-por-humanos-para-e-commerce.html
+✅ Artigos relacionados adicionados em de-entregas-a-fabricas-a-pivo-estrategica-da-cartken-para-robos-industriais.html
 ✅ Artigos relacionados adicionados em o-alarme-soou-por-que-os-criadores-da-ia-temem-perder-o-controle-de-suas-criacoes.html
 ✅ Artigos relacionados adicionados em spacex-pode-atingir-avaliacao-de-us-400-bilhoes-em-nova-rodada-de-financiamento.html
 ✅ Artigos relacionados adicionados em joby-aviation-acelera-rumo-ao-futuro-do-taxi-aereo-com-expansao-estrategica.html
@@ -776,6 +779,7 @@
 ✅ Artigos relacionados adicionados em hackers-norte-coreanos-a-ameaca-digital-que-drenou-bilhoes-em-cripto-em-2025.html
 ✅ Artigos relacionados adicionados em emergence-ai-craft-automacao-inteligente-para-pipelines-de-dados-corporativos.html
 ✅ Artigos relacionados adicionados em techcrunch-all-stage-ingressos-com-precos-de-lancamento-por-tempo-limitado.html
+✅ Artigos relacionados adicionados em personalizacao-por-ia-a-armadilha-invisivel-que-molda-sua-realidade.html
 ✅ Artigos relacionados adicionados em deepseek-coder-v2-versao-200-mais-rapida-surge-e-redefine-o-futuro-da-programacao-com-ia.html
 ✅ Artigos relacionados adicionados em lovable-a-startup-de-ia-que-virou-unicornio-em-apenas-8-meses.html
 ✅ Artigos relacionados adicionados em agente-chatgpt-a-revolucao-da-openai-que-automatiza-seu-computador.html
