@@ -244,6 +244,8 @@ Breadcrumbs já existem em articles/monitoramento-da-ia-a-urgencia-de-ler-os-pen
 Processado: monitoramento-da-ia-a-urgencia-de-ler-os-pensamentos-das-maquinas-para-nossa-seguranca.html
 Breadcrumbs já existem em articles/o-paradoxo-da-ia-por-que-pensar-demais-torna-modelos-de-linguagem-mais-burros.html
 Processado: o-paradoxo-da-ia-por-que-pensar-demais-torna-modelos-de-linguagem-mais-burros.html
+Breadcrumbs já existem em articles/mixture-of-recursions-a-tecnica-que-dobra-a-velocidade-de-inferencia-em-ia.html
+Processado: mixture-of-recursions-a-tecnica-que-dobra-a-velocidade-de-inferencia-em-ia.html
 Breadcrumbs já existem em articles/a-armadilha-da-inferencia-como-a-nuvem-esta-drenando-os-lucros-da-sua-ia.html
 Processado: a-armadilha-da-inferencia-como-a-nuvem-esta-drenando-os-lucros-da-sua-ia.html
 Breadcrumbs já existem em articles/netflix-e-nasa-a-fronteira-final-do-streaming-chega-a-sua-sala.html
@@ -692,6 +694,8 @@ Processado: techcrunch-all-stage-expertise-e-apoio-estrategico-para-startups-dec
 Erro ao processar ia-para-mvp-a-arte-de-saber-quando-usar-um-bot-e-quando-nao.html: 'utf-8' codec can't decode byte 0xe9 in position 9032: invalid continuation byte
 Breadcrumbs já existem em articles/o-paradoxo-da-microsoft-economia-de-us-500-milhoes-com-ia-e-9000-demissoes.html
 Processado: o-paradoxo-da-microsoft-economia-de-us-500-milhoes-com-ia-e-9000-demissoes.html
+Breadcrumbs já existem em articles/gupshup-capta-us-60-milhoes-mas-deixa-status-de-unicornio-em-xeque.html
+Processado: gupshup-capta-us-60-milhoes-mas-deixa-status-de-unicornio-em-xeque.html
 Breadcrumbs já existem em articles/a-fabrica-de-startups-ia-audos-quer-lancar-100000-empresas-por-ano.html
 Processado: a-fabrica-de-startups-ia-audos-quer-lancar-100000-empresas-por-ano.html
 Breadcrumbs já existem em articles/ia-empresarial-o-fim-da-guerra-entre-modelos-abertos-e-fechados.html
@@ -1195,6 +1199,7 @@ Artigos relacionados adicionados com sucesso em articles/slate-auto-a-aposta-vis
 Artigos relacionados adicionados com sucesso em articles/liquid-ai-leap-o-kit-dev-que-revolucionara-a-ia-em-celulares.html
 Artigos relacionados adicionados com sucesso em articles/monitoramento-da-ia-a-urgencia-de-ler-os-pensamentos-das-maquinas-para-nossa-seguranca.html
 Artigos relacionados adicionados com sucesso em articles/o-paradoxo-da-ia-por-que-pensar-demais-torna-modelos-de-linguagem-mais-burros.html
+Artigos relacionados adicionados com sucesso em articles/mixture-of-recursions-a-tecnica-que-dobra-a-velocidade-de-inferencia-em-ia.html
 Artigos relacionados adicionados com sucesso em articles/a-armadilha-da-inferencia-como-a-nuvem-esta-drenando-os-lucros-da-sua-ia.html
 Artigos relacionados adicionados com sucesso em articles/netflix-e-nasa-a-fronteira-final-do-streaming-chega-a-sua-sala.html
 Artigos relacionados adicionados com sucesso em articles/crise-no-cursor-precos-desculpas-e-a-dura-realidade-do-custo-da-ia.html
@@ -1420,6 +1425,7 @@ Artigos relacionados adicionados com sucesso em articles/IA-Gemini-em-Pânico-no
 Artigos relacionados adicionados com sucesso em articles/techcrunch-all-stage-expertise-e-apoio-estrategico-para-startups-decolarem.html
 Erro ao adicionar artigos relacionados em articles/ia-para-mvp-a-arte-de-saber-quando-usar-um-bot-e-quando-nao.html: 'utf-8' codec can't decode byte 0xe9 in position 9032: invalid continuation byte
 Artigos relacionados adicionados com sucesso em articles/o-paradoxo-da-microsoft-economia-de-us-500-milhoes-com-ia-e-9000-demissoes.html
+Artigos relacionados adicionados com sucesso em articles/gupshup-capta-us-60-milhoes-mas-deixa-status-de-unicornio-em-xeque.html
 Artigos relacionados adicionados com sucesso em articles/a-fabrica-de-startups-ia-audos-quer-lancar-100000-empresas-por-ano.html
 Artigos relacionados adicionados com sucesso em articles/ia-empresarial-o-fim-da-guerra-entre-modelos-abertos-e-fechados.html
 Artigos relacionados adicionados com sucesso em articles/startups-em-estagio-avancado-novas-regras-para-o-sucesso-em-2025.html
@@ -1609,7 +1615,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 141 artigos à seção de últimas notícias
+Adicionados 143 artigos à seção de últimas notícias
 Adicionadas 45 categorias
-Adicionadas 1051 tags
-Sitemap atualizado com 17857 URLs
+Adicionadas 1056 tags
+Sitemap atualizado com 18395 URLs

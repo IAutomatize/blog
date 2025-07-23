@@ -124,6 +124,7 @@
   ✓ liquid-ai-leap-o-kit-dev-que-revolucionara-a-ia-em-celulares.html
   ✓ monitoramento-da-ia-a-urgencia-de-ler-os-pensamentos-das-maquinas-para-nossa-seguranca.html
   ✓ o-paradoxo-da-ia-por-que-pensar-demais-torna-modelos-de-linguagem-mais-burros.html
+  ✓ mixture-of-recursions-a-tecnica-que-dobra-a-velocidade-de-inferencia-em-ia.html
   ✓ a-armadilha-da-inferencia-como-a-nuvem-esta-drenando-os-lucros-da-sua-ia.html
   ✓ netflix-e-nasa-a-fronteira-final-do-streaming-chega-a-sua-sala.html
   ✓ crise-no-cursor-precos-desculpas-e-a-dura-realidade-do-custo-da-ia.html
@@ -349,6 +350,7 @@
   ✓ techcrunch-all-stage-expertise-e-apoio-estrategico-para-startups-decolarem.html
   ❌ Erro ao processar ia-para-mvp-a-arte-de-saber-quando-usar-um-bot-e-quando-nao.html: 'utf-8' codec can't decode byte 0xe9 in position 9032: invalid continuation byte
   ✓ o-paradoxo-da-microsoft-economia-de-us-500-milhoes-com-ia-e-9000-demissoes.html
+  ✓ gupshup-capta-us-60-milhoes-mas-deixa-status-de-unicornio-em-xeque.html
   ✓ a-fabrica-de-startups-ia-audos-quer-lancar-100000-empresas-por-ano.html
   ✓ ia-empresarial-o-fim-da-guerra-entre-modelos-abertos-e-fechados.html
   ✓ startups-em-estagio-avancado-novas-regras-para-o-sucesso-em-2025.html
@@ -539,7 +541,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 535
+📊 Total de artigos processados: 537
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -665,6 +667,7 @@
 ✅ Artigos relacionados adicionados em liquid-ai-leap-o-kit-dev-que-revolucionara-a-ia-em-celulares.html
 ✅ Artigos relacionados adicionados em monitoramento-da-ia-a-urgencia-de-ler-os-pensamentos-das-maquinas-para-nossa-seguranca.html
 ✅ Artigos relacionados adicionados em o-paradoxo-da-ia-por-que-pensar-demais-torna-modelos-de-linguagem-mais-burros.html
+✅ Artigos relacionados adicionados em mixture-of-recursions-a-tecnica-que-dobra-a-velocidade-de-inferencia-em-ia.html
 ✅ Artigos relacionados adicionados em a-armadilha-da-inferencia-como-a-nuvem-esta-drenando-os-lucros-da-sua-ia.html
 ✅ Artigos relacionados adicionados em netflix-e-nasa-a-fronteira-final-do-streaming-chega-a-sua-sala.html
 ✅ Artigos relacionados adicionados em crise-no-cursor-precos-desculpas-e-a-dura-realidade-do-custo-da-ia.html
@@ -890,6 +893,7 @@
 ✅ Artigos relacionados adicionados em techcrunch-all-stage-expertise-e-apoio-estrategico-para-startups-decolarem.html
 ❌ Erro ao adicionar artigos relacionados em articles/ia-para-mvp-a-arte-de-saber-quando-usar-um-bot-e-quando-nao.html: 'utf-8' codec can't decode byte 0xe9 in position 9032: invalid continuation byte
 ✅ Artigos relacionados adicionados em o-paradoxo-da-microsoft-economia-de-us-500-milhoes-com-ia-e-9000-demissoes.html
+✅ Artigos relacionados adicionados em gupshup-capta-us-60-milhoes-mas-deixa-status-de-unicornio-em-xeque.html
 ✅ Artigos relacionados adicionados em a-fabrica-de-startups-ia-audos-quer-lancar-100000-empresas-por-ano.html
 ✅ Artigos relacionados adicionados em ia-empresarial-o-fim-da-guerra-entre-modelos-abertos-e-fechados.html
 ✅ Artigos relacionados adicionados em startups-em-estagio-avancado-novas-regras-para-o-sucesso-em-2025.html
