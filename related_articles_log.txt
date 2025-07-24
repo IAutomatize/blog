@@ -67,13 +67,16 @@
   ✓ grok-offline-a-crise-da-ia-de-elon-musk-e-a-luta-contra-o-odio.html
   ✓ deepseek-prover-v2-ia-desvenda-teoremas-com-busca-recursiva-inovadora.html
   ✓ Applied-Intuition-US$600M-Impulsionam-IA-em-Veículos-Autônomos-e-Defesa.html
+  ✓ desafio-de-ia-revela-verdade-chocante-vencedor-acerta-apenas-75.html
   ✓ sase-por-que-cisos-trocam-multiplos-fornecedores-por-seguranca-inteligente.html
   ✓ terra-co2-investimento-de-124m-para-um-futuro-de-cimento-sustentavel.html
   ✓ modelos-de-ia-abertos-vs-fechados-o-dilema-estrategico-para-empresas.html
   ✓ paul-pope-e-a-ia-menos-plagio-artistico-mais-medo-de-robos-assassinos.html
   ✓ a-revolucao-energetica-de-baiju-bhatt-energia-solar-espacial-com-aetherflux-pode-mudar-tudo.html
+  ✓ ia-open-weight-o-sinal-da-casa-branca-e-as-novas-fronteiras-de-seguranca-para-empresas.html
   ✓ openai-libera-sdk-para-agentes-de-ia-a-revolucao-nos-negocios.html
   ✓ cognition-adquire-windsurf-devin-ganha-reforcos-e-sela-paz-com-anthropic.html
+  ✓ ia-anti-woke-de-trump-a-nova-batalha-pela-alma-da-tecnologia.html
   ✓ talentos-ia-meta-contrata-trio-da-openai-e-aquece-disputa.html
   ✓ techcrunch-all-stage-2025-ultima-chamada-para-o-evento-que-promete-acelerar-startups-em-boston.html
   ✓ captacao-de-recursos-em-2025-a-estrategia-mudou-adapte-se-ou-fique-para-tras.html
@@ -101,6 +104,7 @@
   ✓ tubi-inova-ao-integrar-estrelas-do-youtube-como-mythical-kitchen-em-seu-catalogo-de-streaming.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
   ✓ qwen2-o-novo-modelo-de-ia-open-source-do-alibaba-que-supera-rivais.html
+  ✓ desafio-k-prize-expoe-a-dura-realidade-da-ia-na-programacao-apenas-75-de-sucesso.html
   ✓ cultura-openai-a-verdade-chocante-por-tras-do-gigante-da-ia.html
   ✓ jon-mcneill-no-techcrunch-all-stage-o-manual-do-operador-para-escalar-empresas-sustentaveis.html
   ✓ delve-como-2-jovens-do-mit-levantaram-us32m-para-revolucionar-a-conformidade-com-ia.html
@@ -159,6 +163,7 @@
   ✓ x-bloqueia-reuters-na-india-censura-ou-demanda-legal-a-tensao-aumenta.html
   ✓ decifrando-o-codigo-do-investimento-em-ia-kleida-martiro-guia-startups-no-techcrunch-all-stage.html
   ✓ companheiros-de-ia-por-que-72-dos-adolescentes-ja-usam.html
+  ✓ receita-do-youtube-dispara-quase-us10-bi-e-a-nova-era-da-tv.html
   ✓ uber-atende-pedido-antigo-funcao-motorista-mulher-chega-aos-eua.html
   ✓ ia-em-compras-levelpath-capta-us-55-milhoes-para-desafiar-mercado-legado.html
   ✓ perplexity-comet-o-navegador-com-ia-que-quer-destronar-o-google.html
@@ -562,7 +567,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 558
+📊 Total de artigos processados: 563
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -631,13 +636,16 @@
 ✅ Artigos relacionados adicionados em grok-offline-a-crise-da-ia-de-elon-musk-e-a-luta-contra-o-odio.html
 ✅ Artigos relacionados adicionados em deepseek-prover-v2-ia-desvenda-teoremas-com-busca-recursiva-inovadora.html
 ✅ Artigos relacionados adicionados em Applied-Intuition-US$600M-Impulsionam-IA-em-Veículos-Autônomos-e-Defesa.html
+✅ Artigos relacionados adicionados em desafio-de-ia-revela-verdade-chocante-vencedor-acerta-apenas-75.html
 ✅ Artigos relacionados adicionados em sase-por-que-cisos-trocam-multiplos-fornecedores-por-seguranca-inteligente.html
 ✅ Artigos relacionados adicionados em terra-co2-investimento-de-124m-para-um-futuro-de-cimento-sustentavel.html
 ✅ Artigos relacionados adicionados em modelos-de-ia-abertos-vs-fechados-o-dilema-estrategico-para-empresas.html
 ✅ Artigos relacionados adicionados em paul-pope-e-a-ia-menos-plagio-artistico-mais-medo-de-robos-assassinos.html
 ✅ Artigos relacionados adicionados em a-revolucao-energetica-de-baiju-bhatt-energia-solar-espacial-com-aetherflux-pode-mudar-tudo.html
+✅ Artigos relacionados adicionados em ia-open-weight-o-sinal-da-casa-branca-e-as-novas-fronteiras-de-seguranca-para-empresas.html
 ✅ Artigos relacionados adicionados em openai-libera-sdk-para-agentes-de-ia-a-revolucao-nos-negocios.html
 ✅ Artigos relacionados adicionados em cognition-adquire-windsurf-devin-ganha-reforcos-e-sela-paz-com-anthropic.html
+✅ Artigos relacionados adicionados em ia-anti-woke-de-trump-a-nova-batalha-pela-alma-da-tecnologia.html
 ✅ Artigos relacionados adicionados em talentos-ia-meta-contrata-trio-da-openai-e-aquece-disputa.html
 ✅ Artigos relacionados adicionados em techcrunch-all-stage-2025-ultima-chamada-para-o-evento-que-promete-acelerar-startups-em-boston.html
 ✅ Artigos relacionados adicionados em captacao-de-recursos-em-2025-a-estrategia-mudou-adapte-se-ou-fique-para-tras.html
@@ -665,6 +673,7 @@
 ✅ Artigos relacionados adicionados em tubi-inova-ao-integrar-estrelas-do-youtube-como-mythical-kitchen-em-seu-catalogo-de-streaming.html
 ✅ Artigos relacionados adicionados em multiplier-us275m-para-transformar-contabilidade-com-ia.html
 ✅ Artigos relacionados adicionados em qwen2-o-novo-modelo-de-ia-open-source-do-alibaba-que-supera-rivais.html
+✅ Artigos relacionados adicionados em desafio-k-prize-expoe-a-dura-realidade-da-ia-na-programacao-apenas-75-de-sucesso.html
 ✅ Artigos relacionados adicionados em cultura-openai-a-verdade-chocante-por-tras-do-gigante-da-ia.html
 ✅ Artigos relacionados adicionados em jon-mcneill-no-techcrunch-all-stage-o-manual-do-operador-para-escalar-empresas-sustentaveis.html
 ✅ Artigos relacionados adicionados em delve-como-2-jovens-do-mit-levantaram-us32m-para-revolucionar-a-conformidade-com-ia.html
@@ -723,6 +732,7 @@
 ✅ Artigos relacionados adicionados em x-bloqueia-reuters-na-india-censura-ou-demanda-legal-a-tensao-aumenta.html
 ✅ Artigos relacionados adicionados em decifrando-o-codigo-do-investimento-em-ia-kleida-martiro-guia-startups-no-techcrunch-all-stage.html
 ✅ Artigos relacionados adicionados em companheiros-de-ia-por-que-72-dos-adolescentes-ja-usam.html
+✅ Artigos relacionados adicionados em receita-do-youtube-dispara-quase-us10-bi-e-a-nova-era-da-tv.html
 ✅ Artigos relacionados adicionados em uber-atende-pedido-antigo-funcao-motorista-mulher-chega-aos-eua.html
 ✅ Artigos relacionados adicionados em ia-em-compras-levelpath-capta-us-55-milhoes-para-desafiar-mercado-legado.html
 ✅ Artigos relacionados adicionados em perplexity-comet-o-navegador-com-ia-que-quer-destronar-o-google.html
