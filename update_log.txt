@@ -168,6 +168,8 @@ Breadcrumbs já existem em articles/ia-empresarial-o-desafio-e-escolher-o-llm-ce
 Processado: ia-empresarial-o-desafio-e-escolher-o-llm-certo.html
 Breadcrumbs já existem em articles/airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
 Processado: airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
+Breadcrumbs já existem em articles/nova-arquitetura-de-ia-100x-mais-rapida-que-llms-com-99-menos-dados.html
+Processado: nova-arquitetura-de-ia-100x-mais-rapida-que-llms-com-99-menos-dados.html
 Breadcrumbs já existem em articles/plano-de-ia-de-trump-os-3-pilares-que-vao-redefinir-a-tecnologia.html
 Processado: plano-de-ia-de-trump-os-3-pilares-que-vao-redefinir-a-tecnologia.html
 Breadcrumbs já existem em articles/lucid-nos-superchargers-tesla-fim-da-ansiedade-de-recarga-a-partir-de-31-de-julho.html
@@ -611,6 +613,8 @@ Breadcrumbs já existem em articles/us100-milhoes-para-ia-cofundador-da-databric
 Processado: us100-milhoes-para-ia-cofundador-da-databricks-e-perplexity-lanca-fundo-com-foco-em-pesquisa-de-impacto.html
 Breadcrumbs já existem em articles/notebooklm-sua-pesquisa-com-ia-agora-tem-conteudo-de-the-economist-e-the-atlantic.html
 Processado: notebooklm-sua-pesquisa-com-ia-agora-tem-conteudo-de-the-economist-e-the-atlantic.html
+Breadcrumbs já existem em articles/meta-acelera-na-corrida-pela-superinteligencia-com-ex-arquiteto-do-gpt-4.html
+Processado: meta-acelera-na-corrida-pela-superinteligencia-com-ex-arquiteto-do-gpt-4.html
 Breadcrumbs já existem em articles/Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
 Processado: Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
 Breadcrumbs já existem em articles/vies-de-concordancia-em-ias-por-que-elas-mentem-para-te-agradar.html
@@ -1271,6 +1275,7 @@ Artigos relacionados adicionados com sucesso em articles/bernie-sanders-ia-deve-
 Artigos relacionados adicionados com sucesso em articles/ia-para-transcricao-medica-a-ascensao-da-freed-e-a-batalha-feroz-pela-lideranca.html
 Artigos relacionados adicionados com sucesso em articles/ia-empresarial-o-desafio-e-escolher-o-llm-certo.html
 Artigos relacionados adicionados com sucesso em articles/airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
+Artigos relacionados adicionados com sucesso em articles/nova-arquitetura-de-ia-100x-mais-rapida-que-llms-com-99-menos-dados.html
 Artigos relacionados adicionados com sucesso em articles/plano-de-ia-de-trump-os-3-pilares-que-vao-redefinir-a-tecnologia.html
 Artigos relacionados adicionados com sucesso em articles/lucid-nos-superchargers-tesla-fim-da-ansiedade-de-recarga-a-partir-de-31-de-julho.html
 Artigos relacionados adicionados com sucesso em articles/ia-no-terminal-a-revolucao-silenciosa-que-redefine-a-programacao.html
@@ -1493,6 +1498,7 @@ Artigos relacionados adicionados com sucesso em articles/Google-Scale-AI-Parceri
 Artigos relacionados adicionados com sucesso em articles/google-opal-a-nova-ferramenta-de-ia-que-transforma-ideias-em-apps-sem-codigo.html
 Artigos relacionados adicionados com sucesso em articles/us100-milhoes-para-ia-cofundador-da-databricks-e-perplexity-lanca-fundo-com-foco-em-pesquisa-de-impacto.html
 Artigos relacionados adicionados com sucesso em articles/notebooklm-sua-pesquisa-com-ia-agora-tem-conteudo-de-the-economist-e-the-atlantic.html
+Artigos relacionados adicionados com sucesso em articles/meta-acelera-na-corrida-pela-superinteligencia-com-ex-arquiteto-do-gpt-4.html
 Artigos relacionados adicionados com sucesso em articles/Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
 Artigos relacionados adicionados com sucesso em articles/vies-de-concordancia-em-ias-por-que-elas-mentem-para-te-agradar.html
 Artigos relacionados adicionados com sucesso em articles/a-corrida-da-ia-por-que-a-meta-esta-construindo-data-centers-em-tendas.html
@@ -1780,7 +1786,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 160 artigos à seção de últimas notícias
+Adicionados 162 artigos à seção de últimas notícias
 Adicionadas 49 categorias
-Adicionadas 1129 tags
-Sitemap atualizado com 20692 URLs
+Adicionadas 1132 tags
+Sitemap atualizado com 21287 URLs

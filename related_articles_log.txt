@@ -86,6 +86,7 @@
   ✓ ia-para-transcricao-medica-a-ascensao-da-freed-e-a-batalha-feroz-pela-lideranca.html
   ✓ ia-empresarial-o-desafio-e-escolher-o-llm-certo.html
   ✓ airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
+  ✓ nova-arquitetura-de-ia-100x-mais-rapida-que-llms-com-99-menos-dados.html
   ✓ plano-de-ia-de-trump-os-3-pilares-que-vao-redefinir-a-tecnologia.html
   ✓ lucid-nos-superchargers-tesla-fim-da-ansiedade-de-recarga-a-partir-de-31-de-julho.html
   ✓ ia-no-terminal-a-revolucao-silenciosa-que-redefine-a-programacao.html
@@ -308,6 +309,7 @@
   ✓ google-opal-a-nova-ferramenta-de-ia-que-transforma-ideias-em-apps-sem-codigo.html
   ✓ us100-milhoes-para-ia-cofundador-da-databricks-e-perplexity-lanca-fundo-com-foco-em-pesquisa-de-impacto.html
   ✓ notebooklm-sua-pesquisa-com-ia-agora-tem-conteudo-de-the-economist-e-the-atlantic.html
+  ✓ meta-acelera-na-corrida-pela-superinteligencia-com-ex-arquiteto-do-gpt-4.html
   ✓ Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
   ✓ vies-de-concordancia-em-ias-por-que-elas-mentem-para-te-agradar.html
   ✓ a-corrida-da-ia-por-que-a-meta-esta-construindo-data-centers-em-tendas.html
@@ -596,7 +598,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 592
+📊 Total de artigos processados: 594
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -684,6 +686,7 @@
 ✅ Artigos relacionados adicionados em ia-para-transcricao-medica-a-ascensao-da-freed-e-a-batalha-feroz-pela-lideranca.html
 ✅ Artigos relacionados adicionados em ia-empresarial-o-desafio-e-escolher-o-llm-certo.html
 ✅ Artigos relacionados adicionados em airloom-e-bill-gates-a-revolucao-na-energia-eolica-comeca-no-wyoming.html
+✅ Artigos relacionados adicionados em nova-arquitetura-de-ia-100x-mais-rapida-que-llms-com-99-menos-dados.html
 ✅ Artigos relacionados adicionados em plano-de-ia-de-trump-os-3-pilares-que-vao-redefinir-a-tecnologia.html
 ✅ Artigos relacionados adicionados em lucid-nos-superchargers-tesla-fim-da-ansiedade-de-recarga-a-partir-de-31-de-julho.html
 ✅ Artigos relacionados adicionados em ia-no-terminal-a-revolucao-silenciosa-que-redefine-a-programacao.html
@@ -906,6 +909,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em google-opal-a-nova-ferramenta-de-ia-que-transforma-ideias-em-apps-sem-codigo.html
 ✅ Artigos relacionados adicionados em us100-milhoes-para-ia-cofundador-da-databricks-e-perplexity-lanca-fundo-com-foco-em-pesquisa-de-impacto.html
 ✅ Artigos relacionados adicionados em notebooklm-sua-pesquisa-com-ia-agora-tem-conteudo-de-the-economist-e-the-atlantic.html
+✅ Artigos relacionados adicionados em meta-acelera-na-corrida-pela-superinteligencia-com-ex-arquiteto-do-gpt-4.html
 ✅ Artigos relacionados adicionados em Own-App-Blockchain-e-$OWN-Token-para-Revolucionar-Criadores.html
 ✅ Artigos relacionados adicionados em vies-de-concordancia-em-ias-por-que-elas-mentem-para-te-agradar.html
 ✅ Artigos relacionados adicionados em a-corrida-da-ia-por-que-a-meta-esta-construindo-data-centers-em-tendas.html
