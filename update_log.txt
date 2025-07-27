@@ -14,6 +14,8 @@ Breadcrumbs já existem em articles/investimentos-da-nvidia-em-ia-acelerando-o-f
 Processado: investimentos-da-nvidia-em-ia-acelerando-o-futuro-tecnologico.html
 Breadcrumbs já existem em articles/prontoai-adquire-safeai-nasce-um-gigante-em-veiculos-autonomos-off-road.html
 Processado: prontoai-adquire-safeai-nasce-um-gigante-em-veiculos-autonomos-off-road.html
+Breadcrumbs já existem em articles/astronomer-e-gwyneth-paltrow-a-genial-licao-de-marketing-em-meio-ao-caos-viral.html
+Processado: astronomer-e-gwyneth-paltrow-a-genial-licao-de-marketing-em-meio-ao-caos-viral.html
 Breadcrumbs já existem em articles/o-fim-de-uma-era-youtube-abandona-a-pagina-em-alta-e-transforma-a-descoberta-de-conteudo.html
 Processado: o-fim-de-uma-era-youtube-abandona-a-pagina-em-alta-e-transforma-a-descoberta-de-conteudo.html
 Breadcrumbs já existem em articles/techcrunch-disrupt-2025-builders-stage-guia-da-agenda-para-fundadores-visionarios.html
@@ -874,6 +876,8 @@ Breadcrumbs já existem em articles/aws-sagemaker-a-estrategia-de-infraestrutura
 Processado: aws-sagemaker-a-estrategia-de-infraestrutura-que-desafia-a-corrida-dos-modelos-de-ia.html
 Breadcrumbs já existem em articles/deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
 Processado: deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
+Breadcrumbs já existem em articles/o-impacto-psicologico-da-ia-como-a-tecnologia-silenciosamente-afeta-sua-mente.html
+Processado: o-impacto-psicologico-da-ia-como-a-tecnologia-silenciosamente-afeta-sua-mente.html
 Breadcrumbs já existem em articles/helios-a-ia-que-quer-ser-o-sistema-operacional-das-politicas-publicas.html
 Processado: helios-a-ia-que-quer-ser-o-sistema-operacional-das-politicas-publicas.html
 Breadcrumbs já existem em articles/o-futuro-do-ipo-david-george-a16z-debate-estrategias-no-techcrunch-disrupt.html
@@ -1198,6 +1202,7 @@ Artigos relacionados adicionados com sucesso em articles/workflows-de-ia-multiag
 Artigos relacionados adicionados com sucesso em articles/a-corrida-bilionaria-pela-energia-do-futuro-startups-de-fusao-nuclear-que-captaram-mais-de-us100m.html
 Artigos relacionados adicionados com sucesso em articles/investimentos-da-nvidia-em-ia-acelerando-o-futuro-tecnologico.html
 Artigos relacionados adicionados com sucesso em articles/prontoai-adquire-safeai-nasce-um-gigante-em-veiculos-autonomos-off-road.html
+Artigos relacionados adicionados com sucesso em articles/astronomer-e-gwyneth-paltrow-a-genial-licao-de-marketing-em-meio-ao-caos-viral.html
 Artigos relacionados adicionados com sucesso em articles/o-fim-de-uma-era-youtube-abandona-a-pagina-em-alta-e-transforma-a-descoberta-de-conteudo.html
 Artigos relacionados adicionados com sucesso em articles/techcrunch-disrupt-2025-builders-stage-guia-da-agenda-para-fundadores-visionarios.html
 Artigos relacionados adicionados com sucesso em articles/inferencia-na-borda-a-revolucao-que-supera-o-gargalo-de-armazenamento-da-ia.html
@@ -1629,6 +1634,7 @@ Artigos relacionados adicionados com sucesso em articles/geracao-de-video-por-ia
 Artigos relacionados adicionados com sucesso em articles/gemini-cli-ia-open-source-do-google-chega-ao-terminal-para-revolucionar-o-codigo.html
 Artigos relacionados adicionados com sucesso em articles/aws-sagemaker-a-estrategia-de-infraestrutura-que-desafia-a-corrida-dos-modelos-de-ia.html
 Artigos relacionados adicionados com sucesso em articles/deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
+Artigos relacionados adicionados com sucesso em articles/o-impacto-psicologico-da-ia-como-a-tecnologia-silenciosamente-afeta-sua-mente.html
 Artigos relacionados adicionados com sucesso em articles/helios-a-ia-que-quer-ser-o-sistema-operacional-das-politicas-publicas.html
 Artigos relacionados adicionados com sucesso em articles/o-futuro-do-ipo-david-george-a16z-debate-estrategias-no-techcrunch-disrupt.html
 Artigos relacionados adicionados com sucesso em articles/meta-em-ofensiva-por-talentos-de-ia-de-sutskever-a-daniel-gross.html
@@ -1786,7 +1792,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 162 artigos à seção de últimas notícias
-Adicionadas 49 categorias
-Adicionadas 1132 tags
-Sitemap atualizado com 21287 URLs
+Adicionados 153 artigos à seção de últimas notícias
+Adicionadas 50 categorias
+Adicionadas 1136 tags
+Sitemap atualizado com 21884 URLs

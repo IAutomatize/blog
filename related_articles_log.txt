@@ -9,6 +9,7 @@
   ✓ a-corrida-bilionaria-pela-energia-do-futuro-startups-de-fusao-nuclear-que-captaram-mais-de-us100m.html
   ✓ investimentos-da-nvidia-em-ia-acelerando-o-futuro-tecnologico.html
   ✓ prontoai-adquire-safeai-nasce-um-gigante-em-veiculos-autonomos-off-road.html
+  ✓ astronomer-e-gwyneth-paltrow-a-genial-licao-de-marketing-em-meio-ao-caos-viral.html
   ✓ o-fim-de-uma-era-youtube-abandona-a-pagina-em-alta-e-transforma-a-descoberta-de-conteudo.html
   ✓ techcrunch-disrupt-2025-builders-stage-guia-da-agenda-para-fundadores-visionarios.html
   ✓ inferencia-na-borda-a-revolucao-que-supera-o-gargalo-de-armazenamento-da-ia.html
@@ -440,6 +441,7 @@
   ✓ gemini-cli-ia-open-source-do-google-chega-ao-terminal-para-revolucionar-o-codigo.html
   ✓ aws-sagemaker-a-estrategia-de-infraestrutura-que-desafia-a-corrida-dos-modelos-de-ia.html
   ✓ deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
+  ✓ o-impacto-psicologico-da-ia-como-a-tecnologia-silenciosamente-afeta-sua-mente.html
   ✓ helios-a-ia-que-quer-ser-o-sistema-operacional-das-politicas-publicas.html
   ✓ o-futuro-do-ipo-david-george-a16z-debate-estrategias-no-techcrunch-disrupt.html
   ✓ meta-em-ofensiva-por-talentos-de-ia-de-sutskever-a-daniel-gross.html
@@ -598,7 +600,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 594
+📊 Total de artigos processados: 596
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -609,6 +611,7 @@
 ✅ Artigos relacionados adicionados em a-corrida-bilionaria-pela-energia-do-futuro-startups-de-fusao-nuclear-que-captaram-mais-de-us100m.html
 ✅ Artigos relacionados adicionados em investimentos-da-nvidia-em-ia-acelerando-o-futuro-tecnologico.html
 ✅ Artigos relacionados adicionados em prontoai-adquire-safeai-nasce-um-gigante-em-veiculos-autonomos-off-road.html
+✅ Artigos relacionados adicionados em astronomer-e-gwyneth-paltrow-a-genial-licao-de-marketing-em-meio-ao-caos-viral.html
 ✅ Artigos relacionados adicionados em o-fim-de-uma-era-youtube-abandona-a-pagina-em-alta-e-transforma-a-descoberta-de-conteudo.html
 ✅ Artigos relacionados adicionados em techcrunch-disrupt-2025-builders-stage-guia-da-agenda-para-fundadores-visionarios.html
 ✅ Artigos relacionados adicionados em inferencia-na-borda-a-revolucao-que-supera-o-gargalo-de-armazenamento-da-ia.html
@@ -1040,6 +1043,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em gemini-cli-ia-open-source-do-google-chega-ao-terminal-para-revolucionar-o-codigo.html
 ✅ Artigos relacionados adicionados em aws-sagemaker-a-estrategia-de-infraestrutura-que-desafia-a-corrida-dos-modelos-de-ia.html
 ✅ Artigos relacionados adicionados em deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
+✅ Artigos relacionados adicionados em o-impacto-psicologico-da-ia-como-a-tecnologia-silenciosamente-afeta-sua-mente.html
 ✅ Artigos relacionados adicionados em helios-a-ia-que-quer-ser-o-sistema-operacional-das-politicas-publicas.html
 ✅ Artigos relacionados adicionados em o-futuro-do-ipo-david-george-a16z-debate-estrategias-no-techcrunch-disrupt.html
 ✅ Artigos relacionados adicionados em meta-em-ofensiva-por-talentos-de-ia-de-sutskever-a-daniel-gross.html
