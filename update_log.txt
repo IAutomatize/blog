@@ -922,6 +922,8 @@ Breadcrumbs já existem em articles/also-inc-spinoff-da-rivian-garante-us-200-mi
 Processado: also-inc-spinoff-da-rivian-garante-us-200-milhoes-para-revolucionar-a-micromobilidade.html
 Breadcrumbs já existem em articles/pensar-como-otimizacao-o-novo-paradigma-que-revoluciona-a-ia.html
 Processado: pensar-como-otimizacao-o-novo-paradigma-que-revoluciona-a-ia.html
+Breadcrumbs já existem em articles/ia-do-doge-a-ferramenta-que-promete-cortar-metade-da-burocracia-federal.html
+Processado: ia-do-doge-a-ferramenta-que-promete-cortar-metade-da-burocracia-federal.html
 Breadcrumbs já existem em articles/mistral-voxtral-a-revolucao-open-source-na-ia-de-audio-chegou.html
 Processado: mistral-voxtral-a-revolucao-open-source-na-ia-de-audio-chegou.html
 Breadcrumbs já existem em articles/ia-para-advogados-legalon-capta-us50m-para-revolucionar-contratos.html
@@ -1084,6 +1086,8 @@ Breadcrumbs já existem em articles/meta-ataca-openai-e-contrata-pesquisador-cha
 Processado: meta-ataca-openai-e-contrata-pesquisador-chave-para-vencer-a-guerra-da-superinteligencia-artificial.html
 Breadcrumbs já existem em articles/blaxel-a-aws-para-agentes-de-ia-que-levantou-us73m-para-revolucionar-o-setor.html
 Processado: blaxel-a-aws-para-agentes-de-ia-que-levantou-us73m-para-revolucionar-o-setor.html
+Breadcrumbs já existem em articles/o-magico-de-oz-na-sphere-como-a-ia-esta-reinventando-um-classico-para-uma-nova-geracao.html
+Processado: o-magico-de-oz-na-sphere-como-a-ia-esta-reinventando-um-classico-para-uma-nova-geracao.html
 Breadcrumbs já existem em articles/de-cetico-a-heroi-como-um-ciso-protegeu-us-88-trilhoes-da-ameaca-invisivel-da-shadow-ai.html
 Processado: de-cetico-a-heroi-como-um-ciso-protegeu-us-88-trilhoes-da-ameaca-invisivel-da-shadow-ai.html
 Breadcrumbs já existem em articles/cosyn-a-ia-de-visao-open-source-que-desafia-o-gpt-4v.html
@@ -1156,6 +1160,8 @@ Breadcrumbs já existem em articles/Alta-Arrecada-US$11-Milhões-A-Inteligência
 Processado: Alta-Arrecada-US$11-Milhões-A-Inteligência-Artificial-que-Dá-Vida-ao-Closet-de-'Clueless'.html
 Breadcrumbs já existem em articles/grok-da-xai-pode-editar-suas-planilhas-revolucao-ia-a-vista.html
 Processado: grok-da-xai-pode-editar-suas-planilhas-revolucao-ia-a-vista.html
+Breadcrumbs já existem em articles/a-migracao-para-a-ia-por-que-o-progresso-assusta-e-a-resistencia-cresce.html
+Processado: a-migracao-para-a-ia-por-que-o-progresso-assusta-e-a-resistencia-cresce.html
 Breadcrumbs já existem em articles/Mastodon-Veta-IA-Seus-Dados-Mais-Seguros-no-Fediverso.html
 Processado: Mastodon-Veta-IA-Seus-Dados-Mais-Seguros-no-Fediverso.html
 Breadcrumbs já existem em articles/cluely-a-startup-que-dobrou-sua-receita-para-us-7-milhoes-em-uma-semana-enfrenta-a-concorrencia.html
@@ -1657,6 +1663,7 @@ Artigos relacionados adicionados com sucesso em articles/spacex-e-xai-o-investim
 Artigos relacionados adicionados com sucesso em articles/Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
 Artigos relacionados adicionados com sucesso em articles/also-inc-spinoff-da-rivian-garante-us-200-milhoes-para-revolucionar-a-micromobilidade.html
 Artigos relacionados adicionados com sucesso em articles/pensar-como-otimizacao-o-novo-paradigma-que-revoluciona-a-ia.html
+Artigos relacionados adicionados com sucesso em articles/ia-do-doge-a-ferramenta-que-promete-cortar-metade-da-burocracia-federal.html
 Artigos relacionados adicionados com sucesso em articles/mistral-voxtral-a-revolucao-open-source-na-ia-de-audio-chegou.html
 Artigos relacionados adicionados com sucesso em articles/ia-para-advogados-legalon-capta-us50m-para-revolucionar-contratos.html
 Artigos relacionados adicionados com sucesso em articles/amazon-atinge-1-milhao-de-robos-e-lanca-ia-generativa-deepfleet.html
@@ -1738,6 +1745,7 @@ Artigos relacionados adicionados com sucesso em articles/elevenlabs-leva-ia-de-v
 Artigos relacionados adicionados com sucesso em articles/kumo-e-seu-modelo-de-fundacao-relacional-a-ia-que-preve-o-futuro-que-seu-llm-nao-ve.html
 Artigos relacionados adicionados com sucesso em articles/meta-ataca-openai-e-contrata-pesquisador-chave-para-vencer-a-guerra-da-superinteligencia-artificial.html
 Artigos relacionados adicionados com sucesso em articles/blaxel-a-aws-para-agentes-de-ia-que-levantou-us73m-para-revolucionar-o-setor.html
+Artigos relacionados adicionados com sucesso em articles/o-magico-de-oz-na-sphere-como-a-ia-esta-reinventando-um-classico-para-uma-nova-geracao.html
 Artigos relacionados adicionados com sucesso em articles/de-cetico-a-heroi-como-um-ciso-protegeu-us-88-trilhoes-da-ameaca-invisivel-da-shadow-ai.html
 Artigos relacionados adicionados com sucesso em articles/cosyn-a-ia-de-visao-open-source-que-desafia-o-gpt-4v.html
 Artigos relacionados adicionados com sucesso em articles/captacao-seed-dicas-praticas-de-investidores-do-techcrunch-disrupt-2025.html
@@ -1774,6 +1782,7 @@ Artigos relacionados adicionados com sucesso em articles/da-lyft-a-revolucao-da-
 Artigos relacionados adicionados com sucesso em articles/do-piloto-ao-lucro-o-guia-definitivo-para-uma-ia-escalavel-com-roi-positivo.html
 Artigos relacionados adicionados com sucesso em articles/Alta-Arrecada-US$11-Milhões-A-Inteligência-Artificial-que-Dá-Vida-ao-Closet-de-'Clueless'.html
 Artigos relacionados adicionados com sucesso em articles/grok-da-xai-pode-editar-suas-planilhas-revolucao-ia-a-vista.html
+Artigos relacionados adicionados com sucesso em articles/a-migracao-para-a-ia-por-que-o-progresso-assusta-e-a-resistencia-cresce.html
 Artigos relacionados adicionados com sucesso em articles/Mastodon-Veta-IA-Seus-Dados-Mais-Seguros-no-Fediverso.html
 Artigos relacionados adicionados com sucesso em articles/cluely-a-startup-que-dobrou-sua-receita-para-us-7-milhoes-em-uma-semana-enfrenta-a-concorrencia.html
 Artigos relacionados adicionados com sucesso em articles/zhipuai-glm-4-open-source-acelera-ia-global-pre-ipo.html
@@ -1792,7 +1801,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 153 artigos à seção de últimas notícias
+Adicionados 149 artigos à seção de últimas notícias
 Adicionadas 50 categorias
-Adicionadas 1136 tags
-Sitemap atualizado com 22481 URLs
+Adicionadas 1141 tags
+Sitemap atualizado com 23081 URLs

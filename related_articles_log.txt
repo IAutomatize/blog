@@ -464,6 +464,7 @@
   ✓ Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
   ✓ also-inc-spinoff-da-rivian-garante-us-200-milhoes-para-revolucionar-a-micromobilidade.html
   ✓ pensar-como-otimizacao-o-novo-paradigma-que-revoluciona-a-ia.html
+  ✓ ia-do-doge-a-ferramenta-que-promete-cortar-metade-da-burocracia-federal.html
   ✓ mistral-voxtral-a-revolucao-open-source-na-ia-de-audio-chegou.html
   ✓ ia-para-advogados-legalon-capta-us50m-para-revolucionar-contratos.html
   ✓ amazon-atinge-1-milhao-de-robos-e-lanca-ia-generativa-deepfleet.html
@@ -545,6 +546,7 @@
   ✓ kumo-e-seu-modelo-de-fundacao-relacional-a-ia-que-preve-o-futuro-que-seu-llm-nao-ve.html
   ✓ meta-ataca-openai-e-contrata-pesquisador-chave-para-vencer-a-guerra-da-superinteligencia-artificial.html
   ✓ blaxel-a-aws-para-agentes-de-ia-que-levantou-us73m-para-revolucionar-o-setor.html
+  ✓ o-magico-de-oz-na-sphere-como-a-ia-esta-reinventando-um-classico-para-uma-nova-geracao.html
   ✓ de-cetico-a-heroi-como-um-ciso-protegeu-us-88-trilhoes-da-ameaca-invisivel-da-shadow-ai.html
   ✓ cosyn-a-ia-de-visao-open-source-que-desafia-o-gpt-4v.html
   ✓ captacao-seed-dicas-praticas-de-investidores-do-techcrunch-disrupt-2025.html
@@ -581,6 +583,7 @@
   ✓ do-piloto-ao-lucro-o-guia-definitivo-para-uma-ia-escalavel-com-roi-positivo.html
   ✓ Alta-Arrecada-US$11-Milhões-A-Inteligência-Artificial-que-Dá-Vida-ao-Closet-de-'Clueless'.html
   ✓ grok-da-xai-pode-editar-suas-planilhas-revolucao-ia-a-vista.html
+  ✓ a-migracao-para-a-ia-por-que-o-progresso-assusta-e-a-resistencia-cresce.html
   ✓ Mastodon-Veta-IA-Seus-Dados-Mais-Seguros-no-Fediverso.html
   ✓ cluely-a-startup-que-dobrou-sua-receita-para-us-7-milhoes-em-uma-semana-enfrenta-a-concorrencia.html
   ✓ zhipuai-glm-4-open-source-acelera-ia-global-pre-ipo.html
@@ -600,7 +603,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 596
+📊 Total de artigos processados: 599
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -1066,6 +1069,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
 ✅ Artigos relacionados adicionados em also-inc-spinoff-da-rivian-garante-us-200-milhoes-para-revolucionar-a-micromobilidade.html
 ✅ Artigos relacionados adicionados em pensar-como-otimizacao-o-novo-paradigma-que-revoluciona-a-ia.html
+✅ Artigos relacionados adicionados em ia-do-doge-a-ferramenta-que-promete-cortar-metade-da-burocracia-federal.html
 ✅ Artigos relacionados adicionados em mistral-voxtral-a-revolucao-open-source-na-ia-de-audio-chegou.html
 ✅ Artigos relacionados adicionados em ia-para-advogados-legalon-capta-us50m-para-revolucionar-contratos.html
 ✅ Artigos relacionados adicionados em amazon-atinge-1-milhao-de-robos-e-lanca-ia-generativa-deepfleet.html
@@ -1147,6 +1151,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em kumo-e-seu-modelo-de-fundacao-relacional-a-ia-que-preve-o-futuro-que-seu-llm-nao-ve.html
 ✅ Artigos relacionados adicionados em meta-ataca-openai-e-contrata-pesquisador-chave-para-vencer-a-guerra-da-superinteligencia-artificial.html
 ✅ Artigos relacionados adicionados em blaxel-a-aws-para-agentes-de-ia-que-levantou-us73m-para-revolucionar-o-setor.html
+✅ Artigos relacionados adicionados em o-magico-de-oz-na-sphere-como-a-ia-esta-reinventando-um-classico-para-uma-nova-geracao.html
 ✅ Artigos relacionados adicionados em de-cetico-a-heroi-como-um-ciso-protegeu-us-88-trilhoes-da-ameaca-invisivel-da-shadow-ai.html
 ✅ Artigos relacionados adicionados em cosyn-a-ia-de-visao-open-source-que-desafia-o-gpt-4v.html
 ✅ Artigos relacionados adicionados em captacao-seed-dicas-praticas-de-investidores-do-techcrunch-disrupt-2025.html
@@ -1183,6 +1188,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em do-piloto-ao-lucro-o-guia-definitivo-para-uma-ia-escalavel-com-roi-positivo.html
 ✅ Artigos relacionados adicionados em Alta-Arrecada-US$11-Milhões-A-Inteligência-Artificial-que-Dá-Vida-ao-Closet-de-'Clueless'.html
 ✅ Artigos relacionados adicionados em grok-da-xai-pode-editar-suas-planilhas-revolucao-ia-a-vista.html
+✅ Artigos relacionados adicionados em a-migracao-para-a-ia-por-que-o-progresso-assusta-e-a-resistencia-cresce.html
 ✅ Artigos relacionados adicionados em Mastodon-Veta-IA-Seus-Dados-Mais-Seguros-no-Fediverso.html
 ✅ Artigos relacionados adicionados em cluely-a-startup-que-dobrou-sua-receita-para-us-7-milhoes-em-uma-semana-enfrenta-a-concorrencia.html
 ✅ Artigos relacionados adicionados em zhipuai-glm-4-open-source-acelera-ia-global-pre-ipo.html
