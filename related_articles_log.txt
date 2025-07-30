@@ -356,6 +356,7 @@
   ✓ softbank-ia-projeto-trilionario-crystal-land-em-foco.html
   ✓ ia-como-companhia-a-surpreendente-verdade-sobre-nossas-conversas-com-chatbots.html
   ✓ qedma-e-ibm-a-revolucao-de-software-que-pode-destravar-a-computacao-quantica.html
+  ✓ ia-vs-ia-a-prophet-security-e-o-futuro-da-ciberseguranca-autonoma.html
   ✓ mcpeval-a-revolucao-open-source-na-avaliacao-de-agentes-de-ia.html
   ✓ ia-e-defesa-a-nova-fronteira-da-seguranca-no-techcrunch-disrupt-2025.html
   ✓ agentes-de-ia-e-apis-a-revolucao-silenciosa-que-atlassian-intuit-e-aws-estao-liderando.html
@@ -391,6 +392,7 @@
   ✓ ferramentas-de-ia-atrasam-desenvolvedores-estudo-chocante-questiona-a-produtividade.html
   ✓ ecossistemas-de-ia-por-que-a-observabilidade-e-a-chave-para-o-futuro-autonomo.html
   ✓ harvey-ai-atinge-us5b-crescimento-explosivo-na-ia-juridica.html
+  ✓ acree-afm-45b-a-resposta-segura-e-customizavel-para-empresas-que-desconfiam-da-ia-generalista.html
   ✓ novo-fundo-de-34m-para-startups-yc-o-ecossistema-se-fortalece-com-apoio-de-garry-tan.html
   ✓ ia-generativa-no-e-commerce-o-salto-de-3300-que-redefiniu-o-prime-day.html
   ✓ synthflow-ai-decifrando-o-codigo-da-voz-em-um-mercado-de-ia-em-ebulicao.html
@@ -537,6 +539,7 @@
   ✓ uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
   ✓ busca-com-ia-startup-de-fundadora-marroquina-levanta-us42m-para-revolucionar-a-precisao-dos-llms.html
   ✓ navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
+  ✓ groq-dispara-para-us6-bilhoes-a-nova-ameaca-ao-reinado-da-nvidia.html
   ✓ sam-altman-contra-ataca-o-new-york-times-a-ia-em-ponto-de-ebulicao.html
   ✓ robo-optimus-da-tesla-promessa-ameacada-por-atraso-na-producao.html
   ✓ rubrik-adquire-predibase-ia-segura-e-customizada-em-foco.html
@@ -643,7 +646,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 639
+📊 Total de artigos processados: 642
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -1001,6 +1004,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em softbank-ia-projeto-trilionario-crystal-land-em-foco.html
 ✅ Artigos relacionados adicionados em ia-como-companhia-a-surpreendente-verdade-sobre-nossas-conversas-com-chatbots.html
 ✅ Artigos relacionados adicionados em qedma-e-ibm-a-revolucao-de-software-que-pode-destravar-a-computacao-quantica.html
+✅ Artigos relacionados adicionados em ia-vs-ia-a-prophet-security-e-o-futuro-da-ciberseguranca-autonoma.html
 ✅ Artigos relacionados adicionados em mcpeval-a-revolucao-open-source-na-avaliacao-de-agentes-de-ia.html
 ✅ Artigos relacionados adicionados em ia-e-defesa-a-nova-fronteira-da-seguranca-no-techcrunch-disrupt-2025.html
 ✅ Artigos relacionados adicionados em agentes-de-ia-e-apis-a-revolucao-silenciosa-que-atlassian-intuit-e-aws-estao-liderando.html
@@ -1036,6 +1040,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em ferramentas-de-ia-atrasam-desenvolvedores-estudo-chocante-questiona-a-produtividade.html
 ✅ Artigos relacionados adicionados em ecossistemas-de-ia-por-que-a-observabilidade-e-a-chave-para-o-futuro-autonomo.html
 ✅ Artigos relacionados adicionados em harvey-ai-atinge-us5b-crescimento-explosivo-na-ia-juridica.html
+✅ Artigos relacionados adicionados em acree-afm-45b-a-resposta-segura-e-customizavel-para-empresas-que-desconfiam-da-ia-generalista.html
 ✅ Artigos relacionados adicionados em novo-fundo-de-34m-para-startups-yc-o-ecossistema-se-fortalece-com-apoio-de-garry-tan.html
 ✅ Artigos relacionados adicionados em ia-generativa-no-e-commerce-o-salto-de-3300-que-redefiniu-o-prime-day.html
 ✅ Artigos relacionados adicionados em synthflow-ai-decifrando-o-codigo-da-voz-em-um-mercado-de-ia-em-ebulicao.html
@@ -1182,6 +1187,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 ✅ Artigos relacionados adicionados em busca-com-ia-startup-de-fundadora-marroquina-levanta-us42m-para-revolucionar-a-precisao-dos-llms.html
 ✅ Artigos relacionados adicionados em navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
+✅ Artigos relacionados adicionados em groq-dispara-para-us6-bilhoes-a-nova-ameaca-ao-reinado-da-nvidia.html
 ✅ Artigos relacionados adicionados em sam-altman-contra-ataca-o-new-york-times-a-ia-em-ponto-de-ebulicao.html
 ✅ Artigos relacionados adicionados em robo-optimus-da-tesla-promessa-ameacada-por-atraso-na-producao.html
 ✅ Artigos relacionados adicionados em rubrik-adquire-predibase-ia-segura-e-customizada-em-foco.html

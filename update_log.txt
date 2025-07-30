@@ -707,6 +707,8 @@ Breadcrumbs já existem em articles/ia-como-companhia-a-surpreendente-verdade-so
 Processado: ia-como-companhia-a-surpreendente-verdade-sobre-nossas-conversas-com-chatbots.html
 Breadcrumbs já existem em articles/qedma-e-ibm-a-revolucao-de-software-que-pode-destravar-a-computacao-quantica.html
 Processado: qedma-e-ibm-a-revolucao-de-software-que-pode-destravar-a-computacao-quantica.html
+Breadcrumbs já existem em articles/ia-vs-ia-a-prophet-security-e-o-futuro-da-ciberseguranca-autonoma.html
+Processado: ia-vs-ia-a-prophet-security-e-o-futuro-da-ciberseguranca-autonoma.html
 Breadcrumbs já existem em articles/mcpeval-a-revolucao-open-source-na-avaliacao-de-agentes-de-ia.html
 Processado: mcpeval-a-revolucao-open-source-na-avaliacao-de-agentes-de-ia.html
 Breadcrumbs já existem em articles/ia-e-defesa-a-nova-fronteira-da-seguranca-no-techcrunch-disrupt-2025.html
@@ -777,6 +779,8 @@ Breadcrumbs já existem em articles/ecossistemas-de-ia-por-que-a-observabilidade
 Processado: ecossistemas-de-ia-por-que-a-observabilidade-e-a-chave-para-o-futuro-autonomo.html
 Breadcrumbs já existem em articles/harvey-ai-atinge-us5b-crescimento-explosivo-na-ia-juridica.html
 Processado: harvey-ai-atinge-us5b-crescimento-explosivo-na-ia-juridica.html
+Breadcrumbs já existem em articles/acree-afm-45b-a-resposta-segura-e-customizavel-para-empresas-que-desconfiam-da-ia-generalista.html
+Processado: acree-afm-45b-a-resposta-segura-e-customizavel-para-empresas-que-desconfiam-da-ia-generalista.html
 Breadcrumbs já existem em articles/novo-fundo-de-34m-para-startups-yc-o-ecossistema-se-fortalece-com-apoio-de-garry-tan.html
 Processado: novo-fundo-de-34m-para-startups-yc-o-ecossistema-se-fortalece-com-apoio-de-garry-tan.html
 Breadcrumbs já existem em articles/ia-generativa-no-e-commerce-o-salto-de-3300-que-redefiniu-o-prime-day.html
@@ -1068,6 +1072,8 @@ Breadcrumbs já existem em articles/busca-com-ia-startup-de-fundadora-marroquina
 Processado: busca-com-ia-startup-de-fundadora-marroquina-levanta-us42m-para-revolucionar-a-precisao-dos-llms.html
 Breadcrumbs já existem em articles/navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
 Processado: navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
+Breadcrumbs já existem em articles/groq-dispara-para-us6-bilhoes-a-nova-ameaca-ao-reinado-da-nvidia.html
+Processado: groq-dispara-para-us6-bilhoes-a-nova-ameaca-ao-reinado-da-nvidia.html
 Breadcrumbs já existem em articles/sam-altman-contra-ataca-o-new-york-times-a-ia-em-ponto-de-ebulicao.html
 Processado: sam-altman-contra-ataca-o-new-york-times-a-ia-em-ponto-de-ebulicao.html
 Breadcrumbs já existem em articles/robo-optimus-da-tesla-promessa-ameacada-por-atraso-na-producao.html
@@ -1635,6 +1641,7 @@ Artigos relacionados adicionados com sucesso em articles/google-veo-3-a-ia-de-vi
 Artigos relacionados adicionados com sucesso em articles/softbank-ia-projeto-trilionario-crystal-land-em-foco.html
 Artigos relacionados adicionados com sucesso em articles/ia-como-companhia-a-surpreendente-verdade-sobre-nossas-conversas-com-chatbots.html
 Artigos relacionados adicionados com sucesso em articles/qedma-e-ibm-a-revolucao-de-software-que-pode-destravar-a-computacao-quantica.html
+Artigos relacionados adicionados com sucesso em articles/ia-vs-ia-a-prophet-security-e-o-futuro-da-ciberseguranca-autonoma.html
 Artigos relacionados adicionados com sucesso em articles/mcpeval-a-revolucao-open-source-na-avaliacao-de-agentes-de-ia.html
 Artigos relacionados adicionados com sucesso em articles/ia-e-defesa-a-nova-fronteira-da-seguranca-no-techcrunch-disrupt-2025.html
 Artigos relacionados adicionados com sucesso em articles/agentes-de-ia-e-apis-a-revolucao-silenciosa-que-atlassian-intuit-e-aws-estao-liderando.html
@@ -1670,6 +1677,7 @@ Artigos relacionados adicionados com sucesso em articles/ia-grok-e-o-antissemiti
 Artigos relacionados adicionados com sucesso em articles/ferramentas-de-ia-atrasam-desenvolvedores-estudo-chocante-questiona-a-produtividade.html
 Artigos relacionados adicionados com sucesso em articles/ecossistemas-de-ia-por-que-a-observabilidade-e-a-chave-para-o-futuro-autonomo.html
 Artigos relacionados adicionados com sucesso em articles/harvey-ai-atinge-us5b-crescimento-explosivo-na-ia-juridica.html
+Artigos relacionados adicionados com sucesso em articles/acree-afm-45b-a-resposta-segura-e-customizavel-para-empresas-que-desconfiam-da-ia-generalista.html
 Artigos relacionados adicionados com sucesso em articles/novo-fundo-de-34m-para-startups-yc-o-ecossistema-se-fortalece-com-apoio-de-garry-tan.html
 Artigos relacionados adicionados com sucesso em articles/ia-generativa-no-e-commerce-o-salto-de-3300-que-redefiniu-o-prime-day.html
 Artigos relacionados adicionados com sucesso em articles/synthflow-ai-decifrando-o-codigo-da-voz-em-um-mercado-de-ia-em-ebulicao.html
@@ -1816,6 +1824,7 @@ Artigos relacionados adicionados com sucesso em articles/companheiros-de-ia-do-g
 Artigos relacionados adicionados com sucesso em articles/uma-ia-pode-gerenciar-uma-loja-o-hilario-e-caotico-experimento-com-claude.html
 Artigos relacionados adicionados com sucesso em articles/busca-com-ia-startup-de-fundadora-marroquina-levanta-us42m-para-revolucionar-a-precisao-dos-llms.html
 Artigos relacionados adicionados com sucesso em articles/navegacao-autonoma-de-robos-bytedance-astra-inova-com-ia-dual-model.html
+Artigos relacionados adicionados com sucesso em articles/groq-dispara-para-us6-bilhoes-a-nova-ameaca-ao-reinado-da-nvidia.html
 Artigos relacionados adicionados com sucesso em articles/sam-altman-contra-ataca-o-new-york-times-a-ia-em-ponto-de-ebulicao.html
 Artigos relacionados adicionados com sucesso em articles/robo-optimus-da-tesla-promessa-ameacada-por-atraso-na-producao.html
 Artigos relacionados adicionados com sucesso em articles/rubrik-adquire-predibase-ia-segura-e-customizada-em-foco.html
@@ -1921,7 +1930,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 185 artigos à seção de últimas notícias
+Adicionados 188 artigos à seção de últimas notícias
 Adicionadas 52 categorias
-Adicionadas 1195 tags
-Sitemap atualizado com 24936 URLs
+Adicionadas 1199 tags
+Sitemap atualizado com 25579 URLs
