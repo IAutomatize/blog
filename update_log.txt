@@ -246,6 +246,8 @@ Breadcrumbs já existem em articles/multiplier-us275m-para-transformar-contabili
 Processado: multiplier-us275m-para-transformar-contabilidade-com-ia.html
 Breadcrumbs já existem em articles/qwen2-o-novo-modelo-de-ia-open-source-do-alibaba-que-supera-rivais.html
 Processado: qwen2-o-novo-modelo-de-ia-open-source-do-alibaba-que-supera-rivais.html
+Breadcrumbs já existem em articles/ipo-da-ambiq-sucesso-revela-apetite-do-mercado-por-ia-eficiente.html
+Processado: ipo-da-ambiq-sucesso-revela-apetite-do-mercado-por-ia-eficiente.html
 Breadcrumbs já existem em articles/desafio-k-prize-expoe-a-dura-realidade-da-ia-na-programacao-apenas-75-de-sucesso.html
 Processado: desafio-k-prize-expoe-a-dura-realidade-da-ia-na-programacao-apenas-75-de-sucesso.html
 Breadcrumbs já existem em articles/calo-levanta-us39-milhoes-e-prepara-invasao-no-mercado-britanico-de-foodtech.html
@@ -1086,6 +1088,8 @@ Breadcrumbs já existem em articles/cc-signals-creative-commons-define-futuro-do
 Processado: cc-signals-creative-commons-define-futuro-dos-dados-para-ia.html
 Breadcrumbs já existem em articles/qedma-e-ibm-a-parceria-de-us26-milhoes-que-pode-corrigir-a-computacao-quantica.html
 Processado: qedma-e-ibm-a-parceria-de-us26-milhoes-que-pode-corrigir-a-computacao-quantica.html
+Breadcrumbs já existem em articles/align-evals-da-langchain-a-solucao-para-a-crise-de-confianca-na-avaliacao-de-llms.html
+Processado: align-evals-da-langchain-a-solucao-para-a-crise-de-confianca-na-avaliacao-de-llms.html
 Breadcrumbs já existem em articles/twitch-com-videos-verticais-a-revolucao-contra-o-tiktok-comecou.html
 Processado: twitch-com-videos-verticais-a-revolucao-contra-o-tiktok-comecou.html
 Breadcrumbs já existem em articles/nightfall-nyx-a-ia-que-automatiza-e-redefine-a-prevencao-de-perda-de-dados.html
@@ -1122,6 +1126,8 @@ Breadcrumbs já existem em articles/robo-optimus-da-tesla-promessa-ameacada-por-
 Processado: robo-optimus-da-tesla-promessa-ameacada-por-atraso-na-producao.html
 Breadcrumbs já existem em articles/rubrik-adquire-predibase-ia-segura-e-customizada-em-foco.html
 Processado: rubrik-adquire-predibase-ia-segura-e-customizada-em-foco.html
+Breadcrumbs já existem em articles/github-copilot-20-milhoes-de-usuarios-e-a-guerra-pela-ia-na-programacao.html
+Processado: github-copilot-20-milhoes-de-usuarios-e-a-guerra-pela-ia-na-programacao.html
 Breadcrumbs já existem em articles/google-web-guide-a-ia-que-organiza-a-busca-e-promete-mudar-tudo.html
 Processado: google-web-guide-a-ia-que-organiza-a-busca-e-promete-mudar-tudo.html
 Breadcrumbs já existem em articles/robotaxi-da-tesla-no-arizona-a-batalha-contra-a-waymo-comecou.html
@@ -1458,6 +1464,7 @@ Artigos relacionados adicionados com sucesso em articles/ultima-chamada-para-o-t
 Artigos relacionados adicionados com sucesso em articles/tubi-inova-ao-integrar-estrelas-do-youtube-como-mythical-kitchen-em-seu-catalogo-de-streaming.html
 Artigos relacionados adicionados com sucesso em articles/multiplier-us275m-para-transformar-contabilidade-com-ia.html
 Artigos relacionados adicionados com sucesso em articles/qwen2-o-novo-modelo-de-ia-open-source-do-alibaba-que-supera-rivais.html
+Artigos relacionados adicionados com sucesso em articles/ipo-da-ambiq-sucesso-revela-apetite-do-mercado-por-ia-eficiente.html
 Artigos relacionados adicionados com sucesso em articles/desafio-k-prize-expoe-a-dura-realidade-da-ia-na-programacao-apenas-75-de-sucesso.html
 Artigos relacionados adicionados com sucesso em articles/calo-levanta-us39-milhoes-e-prepara-invasao-no-mercado-britanico-de-foodtech.html
 Artigos relacionados adicionados com sucesso em articles/cultura-openai-a-verdade-chocante-por-tras-do-gigante-da-ia.html
@@ -1879,6 +1886,7 @@ Artigos relacionados adicionados com sucesso em articles/meta-desafia-ue-e-recus
 Artigos relacionados adicionados com sucesso em articles/provador-virtual-com-ia-do-google-a-revolucao-nas-compras-de-moda-online.html
 Artigos relacionados adicionados com sucesso em articles/cc-signals-creative-commons-define-futuro-dos-dados-para-ia.html
 Artigos relacionados adicionados com sucesso em articles/qedma-e-ibm-a-parceria-de-us26-milhoes-que-pode-corrigir-a-computacao-quantica.html
+Artigos relacionados adicionados com sucesso em articles/align-evals-da-langchain-a-solucao-para-a-crise-de-confianca-na-avaliacao-de-llms.html
 Artigos relacionados adicionados com sucesso em articles/twitch-com-videos-verticais-a-revolucao-contra-o-tiktok-comecou.html
 Artigos relacionados adicionados com sucesso em articles/nightfall-nyx-a-ia-que-automatiza-e-redefine-a-prevencao-de-perda-de-dados.html
 Artigos relacionados adicionados com sucesso em articles/techcrunch-all-stage-economize-210-no-ingresso---ultimos-dias.html
@@ -1897,6 +1905,7 @@ Artigos relacionados adicionados com sucesso em articles/groq-dispara-para-us6-b
 Artigos relacionados adicionados com sucesso em articles/sam-altman-contra-ataca-o-new-york-times-a-ia-em-ponto-de-ebulicao.html
 Artigos relacionados adicionados com sucesso em articles/robo-optimus-da-tesla-promessa-ameacada-por-atraso-na-producao.html
 Artigos relacionados adicionados com sucesso em articles/rubrik-adquire-predibase-ia-segura-e-customizada-em-foco.html
+Artigos relacionados adicionados com sucesso em articles/github-copilot-20-milhoes-de-usuarios-e-a-guerra-pela-ia-na-programacao.html
 Artigos relacionados adicionados com sucesso em articles/google-web-guide-a-ia-que-organiza-a-busca-e-promete-mudar-tudo.html
 Artigos relacionados adicionados com sucesso em articles/robotaxi-da-tesla-no-arizona-a-batalha-contra-a-waymo-comecou.html
 Artigos relacionados adicionados com sucesso em articles/mistral-le-chat-a-ia-que-ameaca-o-dominio-da-openai-no-mundo-corporativo.html
@@ -2002,7 +2011,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 198 artigos à seção de últimas notícias
+Adicionados 201 artigos à seção de últimas notícias
 Adicionadas 55 categorias
-Adicionadas 1223 tags
-Sitemap atualizado com 26246 URLs
+Adicionadas 1227 tags
+Sitemap atualizado com 26916 URLs

@@ -125,6 +125,7 @@
   ✓ tubi-inova-ao-integrar-estrelas-do-youtube-como-mythical-kitchen-em-seu-catalogo-de-streaming.html
   ✓ multiplier-us275m-para-transformar-contabilidade-com-ia.html
   ✓ qwen2-o-novo-modelo-de-ia-open-source-do-alibaba-que-supera-rivais.html
+  ✓ ipo-da-ambiq-sucesso-revela-apetite-do-mercado-por-ia-eficiente.html
   ✓ desafio-k-prize-expoe-a-dura-realidade-da-ia-na-programacao-apenas-75-de-sucesso.html
   ✓ calo-levanta-us39-milhoes-e-prepara-invasao-no-mercado-britanico-de-foodtech.html
   ✓ cultura-openai-a-verdade-chocante-por-tras-do-gigante-da-ia.html
@@ -546,6 +547,7 @@
   ✓ provador-virtual-com-ia-do-google-a-revolucao-nas-compras-de-moda-online.html
   ✓ cc-signals-creative-commons-define-futuro-dos-dados-para-ia.html
   ✓ qedma-e-ibm-a-parceria-de-us26-milhoes-que-pode-corrigir-a-computacao-quantica.html
+  ✓ align-evals-da-langchain-a-solucao-para-a-crise-de-confianca-na-avaliacao-de-llms.html
   ✓ twitch-com-videos-verticais-a-revolucao-contra-o-tiktok-comecou.html
   ✓ nightfall-nyx-a-ia-que-automatiza-e-redefine-a-prevencao-de-perda-de-dados.html
   ✓ techcrunch-all-stage-economize-210-no-ingresso---ultimos-dias.html
@@ -564,6 +566,7 @@
   ✓ sam-altman-contra-ataca-o-new-york-times-a-ia-em-ponto-de-ebulicao.html
   ✓ robo-optimus-da-tesla-promessa-ameacada-por-atraso-na-producao.html
   ✓ rubrik-adquire-predibase-ia-segura-e-customizada-em-foco.html
+  ✓ github-copilot-20-milhoes-de-usuarios-e-a-guerra-pela-ia-na-programacao.html
   ✓ google-web-guide-a-ia-que-organiza-a-busca-e-promete-mudar-tudo.html
   ✓ robotaxi-da-tesla-no-arizona-a-batalha-contra-a-waymo-comecou.html
   ✓ mistral-le-chat-a-ia-que-ameaca-o-dominio-da-openai-no-mundo-corporativo.html
@@ -670,7 +673,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 666
+📊 Total de artigos processados: 669
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -797,6 +800,7 @@
 ✅ Artigos relacionados adicionados em tubi-inova-ao-integrar-estrelas-do-youtube-como-mythical-kitchen-em-seu-catalogo-de-streaming.html
 ✅ Artigos relacionados adicionados em multiplier-us275m-para-transformar-contabilidade-com-ia.html
 ✅ Artigos relacionados adicionados em qwen2-o-novo-modelo-de-ia-open-source-do-alibaba-que-supera-rivais.html
+✅ Artigos relacionados adicionados em ipo-da-ambiq-sucesso-revela-apetite-do-mercado-por-ia-eficiente.html
 ✅ Artigos relacionados adicionados em desafio-k-prize-expoe-a-dura-realidade-da-ia-na-programacao-apenas-75-de-sucesso.html
 ✅ Artigos relacionados adicionados em calo-levanta-us39-milhoes-e-prepara-invasao-no-mercado-britanico-de-foodtech.html
 ✅ Artigos relacionados adicionados em cultura-openai-a-verdade-chocante-por-tras-do-gigante-da-ia.html
@@ -1218,6 +1222,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em provador-virtual-com-ia-do-google-a-revolucao-nas-compras-de-moda-online.html
 ✅ Artigos relacionados adicionados em cc-signals-creative-commons-define-futuro-dos-dados-para-ia.html
 ✅ Artigos relacionados adicionados em qedma-e-ibm-a-parceria-de-us26-milhoes-que-pode-corrigir-a-computacao-quantica.html
+✅ Artigos relacionados adicionados em align-evals-da-langchain-a-solucao-para-a-crise-de-confianca-na-avaliacao-de-llms.html
 ✅ Artigos relacionados adicionados em twitch-com-videos-verticais-a-revolucao-contra-o-tiktok-comecou.html
 ✅ Artigos relacionados adicionados em nightfall-nyx-a-ia-que-automatiza-e-redefine-a-prevencao-de-perda-de-dados.html
 ✅ Artigos relacionados adicionados em techcrunch-all-stage-economize-210-no-ingresso---ultimos-dias.html
@@ -1236,6 +1241,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em sam-altman-contra-ataca-o-new-york-times-a-ia-em-ponto-de-ebulicao.html
 ✅ Artigos relacionados adicionados em robo-optimus-da-tesla-promessa-ameacada-por-atraso-na-producao.html
 ✅ Artigos relacionados adicionados em rubrik-adquire-predibase-ia-segura-e-customizada-em-foco.html
+✅ Artigos relacionados adicionados em github-copilot-20-milhoes-de-usuarios-e-a-guerra-pela-ia-na-programacao.html
 ✅ Artigos relacionados adicionados em google-web-guide-a-ia-que-organiza-a-busca-e-promete-mudar-tudo.html
 ✅ Artigos relacionados adicionados em robotaxi-da-tesla-no-arizona-a-batalha-contra-a-waymo-comecou.html
 ✅ Artigos relacionados adicionados em mistral-le-chat-a-ia-que-ameaca-o-dominio-da-openai-no-mundo-corporativo.html
