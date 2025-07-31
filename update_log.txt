@@ -6,6 +6,10 @@ Breadcrumbs já existem em articles/startups-em-ebulicao-ia-defesa-tech-e-valuat
 Processado: startups-em-ebulicao-ia-defesa-tech-e-valuations-milionarios-marcam-a-semana.html
 Breadcrumbs já existem em articles/realsense-deixa-a-intel-o-futuro-da-visao-3d-para-robos-e-agora.html
 Processado: realsense-deixa-a-intel-o-futuro-da-visao-3d-para-robos-e-agora.html
+Breadcrumbs já existem em articles/google-adere-ao-pacto-de-ia-da-ue-estrategia-criticas-e-o-futuro-da-regulacao.html
+Processado: google-adere-ao-pacto-de-ia-da-ue-estrategia-criticas-e-o-futuro-da-regulacao.html
+Breadcrumbs já existem em articles/monetizacao-no-youtube-plataforma-flexibiliza-regras-sobre-palavroes-para-criadores.html
+Processado: monetizacao-no-youtube-plataforma-flexibiliza-regras-sobre-palavroes-para-criadores.html
 Breadcrumbs já existem em articles/workflows-de-ia-multiagente-a-estrategia-da-capital-one-para-inovar.html
 Processado: workflows-de-ia-multiagente-a-estrategia-da-capital-one-para-inovar.html
 Breadcrumbs já existem em articles/a-corrida-bilionaria-pela-energia-do-futuro-startups-de-fusao-nuclear-que-captaram-mais-de-us100m.html
@@ -34,6 +38,8 @@ Breadcrumbs já existem em articles/hidrogenio-turquesa-a-tecnologia-esquecida-q
 Processado: hidrogenio-turquesa-a-tecnologia-esquecida-que-garantiu-us27m-a-tulum-energy.html
 Breadcrumbs já existem em articles/Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
 Processado: Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
+Breadcrumbs já existem em articles/oculos-com-ia-a-visao-de-zuckerberg-e-a-ameaca-de-uma-nova-desvantagem-digital.html
+Processado: oculos-com-ia-a-visao-de-zuckerberg-e-a-ameaca-de-uma-nova-desvantagem-digital.html
 Breadcrumbs já existem em articles/aplicativo-smash-de-kesha-a-revolucao-da-identidade-digital-liderada-por-uma-popstar.html
 Processado: aplicativo-smash-de-kesha-a-revolucao-da-identidade-digital-liderada-por-uma-popstar.html
 Breadcrumbs já existem em articles/chatgpt-study-together-a-revolucao-da-ia-na-educacao.html
@@ -42,6 +48,8 @@ Breadcrumbs já existem em articles/robo-da-hugging-face-de-299-a-revolucao-aces
 Processado: robo-da-hugging-face-de-299-a-revolucao-acessivel-na-robotica.html
 Breadcrumbs já existem em articles/Aspora-Levanta-US$50M-com-Sequoia-para-Diáspora-Indiana.html
 Processado: Aspora-Levanta-US$50M-com-Sequoia-para-Diáspora-Indiana.html
+Breadcrumbs já existem em articles/arcee-afm-45b-a-nova-ia-focada-em-seguranca-e-dados-limpos-para-empresas.html
+Processado: arcee-afm-45b-a-nova-ia-focada-em-seguranca-e-dados-limpos-para-empresas.html
 Breadcrumbs já existem em articles/mistral-le-chat-pesquisa-profunda-e-seguranca-para-desafiar-gigantes-da-ia.html
 Processado: mistral-le-chat-pesquisa-profunda-e-seguranca-para-desafiar-gigantes-da-ia.html
 Breadcrumbs já existem em articles/Papa-Leão-XIV-e-a-IA-Vaticano-Alerta-para-Riscos-à-Humanidade-e-Desafia-Gigantes-da-Tecnologia.html
@@ -146,6 +154,8 @@ Breadcrumbs já existem em articles/deepseek-prover-v2-ia-desvenda-teoremas-com-
 Processado: deepseek-prover-v2-ia-desvenda-teoremas-com-busca-recursiva-inovadora.html
 Breadcrumbs já existem em articles/Applied-Intuition-US$600M-Impulsionam-IA-em-Veículos-Autônomos-e-Defesa.html
 Processado: Applied-Intuition-US$600M-Impulsionam-IA-em-Veículos-Autônomos-e-Defesa.html
+Breadcrumbs já existem em articles/a-ameaca-silenciosa-da-ia-como-a-aprendizagem-subliminar-cria-modelos-traicoeiros.html
+Processado: a-ameaca-silenciosa-da-ia-como-a-aprendizagem-subliminar-cria-modelos-traicoeiros.html
 Breadcrumbs já existem em articles/desafio-de-ia-revela-verdade-chocante-vencedor-acerta-apenas-75.html
 Processado: desafio-de-ia-revela-verdade-chocante-vencedor-acerta-apenas-75.html
 Breadcrumbs já existem em articles/sase-por-que-cisos-trocam-multiplos-fornecedores-por-seguranca-inteligente.html
@@ -204,6 +214,8 @@ Breadcrumbs já existem em articles/ia-do-youtube-nova-verificacao-de-idade-para
 Processado: ia-do-youtube-nova-verificacao-de-idade-para-proteger-jovens.html
 Breadcrumbs já existem em articles/ferramentas-de-ia-no-terminal-a-revolucao-silenciosa-no-codigo.html
 Processado: ferramentas-de-ia-no-terminal-a-revolucao-silenciosa-no-codigo.html
+Breadcrumbs já existem em articles/meta-investe-us-72-bilhoes-em-ia-a-corrida-pela-superinteligencia-comecou.html
+Processado: meta-investe-us-72-bilhoes-em-ia-a-corrida-pela-superinteligencia-comecou.html
 Breadcrumbs já existem em articles/ia-grok-nova-versao-gera-controversia-com-respostas-politicas-e-antissemitas.html
 Processado: ia-grok-nova-versao-gera-controversia-com-respostas-politicas-e-antissemitas.html
 Breadcrumbs já existem em articles/roteador-chatgpt-a-nova-ferramenta-da-openai-para-otimizar-tarefas-e-custos.html
@@ -212,6 +224,8 @@ Breadcrumbs já existem em articles/openai-adia-modelo-aberto-seguranca-ou-press
 Processado: openai-adia-modelo-aberto-seguranca-ou-pressao-competitiva.html
 Breadcrumbs já existem em articles/sakana-ai-treequest-a-revolucao-dos-times-de-ia-que-superam-llms-em-30.html
 Processado: sakana-ai-treequest-a-revolucao-dos-times-de-ia-que-superam-llms-em-30.html
+Breadcrumbs já existem em articles/observabilidade-na-era-da-ia-como-a-observe-reinventa-o-jogo.html
+Processado: observabilidade-na-era-da-ia-como-a-observe-reinventa-o-jogo.html
 Breadcrumbs já existem em articles/aquisicao-windsurf-cognition-da-crise-a-salvacao-em-72-horas.html
 Processado: aquisicao-windsurf-cognition-da-crise-a-salvacao-em-72-horas.html
 Breadcrumbs já existem em articles/grok-ai-de-elon-musk-a-ia-que-busca-a-verdade-e-encontra-conspiracoes.html
@@ -288,6 +302,8 @@ Breadcrumbs já existem em articles/a-nova-realidade-da-infraestrutura-de-ia-com
 Processado: a-nova-realidade-da-infraestrutura-de-ia-computacao-onde-os-dados-estao.html
 Breadcrumbs já existem em articles/companheiros-de-ia-a-ameaca-ou-a-evolucao-do-amor-na-era-digital.html
 Processado: companheiros-de-ia-a-ameaca-ou-a-evolucao-do-amor-na-era-digital.html
+Breadcrumbs já existem em articles/mark-zuckerberg-aposta-tudo-na-superinteligencia-a-nova-corrida-da-ia.html
+Processado: mark-zuckerberg-aposta-tudo-na-superinteligencia-a-nova-corrida-da-ia.html
 Breadcrumbs já existem em articles/slate-auto-a-aposta-visionaria-de-uma-vc-de-la-em-um-eletrico-para-as-massas.html
 Processado: slate-auto-a-aposta-visionaria-de-uma-vc-de-la-em-um-eletrico-para-as-massas.html
 Breadcrumbs já existem em articles/liquid-ai-leap-o-kit-dev-que-revolucionara-a-ia-em-celulares.html
@@ -370,8 +386,12 @@ Breadcrumbs já existem em articles/o-custo-oculto-do-codigo-gerado-por-ia-a-ver
 Processado: o-custo-oculto-do-codigo-gerado-por-ia-a-verdade-revelada-pelo-stack-overflow.html
 Breadcrumbs já existem em articles/companheiros-de-ia-por-que-72-dos-adolescentes-ja-usam.html
 Processado: companheiros-de-ia-por-que-72-dos-adolescentes-ja-usam.html
+Breadcrumbs já existem em articles/conversion-ai-dropouts-de-berkeley-levantam-us-28m-para-revolucionar-o-marketing.html
+Processado: conversion-ai-dropouts-de-berkeley-levantam-us-28m-para-revolucionar-o-marketing.html
 Breadcrumbs já existem em articles/receita-do-youtube-dispara-quase-us10-bi-e-a-nova-era-da-tv.html
 Processado: receita-do-youtube-dispara-quase-us10-bi-e-a-nova-era-da-tv.html
+Breadcrumbs já existem em articles/playerzero-a-ia-que-fiscaliza-outras-ias-e-levanta-us-15-milhoes.html
+Processado: playerzero-a-ia-que-fiscaliza-outras-ias-e-levanta-us-15-milhoes.html
 Breadcrumbs já existem em articles/uber-atende-pedido-antigo-funcao-motorista-mulher-chega-aos-eua.html
 Processado: uber-atende-pedido-antigo-funcao-motorista-mulher-chega-aos-eua.html
 Breadcrumbs já existem em articles/ia-em-compras-levelpath-capta-us-55-milhoes-para-desafiar-mercado-legado.html
@@ -476,6 +496,8 @@ Breadcrumbs já existem em articles/modelos-de-mundo-jogaveis-o-veo-3-do-google-
 Processado: modelos-de-mundo-jogaveis-o-veo-3-do-google-e-o-futuro-dos-games.html
 Breadcrumbs já existem em articles/o-futuro-da-ia-de-voz-o-que-esperar-da-elevenlabs-no-techcrunch-disrupt-2025.html
 Processado: o-futuro-da-ia-de-voz-o-que-esperar-da-elevenlabs-no-techcrunch-disrupt-2025.html
+Breadcrumbs já existem em articles/runloop-capta-us7m-para-revolucionar-codificacao-com-agentes-de-ia.html
+Processado: runloop-capta-us7m-para-revolucionar-codificacao-com-agentes-de-ia.html
 Breadcrumbs já existem em articles/soloio-a-tecnologia-premiada-que-descomplica-o-futuro-da-nuvem-nativa.html
 Processado: soloio-a-tecnologia-premiada-que-descomplica-o-futuro-da-nuvem-nativa.html
 Breadcrumbs já existem em articles/ia-emocional-a-revolucao-silenciosa-que-define-o-futuro-da-inteligencia-artificial.html
@@ -522,10 +544,14 @@ Breadcrumbs já existem em articles/Cursor-AI-Plano-Ultra-US$200-Desafia-Mercado
 Processado: Cursor-AI-Plano-Ultra-US$200-Desafia-Mercado-de-Codificação-IA.html
 Breadcrumbs já existem em articles/gemini-cli-google-revoluciona-o-terminal-com-ia-open-source.html
 Processado: gemini-cli-google-revoluciona-o-terminal-com-ia-open-source.html
+Breadcrumbs já existem em articles/shadow-ai-o-risco-invisivel-que-custa-us-670-mil-em-vazamentos-de-dados.html
+Processado: shadow-ai-o-risco-invisivel-que-custa-us-670-mil-em-vazamentos-de-dados.html
 Breadcrumbs já existem em articles/scale-ai-demite-14-e-sinaliza-crise-de-identidade-no-setor-de-ia.html
 Processado: scale-ai-demite-14-e-sinaliza-crise-de-identidade-no-setor-de-ia.html
 Breadcrumbs já existem em articles/google-offerwall-a-solucao-para-a-crise-de-trafego-que-a-propria-ia-criou.html
 Processado: google-offerwall-a-solucao-para-a-crise-de-trafego-que-a-propria-ia-criou.html
+Breadcrumbs já existem em articles/agentes-de-ia-no-trabalho-como-manter-a-seguranca-dos-seus-sistemas.html
+Processado: agentes-de-ia-no-trabalho-como-manter-a-seguranca-dos-seus-sistemas.html
 Breadcrumbs já existem em articles/ia-no-setor-automotivo-a-revolucao-agentiva-da-capital-one.html
 Processado: ia-no-setor-automotivo-a-revolucao-agentiva-da-capital-one.html
 Breadcrumbs já existem em articles/google-veo-3-chega-ao-mundo-a-revolucao-da-criacao-de-videos-por-ia.html
@@ -713,6 +739,8 @@ Breadcrumbs já existem em articles/mcpeval-a-revolucao-open-source-na-avaliacao
 Processado: mcpeval-a-revolucao-open-source-na-avaliacao-de-agentes-de-ia.html
 Breadcrumbs já existem em articles/ia-e-defesa-a-nova-fronteira-da-seguranca-no-techcrunch-disrupt-2025.html
 Processado: ia-e-defesa-a-nova-fronteira-da-seguranca-no-techcrunch-disrupt-2025.html
+Breadcrumbs já existem em articles/explosao-da-genai-aplicativos-dobram-receita-e-atingem-17-bilhao-de-downloads-em-2025.html
+Processado: explosao-da-genai-aplicativos-dobram-receita-e-atingem-17-bilhao-de-downloads-em-2025.html
 Breadcrumbs já existem em articles/agentes-de-ia-e-apis-a-revolucao-silenciosa-que-atlassian-intuit-e-aws-estao-liderando.html
 Processado: agentes-de-ia-e-apis-a-revolucao-silenciosa-que-atlassian-intuit-e-aws-estao-liderando.html
 Breadcrumbs já existem em articles/manus-vs-chatgpt-a-batalha-pela-visualizacao-de-dados-com-ia.html
@@ -787,6 +815,8 @@ Breadcrumbs já existem em articles/ia-generativa-no-e-commerce-o-salto-de-3300-
 Processado: ia-generativa-no-e-commerce-o-salto-de-3300-que-redefiniu-o-prime-day.html
 Breadcrumbs já existem em articles/synthflow-ai-decifrando-o-codigo-da-voz-em-um-mercado-de-ia-em-ebulicao.html
 Processado: synthflow-ai-decifrando-o-codigo-da-voz-em-um-mercado-de-ia-em-ebulicao.html
+Breadcrumbs já existem em articles/de-garafunhos-a-us-28-milhoes-a-revolucao-da-conversion-em-automacao-de-marketing-com-ia.html
+Processado: de-garafunhos-a-us-28-milhoes-a-revolucao-da-conversion-em-automacao-de-marketing-com-ia.html
 Breadcrumbs já existem em articles/TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
 Processado: TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
 Breadcrumbs já existem em articles/techcrunch-disrupt-2025-o-manual-definitivo-para-ipo-e-crescimento-de-startups.html
@@ -823,6 +853,8 @@ Breadcrumbs já existem em articles/startup-de-uma-pessoa-so-sonho-bilionario-ou
 Processado: startup-de-uma-pessoa-so-sonho-bilionario-ou-ilusao-ceo-da-windsurf-pondera.html
 Breadcrumbs já existem em articles/techcrunch-all-stage-ultima-chance-para-ingressos-com-preco-de-lancamento.html
 Processado: techcrunch-all-stage-ultima-chance-para-ingressos-com-preco-de-lancamento.html
+Breadcrumbs já existem em articles/ia-generativa-apps-dobram-receita-com-17-bilhao-de-downloads-em-2025.html
+Processado: ia-generativa-apps-dobram-receita-com-17-bilhao-de-downloads-em-2025.html
 Breadcrumbs já existem em articles/chatbots-da-meta-a-revolucao-proativa-que-inicia-a-conversa-com-voce.html
 Processado: chatbots-da-meta-a-revolucao-proativa-que-inicia-a-conversa-com-voce.html
 Breadcrumbs já existem em articles/daydream-chatbot-de-ia-de-julie-bornstein-quer-transformar-sua-busca-por-moda.html
@@ -918,6 +950,8 @@ Breadcrumbs já existem em articles/rwazi-levanta-us12m-para-revolucionar-inteli
 Processado: rwazi-levanta-us12m-para-revolucionar-inteligencia-de-consumo-com-ia.html
 Breadcrumbs já existem em articles/mastodon-busca-sustentabilidade-financeira-com-doacoes-no-app.html
 Processado: mastodon-busca-sustentabilidade-financeira-com-doacoes-no-app.html
+Breadcrumbs já existem em articles/google-deepmind-a-ia-que-mapeia-o-planeta-com-precisao-inedita.html
+Processado: google-deepmind-a-ia-que-mapeia-o-planeta-com-precisao-inedita.html
 Breadcrumbs já existem em articles/mercado-de-semicondutores-eua-2025-reviravoltas-e-a-corrida-pela-ia.html
 Processado: mercado-de-semicondutores-eua-2025-reviravoltas-e-a-corrida-pela-ia.html
 Breadcrumbs já existem em articles/sitch-o-aplicativo-de-namoro-com-ia-que-promete-revolucionar-conexoes-com-toque-humano.html
@@ -926,6 +960,8 @@ Breadcrumbs já existem em articles/Chatbots-de-IA-A-Sutil-Engenharia-do-Retorno
 Processado: Chatbots-de-IA-A-Sutil-Engenharia-do-Retorno-e-Seus-Dilemas.html
 Breadcrumbs já existem em articles/proton-lumo-a-revolucao-da-ia-com-foco-total-em-privacidade.html
 Processado: proton-lumo-a-revolucao-da-ia-com-foco-total-em-privacidade.html
+Breadcrumbs já existem em articles/ia-da-meta-como-zuckerberg-aumentou-o-tempo-de-uso-no-facebook-e-instagram.html
+Processado: ia-da-meta-como-zuckerberg-aumentou-o-tempo-de-uso-no-facebook-e-instagram.html
 Breadcrumbs já existem em articles/amazon-kiro-o-assistente-ia-com-claude-que-desafia-o-github-copilot.html
 Processado: amazon-kiro-o-assistente-ia-com-claude-que-desafia-o-github-copilot.html
 Breadcrumbs já existem em articles/substack-garante-aporte-de-us100-milhoes-e-eleva-valuation-para-us11-bilhao-mirando-expansao-na-economia-dos-criadores.html
@@ -950,6 +986,8 @@ Breadcrumbs já existem em articles/deezer-inova-com-rotulagem-de-musica-ia-para
 Processado: deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
 Breadcrumbs já existem em articles/o-impacto-psicologico-da-ia-como-a-tecnologia-silenciosamente-afeta-sua-mente.html
 Processado: o-impacto-psicologico-da-ia-como-a-tecnologia-silenciosamente-afeta-sua-mente.html
+Breadcrumbs já existem em articles/ramp-atinge-us-225-bi-a-ascensao-meteorica-da-ia-no-futuro-das-financas.html
+Processado: ramp-atinge-us-225-bi-a-ascensao-meteorica-da-ia-no-futuro-das-financas.html
 Breadcrumbs já existem em articles/helios-a-ia-que-quer-ser-o-sistema-operacional-das-politicas-publicas.html
 Processado: helios-a-ia-que-quer-ser-o-sistema-operacional-das-politicas-publicas.html
 Breadcrumbs já existem em articles/o-futuro-do-ipo-david-george-a16z-debate-estrategias-no-techcrunch-disrupt.html
@@ -984,6 +1022,8 @@ Breadcrumbs já existem em articles/petlibro-scout-a-camera-com-ia-que-narra-o-d
 Processado: petlibro-scout-a-camera-com-ia-que-narra-o-dia-do-seu-pet.html
 Breadcrumbs já existem em articles/kimi-k2-supera-gpt-4-a-nova-ia-gratuita-que-desafia-o-dominio-da-openai.html
 Processado: kimi-k2-supera-gpt-4-a-nova-ia-gratuita-que-desafia-o-dominio-da-openai.html
+Breadcrumbs já existem em articles/c8-health-da-anestesia-a-gestao-hospitalar-a-ia-que-redefine-a-saude.html
+Processado: c8-health-da-anestesia-a-gestao-hospitalar-a-ia-que-redefine-a-saude.html
 Breadcrumbs já existem em articles/bright-data-a-empresa-que-venceu-musk-e-meta-e-agora-democratiza-os-dados-para-ia.html
 Processado: bright-data-a-empresa-que-venceu-musk-e-meta-e-agora-democratiza-os-dados-para-ia.html
 Breadcrumbs já existem em articles/spacex-e-xai-o-investimento-de-us2-bilhoes-que-cimenta-o-imperio-de-elon-musk.html
@@ -1048,6 +1088,8 @@ Breadcrumbs já existem em articles/qedma-e-ibm-a-parceria-de-us26-milhoes-que-p
 Processado: qedma-e-ibm-a-parceria-de-us26-milhoes-que-pode-corrigir-a-computacao-quantica.html
 Breadcrumbs já existem em articles/twitch-com-videos-verticais-a-revolucao-contra-o-tiktok-comecou.html
 Processado: twitch-com-videos-verticais-a-revolucao-contra-o-tiktok-comecou.html
+Breadcrumbs já existem em articles/nightfall-nyx-a-ia-que-automatiza-e-redefine-a-prevencao-de-perda-de-dados.html
+Processado: nightfall-nyx-a-ia-que-automatiza-e-redefine-a-prevencao-de-perda-de-dados.html
 Breadcrumbs já existem em articles/techcrunch-all-stage-economize-210-no-ingresso---ultimos-dias.html
 Processado: techcrunch-all-stage-economize-210-no-ingresso---ultimos-dias.html
 Breadcrumbs já existem em articles/atribuicao-de-falhas-em-mas-nova-ia-da-psu-e-duke.html
@@ -1102,6 +1144,8 @@ Breadcrumbs já existem em articles/meta-negocia-compra-da-play-ai-a-proxima-rev
 Processado: meta-negocia-compra-da-play-ai-a-proxima-revolucao-na-interacao-social.html
 Breadcrumbs já existem em articles/meta-e-o-fair-use-juiz-decide-a-favor-da-gigante-em-caso-de-treinamento-de-ia-com-livros-protegidos.html
 Processado: meta-e-o-fair-use-juiz-decide-a-favor-da-gigante-em-caso-de-treinamento-de-ia-com-livros-protegidos.html
+Breadcrumbs já existem em articles/meta-sinaliza-fim-do-codigo-aberto-total-para-sua-superinteligencia-de-ia.html
+Processado: meta-sinaliza-fim-do-codigo-aberto-total-para-sua-superinteligencia-de-ia.html
 Breadcrumbs já existem em articles/claude-ia-crie-apps-sem-codigo-apenas-com-prompts.html
 Processado: claude-ia-crie-apps-sem-codigo-apenas-com-prompts.html
 Breadcrumbs já existem em articles/agentes-de-ia-a-verdade-sobre-a-autonomia-e-o-poder-dos-problemas-delimitados.html
@@ -1250,10 +1294,14 @@ Breadcrumbs já existem em articles/cluely-a-startup-que-dobrou-sua-receita-para
 Processado: cluely-a-startup-que-dobrou-sua-receita-para-us-7-milhoes-em-uma-semana-enfrenta-a-concorrencia.html
 Breadcrumbs já existem em articles/zhipuai-glm-4-open-source-acelera-ia-global-pre-ipo.html
 Processado: zhipuai-glm-4-open-source-acelera-ia-global-pre-ipo.html
+Breadcrumbs já existem em articles/air-garante-23-milhoes-para-lancar-seu-carro-voador-pessoal-nos-eua.html
+Processado: air-garante-23-milhoes-para-lancar-seu-carro-voador-pessoal-nos-eua.html
 Breadcrumbs já existem em articles/evento-de-startups-em-boston-ultima-chance-para-descontos-no-techcrunch-all-stage.html
 Processado: evento-de-startups-em-boston-ultima-chance-para-descontos-no-techcrunch-all-stage.html
 Breadcrumbs já existem em articles/ia-no-x-a-solucao-contra-fake-news-ou-um-novo-risco-digital.html
 Processado: ia-no-x-a-solucao-contra-fake-news-ou-um-novo-risco-digital.html
+Breadcrumbs já existem em articles/skechers-com-airtag-seguranca-infantil-ou-excesso-de-vigilancia.html
+Processado: skechers-com-airtag-seguranca-infantil-ou-excesso-de-vigilancia.html
 Breadcrumbs já existem em articles/xai-de-elon-musk-garante-us10-bi-para-desafiar-gigantes-da-ia.html
 Processado: xai-de-elon-musk-garante-us10-bi-para-desafiar-gigantes-da-ia.html
 Breadcrumbs já existem em articles/alem-do-tam-como-startups-visionarias-criam-seus-proprios-mercados.html
@@ -1290,6 +1338,8 @@ Artigos relacionados adicionados com sucesso em articles/lei-de-ia-da-ue-bruxela
 Artigos relacionados adicionados com sucesso em articles/direitos-autorais-ia-getty-recua-parcialmente-contra-stability-ai-no-uk-luta-continua.html
 Artigos relacionados adicionados com sucesso em articles/startups-em-ebulicao-ia-defesa-tech-e-valuations-milionarios-marcam-a-semana.html
 Artigos relacionados adicionados com sucesso em articles/realsense-deixa-a-intel-o-futuro-da-visao-3d-para-robos-e-agora.html
+Artigos relacionados adicionados com sucesso em articles/google-adere-ao-pacto-de-ia-da-ue-estrategia-criticas-e-o-futuro-da-regulacao.html
+Artigos relacionados adicionados com sucesso em articles/monetizacao-no-youtube-plataforma-flexibiliza-regras-sobre-palavroes-para-criadores.html
 Artigos relacionados adicionados com sucesso em articles/workflows-de-ia-multiagente-a-estrategia-da-capital-one-para-inovar.html
 Artigos relacionados adicionados com sucesso em articles/a-corrida-bilionaria-pela-energia-do-futuro-startups-de-fusao-nuclear-que-captaram-mais-de-us100m.html
 Artigos relacionados adicionados com sucesso em articles/investimentos-da-nvidia-em-ia-acelerando-o-futuro-tecnologico.html
@@ -1304,10 +1354,12 @@ Artigos relacionados adicionados com sucesso em articles/pinwheel-lanca-smartwat
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-por-que-a-confianca-exige-uma-estrutura-de-avaliacao-primeiro.html
 Artigos relacionados adicionados com sucesso em articles/hidrogenio-turquesa-a-tecnologia-esquecida-que-garantiu-us27m-a-tulum-energy.html
 Artigos relacionados adicionados com sucesso em articles/Audiência-de-Streaming-Bate-Recorde-e-Supera-TV-Tradicional.html
+Artigos relacionados adicionados com sucesso em articles/oculos-com-ia-a-visao-de-zuckerberg-e-a-ameaca-de-uma-nova-desvantagem-digital.html
 Artigos relacionados adicionados com sucesso em articles/aplicativo-smash-de-kesha-a-revolucao-da-identidade-digital-liderada-por-uma-popstar.html
 Artigos relacionados adicionados com sucesso em articles/chatgpt-study-together-a-revolucao-da-ia-na-educacao.html
 Artigos relacionados adicionados com sucesso em articles/robo-da-hugging-face-de-299-a-revolucao-acessivel-na-robotica.html
 Artigos relacionados adicionados com sucesso em articles/Aspora-Levanta-US$50M-com-Sequoia-para-Diáspora-Indiana.html
+Artigos relacionados adicionados com sucesso em articles/arcee-afm-45b-a-nova-ia-focada-em-seguranca-e-dados-limpos-para-empresas.html
 Artigos relacionados adicionados com sucesso em articles/mistral-le-chat-pesquisa-profunda-e-seguranca-para-desafiar-gigantes-da-ia.html
 Artigos relacionados adicionados com sucesso em articles/Papa-Leão-XIV-e-a-IA-Vaticano-Alerta-para-Riscos-à-Humanidade-e-Desafia-Gigantes-da-Tecnologia.html
 Artigos relacionados adicionados com sucesso em articles/adocao-de-ia-no-trabalho-maximizando-ganhos-e-navegando-desafios.html
@@ -1360,6 +1412,7 @@ Artigos relacionados adicionados com sucesso em articles/thinking-machines-lab-d
 Artigos relacionados adicionados com sucesso em articles/grok-offline-a-crise-da-ia-de-elon-musk-e-a-luta-contra-o-odio.html
 Artigos relacionados adicionados com sucesso em articles/deepseek-prover-v2-ia-desvenda-teoremas-com-busca-recursiva-inovadora.html
 Artigos relacionados adicionados com sucesso em articles/Applied-Intuition-US$600M-Impulsionam-IA-em-Veículos-Autônomos-e-Defesa.html
+Artigos relacionados adicionados com sucesso em articles/a-ameaca-silenciosa-da-ia-como-a-aprendizagem-subliminar-cria-modelos-traicoeiros.html
 Artigos relacionados adicionados com sucesso em articles/desafio-de-ia-revela-verdade-chocante-vencedor-acerta-apenas-75.html
 Artigos relacionados adicionados com sucesso em articles/sase-por-que-cisos-trocam-multiplos-fornecedores-por-seguranca-inteligente.html
 Artigos relacionados adicionados com sucesso em articles/terra-co2-investimento-de-124m-para-um-futuro-de-cimento-sustentavel.html
@@ -1389,10 +1442,12 @@ Artigos relacionados adicionados com sucesso em articles/robotaxi-da-tesla-em-sa
 Artigos relacionados adicionados com sucesso em articles/kayak-vs-expedia-a-corrida-da-ia-para-criar-o-agente-de-viagens-do-futuro.html
 Artigos relacionados adicionados com sucesso em articles/ia-do-youtube-nova-verificacao-de-idade-para-proteger-jovens.html
 Artigos relacionados adicionados com sucesso em articles/ferramentas-de-ia-no-terminal-a-revolucao-silenciosa-no-codigo.html
+Artigos relacionados adicionados com sucesso em articles/meta-investe-us-72-bilhoes-em-ia-a-corrida-pela-superinteligencia-comecou.html
 Artigos relacionados adicionados com sucesso em articles/ia-grok-nova-versao-gera-controversia-com-respostas-politicas-e-antissemitas.html
 Artigos relacionados adicionados com sucesso em articles/roteador-chatgpt-a-nova-ferramenta-da-openai-para-otimizar-tarefas-e-custos.html
 Artigos relacionados adicionados com sucesso em articles/openai-adia-modelo-aberto-seguranca-ou-pressao-competitiva.html
 Artigos relacionados adicionados com sucesso em articles/sakana-ai-treequest-a-revolucao-dos-times-de-ia-que-superam-llms-em-30.html
+Artigos relacionados adicionados com sucesso em articles/observabilidade-na-era-da-ia-como-a-observe-reinventa-o-jogo.html
 Artigos relacionados adicionados com sucesso em articles/aquisicao-windsurf-cognition-da-crise-a-salvacao-em-72-horas.html
 Artigos relacionados adicionados com sucesso em articles/grok-ai-de-elon-musk-a-ia-que-busca-a-verdade-e-encontra-conspiracoes.html
 Artigos relacionados adicionados com sucesso em articles/genesis-ai-a-revolucao-da-ia-para-robos-com-us-105-milhoes.html
@@ -1431,6 +1486,7 @@ Artigos relacionados adicionados com sucesso em articles/xAI-de-Elon-Musk-Busca-
 Artigos relacionados adicionados com sucesso em articles/google-ai-academy-a-estrategia-para-moldar-o-futuro-da-infraestrutura-com-ia.html
 Artigos relacionados adicionados com sucesso em articles/a-nova-realidade-da-infraestrutura-de-ia-computacao-onde-os-dados-estao.html
 Artigos relacionados adicionados com sucesso em articles/companheiros-de-ia-a-ameaca-ou-a-evolucao-do-amor-na-era-digital.html
+Artigos relacionados adicionados com sucesso em articles/mark-zuckerberg-aposta-tudo-na-superinteligencia-a-nova-corrida-da-ia.html
 Artigos relacionados adicionados com sucesso em articles/slate-auto-a-aposta-visionaria-de-uma-vc-de-la-em-um-eletrico-para-as-massas.html
 Artigos relacionados adicionados com sucesso em articles/liquid-ai-leap-o-kit-dev-que-revolucionara-a-ia-em-celulares.html
 Artigos relacionados adicionados com sucesso em articles/monitoramento-da-ia-a-urgencia-de-ler-os-pensamentos-das-maquinas-para-nossa-seguranca.html
@@ -1472,7 +1528,9 @@ Artigos relacionados adicionados com sucesso em articles/x-bloqueia-reuters-na-i
 Artigos relacionados adicionados com sucesso em articles/decifrando-o-codigo-do-investimento-em-ia-kleida-martiro-guia-startups-no-techcrunch-all-stage.html
 Artigos relacionados adicionados com sucesso em articles/o-custo-oculto-do-codigo-gerado-por-ia-a-verdade-revelada-pelo-stack-overflow.html
 Artigos relacionados adicionados com sucesso em articles/companheiros-de-ia-por-que-72-dos-adolescentes-ja-usam.html
+Artigos relacionados adicionados com sucesso em articles/conversion-ai-dropouts-de-berkeley-levantam-us-28m-para-revolucionar-o-marketing.html
 Artigos relacionados adicionados com sucesso em articles/receita-do-youtube-dispara-quase-us10-bi-e-a-nova-era-da-tv.html
+Artigos relacionados adicionados com sucesso em articles/playerzero-a-ia-que-fiscaliza-outras-ias-e-levanta-us-15-milhoes.html
 Artigos relacionados adicionados com sucesso em articles/uber-atende-pedido-antigo-funcao-motorista-mulher-chega-aos-eua.html
 Artigos relacionados adicionados com sucesso em articles/ia-em-compras-levelpath-capta-us-55-milhoes-para-desafiar-mercado-legado.html
 Artigos relacionados adicionados com sucesso em articles/perplexity-comet-o-navegador-com-ia-que-quer-destronar-o-google.html
@@ -1525,6 +1583,7 @@ Artigos relacionados adicionados com sucesso em articles/characterai-nomeia-ex-v
 Artigos relacionados adicionados com sucesso em articles/o-futuro-da-ia-entre-a-utopia-prometida-e-o-colapso-iminente.html
 Artigos relacionados adicionados com sucesso em articles/modelos-de-mundo-jogaveis-o-veo-3-do-google-e-o-futuro-dos-games.html
 Artigos relacionados adicionados com sucesso em articles/o-futuro-da-ia-de-voz-o-que-esperar-da-elevenlabs-no-techcrunch-disrupt-2025.html
+Artigos relacionados adicionados com sucesso em articles/runloop-capta-us7m-para-revolucionar-codificacao-com-agentes-de-ia.html
 Artigos relacionados adicionados com sucesso em articles/soloio-a-tecnologia-premiada-que-descomplica-o-futuro-da-nuvem-nativa.html
 Artigos relacionados adicionados com sucesso em articles/ia-emocional-a-revolucao-silenciosa-que-define-o-futuro-da-inteligencia-artificial.html
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-licoes-de-lideres-para-implementar-estrategias-vencedoras.html
@@ -1548,8 +1607,10 @@ Artigos relacionados adicionados com sucesso em articles/openai-rompe-com-scale-
 Artigos relacionados adicionados com sucesso em articles/o-futuro-da-ia-segura-startup-de-ex-anthropic-capta-us15-milhoes-para-criar-seguros-para-ia.html
 Artigos relacionados adicionados com sucesso em articles/Cursor-AI-Plano-Ultra-US$200-Desafia-Mercado-de-Codificação-IA.html
 Artigos relacionados adicionados com sucesso em articles/gemini-cli-google-revoluciona-o-terminal-com-ia-open-source.html
+Artigos relacionados adicionados com sucesso em articles/shadow-ai-o-risco-invisivel-que-custa-us-670-mil-em-vazamentos-de-dados.html
 Artigos relacionados adicionados com sucesso em articles/scale-ai-demite-14-e-sinaliza-crise-de-identidade-no-setor-de-ia.html
 Artigos relacionados adicionados com sucesso em articles/google-offerwall-a-solucao-para-a-crise-de-trafego-que-a-propria-ia-criou.html
+Artigos relacionados adicionados com sucesso em articles/agentes-de-ia-no-trabalho-como-manter-a-seguranca-dos-seus-sistemas.html
 Artigos relacionados adicionados com sucesso em articles/ia-no-setor-automotivo-a-revolucao-agentiva-da-capital-one.html
 Artigos relacionados adicionados com sucesso em articles/google-veo-3-chega-ao-mundo-a-revolucao-da-criacao-de-videos-por-ia.html
 Artigos relacionados adicionados com sucesso em articles/anycoder-a-revolucao-no-desenvolvimento-de-apps-com-a-ia-kimi-k2.html
@@ -1644,6 +1705,7 @@ Artigos relacionados adicionados com sucesso em articles/qedma-e-ibm-a-revolucao
 Artigos relacionados adicionados com sucesso em articles/ia-vs-ia-a-prophet-security-e-o-futuro-da-ciberseguranca-autonoma.html
 Artigos relacionados adicionados com sucesso em articles/mcpeval-a-revolucao-open-source-na-avaliacao-de-agentes-de-ia.html
 Artigos relacionados adicionados com sucesso em articles/ia-e-defesa-a-nova-fronteira-da-seguranca-no-techcrunch-disrupt-2025.html
+Artigos relacionados adicionados com sucesso em articles/explosao-da-genai-aplicativos-dobram-receita-e-atingem-17-bilhao-de-downloads-em-2025.html
 Artigos relacionados adicionados com sucesso em articles/agentes-de-ia-e-apis-a-revolucao-silenciosa-que-atlassian-intuit-e-aws-estao-liderando.html
 Artigos relacionados adicionados com sucesso em articles/manus-vs-chatgpt-a-batalha-pela-visualizacao-de-dados-com-ia.html
 Artigos relacionados adicionados com sucesso em articles/agentes-de-ia-a-revolucao-no-futuro-do-software-segundo-o-ceo-da-replit.html
@@ -1681,6 +1743,7 @@ Artigos relacionados adicionados com sucesso em articles/acree-afm-45b-a-respost
 Artigos relacionados adicionados com sucesso em articles/novo-fundo-de-34m-para-startups-yc-o-ecossistema-se-fortalece-com-apoio-de-garry-tan.html
 Artigos relacionados adicionados com sucesso em articles/ia-generativa-no-e-commerce-o-salto-de-3300-que-redefiniu-o-prime-day.html
 Artigos relacionados adicionados com sucesso em articles/synthflow-ai-decifrando-o-codigo-da-voz-em-um-mercado-de-ia-em-ebulicao.html
+Artigos relacionados adicionados com sucesso em articles/de-garafunhos-a-us-28-milhoes-a-revolucao-da-conversion-em-automacao-de-marketing-com-ia.html
 Artigos relacionados adicionados com sucesso em articles/TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
 Artigos relacionados adicionados com sucesso em articles/techcrunch-disrupt-2025-o-manual-definitivo-para-ipo-e-crescimento-de-startups.html
 Artigos relacionados adicionados com sucesso em articles/ctgt-vence-premio-no-vb-transform-2025-e-sinaliza-o-fim-das-apresentacoes-comuns.html
@@ -1699,6 +1762,7 @@ Artigos relacionados adicionados com sucesso em articles/ia-na-terapia-a-promess
 Artigos relacionados adicionados com sucesso em articles/nuvem-quantica-chance-trilionaria-riscos-iminentes.html
 Artigos relacionados adicionados com sucesso em articles/startup-de-uma-pessoa-so-sonho-bilionario-ou-ilusao-ceo-da-windsurf-pondera.html
 Artigos relacionados adicionados com sucesso em articles/techcrunch-all-stage-ultima-chance-para-ingressos-com-preco-de-lancamento.html
+Artigos relacionados adicionados com sucesso em articles/ia-generativa-apps-dobram-receita-com-17-bilhao-de-downloads-em-2025.html
 Artigos relacionados adicionados com sucesso em articles/chatbots-da-meta-a-revolucao-proativa-que-inicia-a-conversa-com-voce.html
 Artigos relacionados adicionados com sucesso em articles/daydream-chatbot-de-ia-de-julie-bornstein-quer-transformar-sua-busca-por-moda.html
 Artigos relacionados adicionados com sucesso em articles/qwen3-a-ia-open-source-que-desafia-gigantes-como-openai-e-google.html
@@ -1747,10 +1811,12 @@ Artigos relacionados adicionados com sucesso em articles/grammarly-adquire-super
 Artigos relacionados adicionados com sucesso em articles/youtube-dispara-receita-de-publicidade-atinge-quase-us10-bilhoes-e-abala-concorrencia.html
 Artigos relacionados adicionados com sucesso em articles/rwazi-levanta-us12m-para-revolucionar-inteligencia-de-consumo-com-ia.html
 Artigos relacionados adicionados com sucesso em articles/mastodon-busca-sustentabilidade-financeira-com-doacoes-no-app.html
+Artigos relacionados adicionados com sucesso em articles/google-deepmind-a-ia-que-mapeia-o-planeta-com-precisao-inedita.html
 Artigos relacionados adicionados com sucesso em articles/mercado-de-semicondutores-eua-2025-reviravoltas-e-a-corrida-pela-ia.html
 Artigos relacionados adicionados com sucesso em articles/sitch-o-aplicativo-de-namoro-com-ia-que-promete-revolucionar-conexoes-com-toque-humano.html
 Artigos relacionados adicionados com sucesso em articles/Chatbots-de-IA-A-Sutil-Engenharia-do-Retorno-e-Seus-Dilemas.html
 Artigos relacionados adicionados com sucesso em articles/proton-lumo-a-revolucao-da-ia-com-foco-total-em-privacidade.html
+Artigos relacionados adicionados com sucesso em articles/ia-da-meta-como-zuckerberg-aumentou-o-tempo-de-uso-no-facebook-e-instagram.html
 Artigos relacionados adicionados com sucesso em articles/amazon-kiro-o-assistente-ia-com-claude-que-desafia-o-github-copilot.html
 Artigos relacionados adicionados com sucesso em articles/substack-garante-aporte-de-us100-milhoes-e-eleva-valuation-para-us11-bilhao-mirando-expansao-na-economia-dos-criadores.html
 Artigos relacionados adicionados com sucesso em articles/ia-para-empresas-may-habib-writer-no-palco-do-techcrunch-disrupt-2025.html
@@ -1763,6 +1829,7 @@ Artigos relacionados adicionados com sucesso em articles/gemini-cli-ia-open-sour
 Artigos relacionados adicionados com sucesso em articles/aws-sagemaker-a-estrategia-de-infraestrutura-que-desafia-a-corrida-dos-modelos-de-ia.html
 Artigos relacionados adicionados com sucesso em articles/deezer-inova-com-rotulagem-de-musica-ia-para-combater-fraudes-e-proteger-artistas.html
 Artigos relacionados adicionados com sucesso em articles/o-impacto-psicologico-da-ia-como-a-tecnologia-silenciosamente-afeta-sua-mente.html
+Artigos relacionados adicionados com sucesso em articles/ramp-atinge-us-225-bi-a-ascensao-meteorica-da-ia-no-futuro-das-financas.html
 Artigos relacionados adicionados com sucesso em articles/helios-a-ia-que-quer-ser-o-sistema-operacional-das-politicas-publicas.html
 Artigos relacionados adicionados com sucesso em articles/o-futuro-do-ipo-david-george-a16z-debate-estrategias-no-techcrunch-disrupt.html
 Artigos relacionados adicionados com sucesso em articles/meta-em-ofensiva-por-talentos-de-ia-de-sutskever-a-daniel-gross.html
@@ -1780,6 +1847,7 @@ Artigos relacionados adicionados com sucesso em articles/ia-no-planejamento-suce
 Artigos relacionados adicionados com sucesso em articles/ia-da-meta-o-fim-da-era-open-source-e-a-aposta-em-modelos-fechados.html
 Artigos relacionados adicionados com sucesso em articles/petlibro-scout-a-camera-com-ia-que-narra-o-dia-do-seu-pet.html
 Artigos relacionados adicionados com sucesso em articles/kimi-k2-supera-gpt-4-a-nova-ia-gratuita-que-desafia-o-dominio-da-openai.html
+Artigos relacionados adicionados com sucesso em articles/c8-health-da-anestesia-a-gestao-hospitalar-a-ia-que-redefine-a-saude.html
 Artigos relacionados adicionados com sucesso em articles/bright-data-a-empresa-que-venceu-musk-e-meta-e-agora-democratiza-os-dados-para-ia.html
 Artigos relacionados adicionados com sucesso em articles/spacex-e-xai-o-investimento-de-us2-bilhoes-que-cimenta-o-imperio-de-elon-musk.html
 Artigos relacionados adicionados com sucesso em articles/Coralogix-Vira-Unicórnio-e-Aposta-na-Índia-com-IA-Olly.html
@@ -1812,6 +1880,7 @@ Artigos relacionados adicionados com sucesso em articles/provador-virtual-com-ia
 Artigos relacionados adicionados com sucesso em articles/cc-signals-creative-commons-define-futuro-dos-dados-para-ia.html
 Artigos relacionados adicionados com sucesso em articles/qedma-e-ibm-a-parceria-de-us26-milhoes-que-pode-corrigir-a-computacao-quantica.html
 Artigos relacionados adicionados com sucesso em articles/twitch-com-videos-verticais-a-revolucao-contra-o-tiktok-comecou.html
+Artigos relacionados adicionados com sucesso em articles/nightfall-nyx-a-ia-que-automatiza-e-redefine-a-prevencao-de-perda-de-dados.html
 Artigos relacionados adicionados com sucesso em articles/techcrunch-all-stage-economize-210-no-ingresso---ultimos-dias.html
 Artigos relacionados adicionados com sucesso em articles/atribuicao-de-falhas-em-mas-nova-ia-da-psu-e-duke.html
 Artigos relacionados adicionados com sucesso em articles/Aspora-Capta-$50-Milhões-com-Sequoia-para-Revolucionar-Finanças-da-Diáspora-Indiana.html
@@ -1839,6 +1908,7 @@ Artigos relacionados adicionados com sucesso em articles/minimalismo-de-modelos-
 Artigos relacionados adicionados com sucesso em articles/crise-no-x-analise-da-saida-da-ceo-linda-yaccarino-e-o-futuro-incerto-da-plataforma.html
 Artigos relacionados adicionados com sucesso em articles/meta-negocia-compra-da-play-ai-a-proxima-revolucao-na-interacao-social.html
 Artigos relacionados adicionados com sucesso em articles/meta-e-o-fair-use-juiz-decide-a-favor-da-gigante-em-caso-de-treinamento-de-ia-com-livros-protegidos.html
+Artigos relacionados adicionados com sucesso em articles/meta-sinaliza-fim-do-codigo-aberto-total-para-sua-superinteligencia-de-ia.html
 Artigos relacionados adicionados com sucesso em articles/claude-ia-crie-apps-sem-codigo-apenas-com-prompts.html
 Artigos relacionados adicionados com sucesso em articles/agentes-de-ia-a-verdade-sobre-a-autonomia-e-o-poder-dos-problemas-delimitados.html
 Artigos relacionados adicionados com sucesso em articles/franca-sob-alerta-plataforma-x-investigada-por-interferencia-e-ia-grok-criticada.html
@@ -1913,8 +1983,10 @@ Artigos relacionados adicionados com sucesso em articles/a-migracao-para-a-ia-po
 Artigos relacionados adicionados com sucesso em articles/Mastodon-Veta-IA-Seus-Dados-Mais-Seguros-no-Fediverso.html
 Artigos relacionados adicionados com sucesso em articles/cluely-a-startup-que-dobrou-sua-receita-para-us-7-milhoes-em-uma-semana-enfrenta-a-concorrencia.html
 Artigos relacionados adicionados com sucesso em articles/zhipuai-glm-4-open-source-acelera-ia-global-pre-ipo.html
+Artigos relacionados adicionados com sucesso em articles/air-garante-23-milhoes-para-lancar-seu-carro-voador-pessoal-nos-eua.html
 Artigos relacionados adicionados com sucesso em articles/evento-de-startups-em-boston-ultima-chance-para-descontos-no-techcrunch-all-stage.html
 Artigos relacionados adicionados com sucesso em articles/ia-no-x-a-solucao-contra-fake-news-ou-um-novo-risco-digital.html
+Artigos relacionados adicionados com sucesso em articles/skechers-com-airtag-seguranca-infantil-ou-excesso-de-vigilancia.html
 Artigos relacionados adicionados com sucesso em articles/xai-de-elon-musk-garante-us10-bi-para-desafiar-gigantes-da-ia.html
 Artigos relacionados adicionados com sucesso em articles/alem-do-tam-como-startups-visionarias-criam-seus-proprios-mercados.html
 Artigos relacionados adicionados com sucesso em articles/ia-do-google-adocao-massiva-ou-imposicao-estrategica.html
@@ -1930,7 +2002,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 188 artigos à seção de últimas notícias
-Adicionadas 52 categorias
-Adicionadas 1199 tags
-Sitemap atualizado com 25579 URLs
+Adicionados 198 artigos à seção de últimas notícias
+Adicionadas 55 categorias
+Adicionadas 1223 tags
+Sitemap atualizado com 26246 URLs
