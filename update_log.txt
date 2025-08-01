@@ -584,6 +584,8 @@ Breadcrumbs já existem em articles/ios-26-beta-4-apple-ajusta-liquid-glass-e-re
 Processado: ios-26-beta-4-apple-ajusta-liquid-glass-e-retoma-ia-com-cautela.html
 Breadcrumbs já existem em articles/de-robinhood-ao-espaco-a-revolucao-energetica-de-baiju-bhatt-com-a-aetherflux.html
 Processado: de-robinhood-ao-espaco-a-revolucao-energetica-de-baiju-bhatt-com-a-aetherflux.html
+Breadcrumbs já existem em articles/anuncios-na-alexa-a-nova-estrategia-da-amazon-para-monetizar-a-ia.html
+Processado: anuncios-na-alexa-a-nova-estrategia-da-amazon-para-monetizar-a-ia.html
 Breadcrumbs já existem em articles/nvidia-e-china-a-troca-de-chips-h20-por-terras-raras-na-guerra-fria-tecnologica.html
 Processado: nvidia-e-china-a-troca-de-chips-h20-por-terras-raras-na-guerra-fria-tecnologica.html
 Breadcrumbs já existem em articles/amazon-adquire-bee-a-revolucao-da-ia-vestivel-ou-um-pesadelo-de-privacidade.html
@@ -843,6 +845,8 @@ Breadcrumbs já existem em articles/TechCrunch-All-Stage-Desconto-Final-para-Imp
 Processado: TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
 Breadcrumbs já existem em articles/techcrunch-disrupt-2025-o-manual-definitivo-para-ipo-e-crescimento-de-startups.html
 Processado: techcrunch-disrupt-2025-o-manual-definitivo-para-ipo-e-crescimento-de-startups.html
+Breadcrumbs já existem em articles/pagamento-com-a-palma-da-mao-handwave-desafia-o-dominio-da-amazon-na-europa.html
+Processado: pagamento-com-a-palma-da-mao-handwave-desafia-o-dominio-da-amazon-na-europa.html
 Breadcrumbs já existem em articles/ctgt-vence-premio-no-vb-transform-2025-e-sinaliza-o-fim-das-apresentacoes-comuns.html
 Processado: ctgt-vence-premio-no-vb-transform-2025-e-sinaliza-o-fim-das-apresentacoes-comuns.html
 Breadcrumbs já existem em articles/trafego-de-ia-a-revolucao-silenciosa-que-cresceu-357-em-um-ano.html
@@ -867,6 +871,8 @@ Breadcrumbs já existem em articles/chatgpt-25-bilhoes-de-prompts-diarios-sinali
 Processado: chatgpt-25-bilhoes-de-prompts-diarios-sinalizam-nova-era-da-internet.html
 Breadcrumbs já existem em articles/o-magico-de-oz-com-ia-na-sphere-a-revolucao-de-um-classico-do-cinema.html
 Processado: o-magico-de-oz-com-ia-na-sphere-a-revolucao-de-um-classico-do-cinema.html
+Breadcrumbs já existem em articles/privacidade-no-chatgpt-a-crise-do-vazamento-de-conversas-no-google.html
+Processado: privacidade-no-chatgpt-a-crise-do-vazamento-de-conversas-no-google.html
 Breadcrumbs já existem em articles/ia-na-terapia-a-promessa-de-ajuda-e-o-risco-oculto-revelado-por-stanford.html
 Processado: ia-na-terapia-a-promessa-de-ajuda-e-o-risco-oculto-revelado-por-stanford.html
 Breadcrumbs já existem em articles/nuvem-quantica-chance-trilionaria-riscos-iminentes.html
@@ -1669,6 +1675,7 @@ Artigos relacionados adicionados com sucesso em articles/spotify-lossless-codigo
 Artigos relacionados adicionados com sucesso em articles/captacao-serie-c-cathy-gao-detalha-novas-regras-no-techcrunch-all-stage.html
 Artigos relacionados adicionados com sucesso em articles/ios-26-beta-4-apple-ajusta-liquid-glass-e-retoma-ia-com-cautela.html
 Artigos relacionados adicionados com sucesso em articles/de-robinhood-ao-espaco-a-revolucao-energetica-de-baiju-bhatt-com-a-aetherflux.html
+Artigos relacionados adicionados com sucesso em articles/anuncios-na-alexa-a-nova-estrategia-da-amazon-para-monetizar-a-ia.html
 Artigos relacionados adicionados com sucesso em articles/nvidia-e-china-a-troca-de-chips-h20-por-terras-raras-na-guerra-fria-tecnologica.html
 Artigos relacionados adicionados com sucesso em articles/amazon-adquire-bee-a-revolucao-da-ia-vestivel-ou-um-pesadelo-de-privacidade.html
 Artigos relacionados adicionados com sucesso em articles/ia-na-empresa-como-otimizar-custos-de-computacao-sem-frear-a-inovacao.html
@@ -1799,6 +1806,7 @@ Artigos relacionados adicionados com sucesso em articles/synthflow-ai-decifrando
 Artigos relacionados adicionados com sucesso em articles/de-garafunhos-a-us-28-milhoes-a-revolucao-da-conversion-em-automacao-de-marketing-com-ia.html
 Artigos relacionados adicionados com sucesso em articles/TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
 Artigos relacionados adicionados com sucesso em articles/techcrunch-disrupt-2025-o-manual-definitivo-para-ipo-e-crescimento-de-startups.html
+Artigos relacionados adicionados com sucesso em articles/pagamento-com-a-palma-da-mao-handwave-desafia-o-dominio-da-amazon-na-europa.html
 Artigos relacionados adicionados com sucesso em articles/ctgt-vence-premio-no-vb-transform-2025-e-sinaliza-o-fim-das-apresentacoes-comuns.html
 Artigos relacionados adicionados com sucesso em articles/trafego-de-ia-a-revolucao-silenciosa-que-cresceu-357-em-um-ano.html
 Artigos relacionados adicionados com sucesso em articles/fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
@@ -1811,6 +1819,7 @@ Artigos relacionados adicionados com sucesso em articles/uber-acelera-dominio-au
 Artigos relacionados adicionados com sucesso em articles/google-veo-3-transforme-imagens-em-videos-com-a-nova-ia-do-gemini.html
 Artigos relacionados adicionados com sucesso em articles/chatgpt-25-bilhoes-de-prompts-diarios-sinalizam-nova-era-da-internet.html
 Artigos relacionados adicionados com sucesso em articles/o-magico-de-oz-com-ia-na-sphere-a-revolucao-de-um-classico-do-cinema.html
+Artigos relacionados adicionados com sucesso em articles/privacidade-no-chatgpt-a-crise-do-vazamento-de-conversas-no-google.html
 Artigos relacionados adicionados com sucesso em articles/ia-na-terapia-a-promessa-de-ajuda-e-o-risco-oculto-revelado-por-stanford.html
 Artigos relacionados adicionados com sucesso em articles/nuvem-quantica-chance-trilionaria-riscos-iminentes.html
 Artigos relacionados adicionados com sucesso em articles/startup-de-uma-pessoa-so-sonho-bilionario-ou-ilusao-ceo-da-windsurf-pondera.html
@@ -2065,7 +2074,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 203 artigos à seção de últimas notícias
+Adicionados 206 artigos à seção de últimas notícias
 Adicionadas 55 categorias
-Adicionadas 1251 tags
-Sitemap atualizado com 27604 URLs
+Adicionadas 1256 tags
+Sitemap atualizado com 28295 URLs

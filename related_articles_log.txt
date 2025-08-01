@@ -294,6 +294,7 @@
   ✓ captacao-serie-c-cathy-gao-detalha-novas-regras-no-techcrunch-all-stage.html
   ✓ ios-26-beta-4-apple-ajusta-liquid-glass-e-retoma-ia-com-cautela.html
   ✓ de-robinhood-ao-espaco-a-revolucao-energetica-de-baiju-bhatt-com-a-aetherflux.html
+  ✓ anuncios-na-alexa-a-nova-estrategia-da-amazon-para-monetizar-a-ia.html
   ✓ nvidia-e-china-a-troca-de-chips-h20-por-terras-raras-na-guerra-fria-tecnologica.html
   ✓ amazon-adquire-bee-a-revolucao-da-ia-vestivel-ou-um-pesadelo-de-privacidade.html
   ✓ ia-na-empresa-como-otimizar-custos-de-computacao-sem-frear-a-inovacao.html
@@ -424,6 +425,7 @@
   ✓ de-garafunhos-a-us-28-milhoes-a-revolucao-da-conversion-em-automacao-de-marketing-com-ia.html
   ✓ TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
   ✓ techcrunch-disrupt-2025-o-manual-definitivo-para-ipo-e-crescimento-de-startups.html
+  ✓ pagamento-com-a-palma-da-mao-handwave-desafia-o-dominio-da-amazon-na-europa.html
   ✓ ctgt-vence-premio-no-vb-transform-2025-e-sinaliza-o-fim-das-apresentacoes-comuns.html
   ✓ trafego-de-ia-a-revolucao-silenciosa-que-cresceu-357-em-um-ano.html
   ✓ fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
@@ -436,6 +438,7 @@
   ✓ google-veo-3-transforme-imagens-em-videos-com-a-nova-ia-do-gemini.html
   ✓ chatgpt-25-bilhoes-de-prompts-diarios-sinalizam-nova-era-da-internet.html
   ✓ o-magico-de-oz-com-ia-na-sphere-a-revolucao-de-um-classico-do-cinema.html
+  ✓ privacidade-no-chatgpt-a-crise-do-vazamento-de-conversas-no-google.html
   ✓ ia-na-terapia-a-promessa-de-ajuda-e-o-risco-oculto-revelado-por-stanford.html
   ✓ nuvem-quantica-chance-trilionaria-riscos-iminentes.html
   ✓ startup-de-uma-pessoa-so-sonho-bilionario-ou-ilusao-ceo-da-windsurf-pondera.html
@@ -691,7 +694,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 687
+📊 Total de artigos processados: 690
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -987,6 +990,7 @@
 ✅ Artigos relacionados adicionados em captacao-serie-c-cathy-gao-detalha-novas-regras-no-techcrunch-all-stage.html
 ✅ Artigos relacionados adicionados em ios-26-beta-4-apple-ajusta-liquid-glass-e-retoma-ia-com-cautela.html
 ✅ Artigos relacionados adicionados em de-robinhood-ao-espaco-a-revolucao-energetica-de-baiju-bhatt-com-a-aetherflux.html
+✅ Artigos relacionados adicionados em anuncios-na-alexa-a-nova-estrategia-da-amazon-para-monetizar-a-ia.html
 ✅ Artigos relacionados adicionados em nvidia-e-china-a-troca-de-chips-h20-por-terras-raras-na-guerra-fria-tecnologica.html
 ✅ Artigos relacionados adicionados em amazon-adquire-bee-a-revolucao-da-ia-vestivel-ou-um-pesadelo-de-privacidade.html
 ✅ Artigos relacionados adicionados em ia-na-empresa-como-otimizar-custos-de-computacao-sem-frear-a-inovacao.html
@@ -1117,6 +1121,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em de-garafunhos-a-us-28-milhoes-a-revolucao-da-conversion-em-automacao-de-marketing-com-ia.html
 ✅ Artigos relacionados adicionados em TechCrunch-All-Stage-Desconto-Final-para-Impulsionar-Sua-Startup-em-Boston.html
 ✅ Artigos relacionados adicionados em techcrunch-disrupt-2025-o-manual-definitivo-para-ipo-e-crescimento-de-startups.html
+✅ Artigos relacionados adicionados em pagamento-com-a-palma-da-mao-handwave-desafia-o-dominio-da-amazon-na-europa.html
 ✅ Artigos relacionados adicionados em ctgt-vence-premio-no-vb-transform-2025-e-sinaliza-o-fim-das-apresentacoes-comuns.html
 ✅ Artigos relacionados adicionados em trafego-de-ia-a-revolucao-silenciosa-que-cresceu-357-em-um-ano.html
 ✅ Artigos relacionados adicionados em fadiga-de-autenticacao-a-ameaca-silenciosa-por-tras-do-roubo-de-identidade.html
@@ -1129,6 +1134,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em google-veo-3-transforme-imagens-em-videos-com-a-nova-ia-do-gemini.html
 ✅ Artigos relacionados adicionados em chatgpt-25-bilhoes-de-prompts-diarios-sinalizam-nova-era-da-internet.html
 ✅ Artigos relacionados adicionados em o-magico-de-oz-com-ia-na-sphere-a-revolucao-de-um-classico-do-cinema.html
+✅ Artigos relacionados adicionados em privacidade-no-chatgpt-a-crise-do-vazamento-de-conversas-no-google.html
 ✅ Artigos relacionados adicionados em ia-na-terapia-a-promessa-de-ajuda-e-o-risco-oculto-revelado-por-stanford.html
 ✅ Artigos relacionados adicionados em nuvem-quantica-chance-trilionaria-riscos-iminentes.html
 ✅ Artigos relacionados adicionados em startup-de-uma-pessoa-so-sonho-bilionario-ou-ilusao-ceo-da-windsurf-pondera.html
