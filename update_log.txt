@@ -366,6 +366,8 @@ Breadcrumbs já existem em articles/ia-para-carros-autonomos-wayve-redefine-o-fu
 Processado: ia-para-carros-autonomos-wayve-redefine-o-futuro-no-techcrunch-disrupt-2025.html
 Breadcrumbs já existem em articles/financiamento-de-startups-bilhoes-em-jogo-e-o-dominio-da-ia.html
 Processado: financiamento-de-startups-bilhoes-em-jogo-e-o-dominio-da-ia.html
+Breadcrumbs já existem em articles/apple-e-ia-tim-cook-declara-que-a-empresa-precisa-vencer-na-nova-corrida-tecnologica.html
+Processado: apple-e-ia-tim-cook-declara-que-a-empresa-precisa-vencer-na-nova-corrida-tecnologica.html
 Breadcrumbs já existem em articles/apple-wallet-anuncio-do-filme-f1-irrita-usuarios-de-iphone.html
 Processado: apple-wallet-anuncio-do-filme-f1-irrita-usuarios-de-iphone.html
 Breadcrumbs já existem em articles/techcrunch-disrupt-2025-a-voz-da-comunidade-elege-os-vencedores-do-audience-choice.html
@@ -841,6 +843,8 @@ Breadcrumbs já existem em articles/estrategia-de-ia-de-trump-crescimento-agress
 Processado: estrategia-de-ia-de-trump-crescimento-agressivo-para-superar-a-china.html
 Breadcrumbs já existem em articles/ia-grok-e-o-antissemitismo-tecnologia-ou-reflexo-de-seu-criador.html
 Processado: ia-grok-e-o-antissemitismo-tecnologia-ou-reflexo-de-seu-criador.html
+Breadcrumbs já existem em articles/guerra-de-ias-anthropic-bloqueia-acesso-da-openai-ao-modelo-claude.html
+Processado: guerra-de-ias-anthropic-bloqueia-acesso-da-openai-ao-modelo-claude.html
 Breadcrumbs já existem em articles/ferramentas-de-ia-atrasam-desenvolvedores-estudo-chocante-questiona-a-produtividade.html
 Processado: ferramentas-de-ia-atrasam-desenvolvedores-estudo-chocante-questiona-a-produtividade.html
 Breadcrumbs já existem em articles/ecossistemas-de-ia-por-que-a-observabilidade-e-a-chave-para-o-futuro-autonomo.html
@@ -1218,6 +1222,8 @@ Breadcrumbs já existem em articles/claude-ia-crie-apps-sem-codigo-apenas-com-pr
 Processado: claude-ia-crie-apps-sem-codigo-apenas-com-prompts.html
 Breadcrumbs já existem em articles/agentes-de-ia-a-verdade-sobre-a-autonomia-e-o-poder-dos-problemas-delimitados.html
 Processado: agentes-de-ia-a-verdade-sobre-a-autonomia-e-o-poder-dos-problemas-delimitados.html
+Breadcrumbs já existem em articles/serie-c-de-investimento-o-guia-definitivo-para-fundadores-em-2025.html
+Processado: serie-c-de-investimento-o-guia-definitivo-para-fundadores-em-2025.html
 Breadcrumbs já existem em articles/gemini-deep-think-a-nova-ia-do-google-que-pensa-em-paralelo.html
 Processado: gemini-deep-think-a-nova-ia-do-google-que-pensa-em-paralelo.html
 Breadcrumbs já existem em articles/franca-sob-alerta-plataforma-x-investigada-por-interferencia-e-ia-grok-criticada.html
@@ -1598,6 +1604,7 @@ Artigos relacionados adicionados com sucesso em articles/robotaxi-tesla-em-austi
 Artigos relacionados adicionados com sucesso em articles/hardware-de-ia-o-futuro-pos-humanoides-e-veiculos-autonomos-revelado-na-disrupt-2025.html
 Artigos relacionados adicionados com sucesso em articles/ia-para-carros-autonomos-wayve-redefine-o-futuro-no-techcrunch-disrupt-2025.html
 Artigos relacionados adicionados com sucesso em articles/financiamento-de-startups-bilhoes-em-jogo-e-o-dominio-da-ia.html
+Artigos relacionados adicionados com sucesso em articles/apple-e-ia-tim-cook-declara-que-a-empresa-precisa-vencer-na-nova-corrida-tecnologica.html
 Artigos relacionados adicionados com sucesso em articles/apple-wallet-anuncio-do-filme-f1-irrita-usuarios-de-iphone.html
 Artigos relacionados adicionados com sucesso em articles/techcrunch-disrupt-2025-a-voz-da-comunidade-elege-os-vencedores-do-audience-choice.html
 Artigos relacionados adicionados com sucesso em articles/adobe-memoria-longa-em-ia-de-video-com-modelos-state-space.html
@@ -1836,6 +1843,7 @@ Artigos relacionados adicionados com sucesso em articles/abridge-ia-medica-dispa
 Artigos relacionados adicionados com sucesso em articles/roi-em-ia-por-que-os-cfos-exigem-metricas-reais-e-nao-apenas-demos.html
 Artigos relacionados adicionados com sucesso em articles/estrategia-de-ia-de-trump-crescimento-agressivo-para-superar-a-china.html
 Artigos relacionados adicionados com sucesso em articles/ia-grok-e-o-antissemitismo-tecnologia-ou-reflexo-de-seu-criador.html
+Artigos relacionados adicionados com sucesso em articles/guerra-de-ias-anthropic-bloqueia-acesso-da-openai-ao-modelo-claude.html
 Artigos relacionados adicionados com sucesso em articles/ferramentas-de-ia-atrasam-desenvolvedores-estudo-chocante-questiona-a-produtividade.html
 Artigos relacionados adicionados com sucesso em articles/ecossistemas-de-ia-por-que-a-observabilidade-e-a-chave-para-o-futuro-autonomo.html
 Artigos relacionados adicionados com sucesso em articles/harvey-ai-atinge-us5b-crescimento-explosivo-na-ia-juridica.html
@@ -2025,6 +2033,7 @@ Artigos relacionados adicionados com sucesso em articles/meta-e-o-fair-use-juiz-
 Artigos relacionados adicionados com sucesso em articles/meta-sinaliza-fim-do-codigo-aberto-total-para-sua-superinteligencia-de-ia.html
 Artigos relacionados adicionados com sucesso em articles/claude-ia-crie-apps-sem-codigo-apenas-com-prompts.html
 Artigos relacionados adicionados com sucesso em articles/agentes-de-ia-a-verdade-sobre-a-autonomia-e-o-poder-dos-problemas-delimitados.html
+Artigos relacionados adicionados com sucesso em articles/serie-c-de-investimento-o-guia-definitivo-para-fundadores-em-2025.html
 Artigos relacionados adicionados com sucesso em articles/gemini-deep-think-a-nova-ia-do-google-que-pensa-em-paralelo.html
 Artigos relacionados adicionados com sucesso em articles/franca-sob-alerta-plataforma-x-investigada-por-interferencia-e-ia-grok-criticada.html
 Artigos relacionados adicionados com sucesso em articles/producao-adaptativa-a-revolucao-das-fabricas-inteligentes-com-ia.html
@@ -2122,7 +2131,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 211 artigos à seção de últimas notícias
+Adicionados 204 artigos à seção de últimas notícias
 Adicionadas 56 categorias
 Adicionadas 1275 tags
-Sitemap atualizado com 29709 URLs
+Sitemap atualizado com 30419 URLs

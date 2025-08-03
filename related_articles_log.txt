@@ -185,6 +185,7 @@
   ✓ hardware-de-ia-o-futuro-pos-humanoides-e-veiculos-autonomos-revelado-na-disrupt-2025.html
   ✓ ia-para-carros-autonomos-wayve-redefine-o-futuro-no-techcrunch-disrupt-2025.html
   ✓ financiamento-de-startups-bilhoes-em-jogo-e-o-dominio-da-ia.html
+  ✓ apple-e-ia-tim-cook-declara-que-a-empresa-precisa-vencer-na-nova-corrida-tecnologica.html
   ✓ apple-wallet-anuncio-do-filme-f1-irrita-usuarios-de-iphone.html
   ✓ techcrunch-disrupt-2025-a-voz-da-comunidade-elege-os-vencedores-do-audience-choice.html
   ✓ adobe-memoria-longa-em-ia-de-video-com-modelos-state-space.html
@@ -423,6 +424,7 @@
   ✓ roi-em-ia-por-que-os-cfos-exigem-metricas-reais-e-nao-apenas-demos.html
   ✓ estrategia-de-ia-de-trump-crescimento-agressivo-para-superar-a-china.html
   ✓ ia-grok-e-o-antissemitismo-tecnologia-ou-reflexo-de-seu-criador.html
+  ✓ guerra-de-ias-anthropic-bloqueia-acesso-da-openai-ao-modelo-claude.html
   ✓ ferramentas-de-ia-atrasam-desenvolvedores-estudo-chocante-questiona-a-produtividade.html
   ✓ ecossistemas-de-ia-por-que-a-observabilidade-e-a-chave-para-o-futuro-autonomo.html
   ✓ harvey-ai-atinge-us5b-crescimento-explosivo-na-ia-juridica.html
@@ -612,6 +614,7 @@
   ✓ meta-sinaliza-fim-do-codigo-aberto-total-para-sua-superinteligencia-de-ia.html
   ✓ claude-ia-crie-apps-sem-codigo-apenas-com-prompts.html
   ✓ agentes-de-ia-a-verdade-sobre-a-autonomia-e-o-poder-dos-problemas-delimitados.html
+  ✓ serie-c-de-investimento-o-guia-definitivo-para-fundadores-em-2025.html
   ✓ gemini-deep-think-a-nova-ia-do-google-que-pensa-em-paralelo.html
   ✓ franca-sob-alerta-plataforma-x-investigada-por-interferencia-e-ia-grok-criticada.html
   ✓ producao-adaptativa-a-revolucao-das-fabricas-inteligentes-com-ia.html
@@ -710,7 +713,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 706
+📊 Total de artigos processados: 709
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -897,6 +900,7 @@
 ✅ Artigos relacionados adicionados em hardware-de-ia-o-futuro-pos-humanoides-e-veiculos-autonomos-revelado-na-disrupt-2025.html
 ✅ Artigos relacionados adicionados em ia-para-carros-autonomos-wayve-redefine-o-futuro-no-techcrunch-disrupt-2025.html
 ✅ Artigos relacionados adicionados em financiamento-de-startups-bilhoes-em-jogo-e-o-dominio-da-ia.html
+✅ Artigos relacionados adicionados em apple-e-ia-tim-cook-declara-que-a-empresa-precisa-vencer-na-nova-corrida-tecnologica.html
 ✅ Artigos relacionados adicionados em apple-wallet-anuncio-do-filme-f1-irrita-usuarios-de-iphone.html
 ✅ Artigos relacionados adicionados em techcrunch-disrupt-2025-a-voz-da-comunidade-elege-os-vencedores-do-audience-choice.html
 ✅ Artigos relacionados adicionados em adobe-memoria-longa-em-ia-de-video-com-modelos-state-space.html
@@ -1135,6 +1139,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em roi-em-ia-por-que-os-cfos-exigem-metricas-reais-e-nao-apenas-demos.html
 ✅ Artigos relacionados adicionados em estrategia-de-ia-de-trump-crescimento-agressivo-para-superar-a-china.html
 ✅ Artigos relacionados adicionados em ia-grok-e-o-antissemitismo-tecnologia-ou-reflexo-de-seu-criador.html
+✅ Artigos relacionados adicionados em guerra-de-ias-anthropic-bloqueia-acesso-da-openai-ao-modelo-claude.html
 ✅ Artigos relacionados adicionados em ferramentas-de-ia-atrasam-desenvolvedores-estudo-chocante-questiona-a-produtividade.html
 ✅ Artigos relacionados adicionados em ecossistemas-de-ia-por-que-a-observabilidade-e-a-chave-para-o-futuro-autonomo.html
 ✅ Artigos relacionados adicionados em harvey-ai-atinge-us5b-crescimento-explosivo-na-ia-juridica.html
@@ -1324,6 +1329,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em meta-sinaliza-fim-do-codigo-aberto-total-para-sua-superinteligencia-de-ia.html
 ✅ Artigos relacionados adicionados em claude-ia-crie-apps-sem-codigo-apenas-com-prompts.html
 ✅ Artigos relacionados adicionados em agentes-de-ia-a-verdade-sobre-a-autonomia-e-o-poder-dos-problemas-delimitados.html
+✅ Artigos relacionados adicionados em serie-c-de-investimento-o-guia-definitivo-para-fundadores-em-2025.html
 ✅ Artigos relacionados adicionados em gemini-deep-think-a-nova-ia-do-google-que-pensa-em-paralelo.html
 ✅ Artigos relacionados adicionados em franca-sob-alerta-plataforma-x-investigada-por-interferencia-e-ia-grok-criticada.html
 ✅ Artigos relacionados adicionados em producao-adaptativa-a-revolucao-das-fabricas-inteligentes-com-ia.html
