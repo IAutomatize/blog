@@ -298,6 +298,7 @@
   ✓ intuit-lanca-ia-que-acelera-pagamentos-em-5-dias-e-economiza-12-horas-mensais.html
   ✓ lucid-air-em-superchargers-tesla-acesso-garantido-mas-a-velocidade-e-o-preco-a-pagar.html
   ✓ ia-para-robotica-a-proxima-fronteira-para-luma-e-runway.html
+  ✓ o-dilema-da-ia-na-programacao-o-ganho-de-40-do-mailchimp-e-seu-custo-oculto.html
   ✓ openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
   ✓ o-futuro-da-ia-segura-startup-de-ex-anthropic-capta-us15-milhoes-para-criar-seguros-para-ia.html
   ✓ Cursor-AI-Plano-Ultra-US$200-Desafia-Mercado-de-Codificação-IA.html
@@ -550,6 +551,7 @@
   ✓ duckduckgo-declara-guerra-ao-lixo-de-ia-com-novo-filtro-de-imagens.html
   ✓ guerra-dos-modelos-de-embedding-google-lidera-mas-open-source-ameaca.html
   ✓ de-minerador-de-cripto-a-bilionario-da-ia-a-aposta-arriscada-da-coreweave.html
+  ✓ fintech-alaan-garante-us-48-milhoes-a-revolucao-da-ia-na-gestao-financeira-do-oriente-medio.html
   ✓ finom-garante-115m-e-acelera-expansao-fintech-para-pmes-na-europa-com-ia.html
   ✓ moonvalley-ia-o-gerador-de-video-etico-para-cineastas-chegou.html
   ✓ gemini-cli-google-libera-ia-de-ponta-gratuitamente-para-desenvolvedores-via-codigo-aberto.html
@@ -735,7 +737,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 731
+📊 Total de artigos processados: 733
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -1035,6 +1037,7 @@
 ✅ Artigos relacionados adicionados em intuit-lanca-ia-que-acelera-pagamentos-em-5-dias-e-economiza-12-horas-mensais.html
 ✅ Artigos relacionados adicionados em lucid-air-em-superchargers-tesla-acesso-garantido-mas-a-velocidade-e-o-preco-a-pagar.html
 ✅ Artigos relacionados adicionados em ia-para-robotica-a-proxima-fronteira-para-luma-e-runway.html
+✅ Artigos relacionados adicionados em o-dilema-da-ia-na-programacao-o-ganho-de-40-do-mailchimp-e-seu-custo-oculto.html
 ✅ Artigos relacionados adicionados em openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
 ✅ Artigos relacionados adicionados em o-futuro-da-ia-segura-startup-de-ex-anthropic-capta-us15-milhoes-para-criar-seguros-para-ia.html
 ✅ Artigos relacionados adicionados em Cursor-AI-Plano-Ultra-US$200-Desafia-Mercado-de-Codificação-IA.html
@@ -1287,6 +1290,7 @@ Seção de artigos relacionados não encontrada em articles/ia-agentica-da-intui
 ✅ Artigos relacionados adicionados em duckduckgo-declara-guerra-ao-lixo-de-ia-com-novo-filtro-de-imagens.html
 ✅ Artigos relacionados adicionados em guerra-dos-modelos-de-embedding-google-lidera-mas-open-source-ameaca.html
 ✅ Artigos relacionados adicionados em de-minerador-de-cripto-a-bilionario-da-ia-a-aposta-arriscada-da-coreweave.html
+✅ Artigos relacionados adicionados em fintech-alaan-garante-us-48-milhoes-a-revolucao-da-ia-na-gestao-financeira-do-oriente-medio.html
 ✅ Artigos relacionados adicionados em finom-garante-115m-e-acelera-expansao-fintech-para-pmes-na-europa-com-ia.html
 ✅ Artigos relacionados adicionados em moonvalley-ia-o-gerador-de-video-etico-para-cineastas-chegou.html
 ✅ Artigos relacionados adicionados em gemini-cli-google-libera-ia-de-ponta-gratuitamente-para-desenvolvedores-via-codigo-aberto.html

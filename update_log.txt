@@ -592,6 +592,8 @@ Breadcrumbs já existem em articles/lucid-air-em-superchargers-tesla-acesso-gara
 Processado: lucid-air-em-superchargers-tesla-acesso-garantido-mas-a-velocidade-e-o-preco-a-pagar.html
 Breadcrumbs já existem em articles/ia-para-robotica-a-proxima-fronteira-para-luma-e-runway.html
 Processado: ia-para-robotica-a-proxima-fronteira-para-luma-e-runway.html
+Breadcrumbs já existem em articles/o-dilema-da-ia-na-programacao-o-ganho-de-40-do-mailchimp-e-seu-custo-oculto.html
+Processado: o-dilema-da-ia-na-programacao-o-ganho-de-40-do-mailchimp-e-seu-custo-oculto.html
 Breadcrumbs já existem em articles/openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
 Processado: openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
 Breadcrumbs já existem em articles/o-futuro-da-ia-segura-startup-de-ex-anthropic-capta-us15-milhoes-para-criar-seguros-para-ia.html
@@ -1094,6 +1096,8 @@ Breadcrumbs já existem em articles/guerra-dos-modelos-de-embedding-google-lider
 Processado: guerra-dos-modelos-de-embedding-google-lidera-mas-open-source-ameaca.html
 Breadcrumbs já existem em articles/de-minerador-de-cripto-a-bilionario-da-ia-a-aposta-arriscada-da-coreweave.html
 Processado: de-minerador-de-cripto-a-bilionario-da-ia-a-aposta-arriscada-da-coreweave.html
+Breadcrumbs já existem em articles/fintech-alaan-garante-us-48-milhoes-a-revolucao-da-ia-na-gestao-financeira-do-oriente-medio.html
+Processado: fintech-alaan-garante-us-48-milhoes-a-revolucao-da-ia-na-gestao-financeira-do-oriente-medio.html
 Breadcrumbs já existem em articles/finom-garante-115m-e-acelera-expansao-fintech-para-pmes-na-europa-com-ia.html
 Processado: finom-garante-115m-e-acelera-expansao-fintech-para-pmes-na-europa-com-ia.html
 Breadcrumbs já existem em articles/moonvalley-ia-o-gerador-de-video-etico-para-cineastas-chegou.html
@@ -1761,6 +1765,7 @@ Artigos relacionados adicionados com sucesso em articles/agente-de-ia-da-openai-
 Artigos relacionados adicionados com sucesso em articles/intuit-lanca-ia-que-acelera-pagamentos-em-5-dias-e-economiza-12-horas-mensais.html
 Artigos relacionados adicionados com sucesso em articles/lucid-air-em-superchargers-tesla-acesso-garantido-mas-a-velocidade-e-o-preco-a-pagar.html
 Artigos relacionados adicionados com sucesso em articles/ia-para-robotica-a-proxima-fronteira-para-luma-e-runway.html
+Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-na-programacao-o-ganho-de-40-do-mailchimp-e-seu-custo-oculto.html
 Artigos relacionados adicionados com sucesso em articles/openai-rompe-com-scale-ai-impacto-do-acordo-com-meta-no-futuro-dos-provedores-de-dados-para-ia.html
 Artigos relacionados adicionados com sucesso em articles/o-futuro-da-ia-segura-startup-de-ex-anthropic-capta-us15-milhoes-para-criar-seguros-para-ia.html
 Artigos relacionados adicionados com sucesso em articles/Cursor-AI-Plano-Ultra-US$200-Desafia-Mercado-de-Codificação-IA.html
@@ -2013,6 +2018,7 @@ Artigos relacionados adicionados com sucesso em articles/meta-em-ofensiva-por-ta
 Artigos relacionados adicionados com sucesso em articles/duckduckgo-declara-guerra-ao-lixo-de-ia-com-novo-filtro-de-imagens.html
 Artigos relacionados adicionados com sucesso em articles/guerra-dos-modelos-de-embedding-google-lidera-mas-open-source-ameaca.html
 Artigos relacionados adicionados com sucesso em articles/de-minerador-de-cripto-a-bilionario-da-ia-a-aposta-arriscada-da-coreweave.html
+Artigos relacionados adicionados com sucesso em articles/fintech-alaan-garante-us-48-milhoes-a-revolucao-da-ia-na-gestao-financeira-do-oriente-medio.html
 Artigos relacionados adicionados com sucesso em articles/finom-garante-115m-e-acelera-expansao-fintech-para-pmes-na-europa-com-ia.html
 Artigos relacionados adicionados com sucesso em articles/moonvalley-ia-o-gerador-de-video-etico-para-cineastas-chegou.html
 Artigos relacionados adicionados com sucesso em articles/gemini-cli-google-libera-ia-de-ponta-gratuitamente-para-desenvolvedores-via-codigo-aberto.html
@@ -2197,7 +2203,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 212 artigos à seção de últimas notícias
+Adicionados 214 artigos à seção de últimas notícias
 Adicionadas 56 categorias
-Adicionadas 1302 tags
-Sitemap atualizado com 33293 URLs
+Adicionadas 1305 tags
+Sitemap atualizado com 34027 URLs
