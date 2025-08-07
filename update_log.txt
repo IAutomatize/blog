@@ -636,6 +636,8 @@ Breadcrumbs já existem em articles/shadow-ai-o-risco-invisivel-que-custa-us-670
 Processado: shadow-ai-o-risco-invisivel-que-custa-us-670-mil-em-vazamentos-de-dados.html
 Breadcrumbs já existem em articles/scale-ai-demite-14-e-sinaliza-crise-de-identidade-no-setor-de-ia.html
 Processado: scale-ai-demite-14-e-sinaliza-crise-de-identidade-no-setor-de-ia.html
+Breadcrumbs já existem em articles/ataque-a-ex-figura-da-doge-a-violencia-real-por-tras-da-riqueza-digital.html
+Processado: ataque-a-ex-figura-da-doge-a-violencia-real-por-tras-da-riqueza-digital.html
 Breadcrumbs já existem em articles/google-offerwall-a-solucao-para-a-crise-de-trafego-que-a-propria-ia-criou.html
 Processado: google-offerwall-a-solucao-para-a-crise-de-trafego-que-a-propria-ia-criou.html
 Breadcrumbs já existem em articles/agentes-de-ia-no-trabalho-como-manter-a-seguranca-dos-seus-sistemas.html
@@ -1871,6 +1873,7 @@ Artigos relacionados adicionados com sucesso em articles/Cursor-AI-Plano-Ultra-U
 Artigos relacionados adicionados com sucesso em articles/gemini-cli-google-revoluciona-o-terminal-com-ia-open-source.html
 Artigos relacionados adicionados com sucesso em articles/shadow-ai-o-risco-invisivel-que-custa-us-670-mil-em-vazamentos-de-dados.html
 Artigos relacionados adicionados com sucesso em articles/scale-ai-demite-14-e-sinaliza-crise-de-identidade-no-setor-de-ia.html
+Artigos relacionados adicionados com sucesso em articles/ataque-a-ex-figura-da-doge-a-violencia-real-por-tras-da-riqueza-digital.html
 Artigos relacionados adicionados com sucesso em articles/google-offerwall-a-solucao-para-a-crise-de-trafego-que-a-propria-ia-criou.html
 Artigos relacionados adicionados com sucesso em articles/agentes-de-ia-no-trabalho-como-manter-a-seguranca-dos-seus-sistemas.html
 Artigos relacionados adicionados com sucesso em articles/ia-no-setor-automotivo-a-revolucao-agentiva-da-capital-one.html
@@ -2329,7 +2332,7 @@ Artigos relacionados adicionados com sucesso em articles/notebooklm-a-revolucao-
 Artigos relacionados adicionados com sucesso em articles/ia-agentica-o-segredo-da-atlassian-para-inovar-com-experimentacao.html
 Artigos relacionados adicionados com sucesso em articles/o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
 Artigos relacionados adicionados com sucesso em articles/Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
-Adicionados 240 artigos à seção de últimas notícias
-Adicionadas 57 categorias
-Adicionadas 1367 tags
-Sitemap atualizado com 35558 URLs
+Adicionados 241 artigos à seção de últimas notícias
+Adicionadas 58 categorias
+Adicionadas 1369 tags
+Sitemap atualizado com 36335 URLs

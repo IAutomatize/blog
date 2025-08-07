@@ -320,6 +320,7 @@
   ✓ gemini-cli-google-revoluciona-o-terminal-com-ia-open-source.html
   ✓ shadow-ai-o-risco-invisivel-que-custa-us-670-mil-em-vazamentos-de-dados.html
   ✓ scale-ai-demite-14-e-sinaliza-crise-de-identidade-no-setor-de-ia.html
+  ✓ ataque-a-ex-figura-da-doge-a-violencia-real-por-tras-da-riqueza-digital.html
   ✓ google-offerwall-a-solucao-para-a-crise-de-trafego-que-a-propria-ia-criou.html
   ✓ agentes-de-ia-no-trabalho-como-manter-a-seguranca-dos-seus-sistemas.html
   ✓ ia-no-setor-automotivo-a-revolucao-agentiva-da-capital-one.html
@@ -779,7 +780,7 @@
   ✓ o-dilema-da-ia-por-que-setores-regulados-temem-a-revolucao-dos-agentes-abertos.html
   ✓ Marinha-EUA-e-Startups-Nova-Era-de-Parceria-e-Inovação.html
 
-📊 Total de artigos processados: 775
+📊 Total de artigos processados: 776
 
 🔗 Adicionando artigos relacionados...
 ✅ Artigos relacionados adicionados em lei-de-ia-da-ue-bruxelas-mantem-cronograma-e-desafia-gigantes-da-tecnologia.html
@@ -1101,6 +1102,7 @@
 ✅ Artigos relacionados adicionados em gemini-cli-google-revoluciona-o-terminal-com-ia-open-source.html
 ✅ Artigos relacionados adicionados em shadow-ai-o-risco-invisivel-que-custa-us-670-mil-em-vazamentos-de-dados.html
 ✅ Artigos relacionados adicionados em scale-ai-demite-14-e-sinaliza-crise-de-identidade-no-setor-de-ia.html
+✅ Artigos relacionados adicionados em ataque-a-ex-figura-da-doge-a-violencia-real-por-tras-da-riqueza-digital.html
 ✅ Artigos relacionados adicionados em google-offerwall-a-solucao-para-a-crise-de-trafego-que-a-propria-ia-criou.html
 ✅ Artigos relacionados adicionados em agentes-de-ia-no-trabalho-como-manter-a-seguranca-dos-seus-sistemas.html
 ✅ Artigos relacionados adicionados em ia-no-setor-automotivo-a-revolucao-agentiva-da-capital-one.html
